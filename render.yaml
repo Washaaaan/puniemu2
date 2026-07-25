@@ -1,0 +1,35 @@
+services:
+  - type: web
+    name: puniemu
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: starter
+    envVars:
+      - key: PostgresConnectionString
+        value: ""
+        sync: true
+      - key: SupabaseKey
+        value: ""
+        sync: true
+      - key: SupabaseURL
+        value: ""
+        sync: true
+      - key: IsWibWob
+        value: "false"
+      - key: DataDownloadURL
+        value: "0"
+      - key: MaxConnections
+        value: "1500"
+      - key: MaxCachedAccounts
+        value: "2000"
+      - key: GameVersion
+        value: "1.0.0"
+      - key: ServerName
+        value: "Puniemu"
+      - key: EmailForAuthMessages
+        value: ""
+      - key: AppPasswordForAuthMessages
+        value: ""
+    healthCheckPath: /init.nhn
+    autoDeploy: true
+    branch: master

@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  puniemu:
+    build: .
+    environment:
+      # Set this to your existing Postgres connection string
+      - PostgresConnectionString=Host=postgres-host;Database=puniemu;Username=postgres;Password=example
+      - PORT=8080
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
