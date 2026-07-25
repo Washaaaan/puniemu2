@@ -148,10 +148,6 @@ class Program
                 return;
             }
 
-            string storageRoot = Path.Combine(Directory.GetCurrentDirectory(), "dataDownload");
-
-            string fullPath = Path.GetFullPath(Path.Combine(storageRoot, filePath));
-
             if (!fullPath.StartsWith(storageRoot, StringComparison.OrdinalIgnoreCase) || !File.Exists(fullPath))
             {
                 ctx.Response.StatusCode = 404;
