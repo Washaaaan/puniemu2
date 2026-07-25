@@ -67,7 +67,7 @@ using Puniemu.Src.Server.GameServer.Requests.EvolveYoukai.Logic;
 namespace Puniemu.Src;
 class Program
 {
-    static void Main(string[] args)
+    static async Task Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
 
