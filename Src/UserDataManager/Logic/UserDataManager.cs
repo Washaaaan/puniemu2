@@ -144,12 +144,30 @@ namespace Puniemu.Src.UserDataManager.Logic
         // checks if udkey exists
         public static async Task<bool> IsDeviceExists(string udkey)
         {
-            var response = await SupabaseClient!
-                .From<Device>()
-                .Where(d => d.UdKey == udkey)
-                .Count(Supabase.Postgrest.Constants.CountType.Exact);
+            try
+            {
+                var response = await SupabaseClient!
+                    .From<Device>()
+                    .Where(d => d.UdKey == udkey)
+                    .Count(Supabase.Postgrest.Constants.CountType.Exact);
 
-            return response > 0;
+                return response > 0;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("=== EXCEPTION DETAIL START ===");
+                Console.WriteLine($"Type: {ex.GetType().FullName}");
+                Console.WriteLine($"Message: {ex.Message}");
+                Console.WriteLine($"ToString: {ex.ToString()}");
+                if (ex is Supabase.Postgrest.Exceptions.PostgrestException pex)
+                {
+                    Console.WriteLine($"Content: {pex.Content}");
+                    Console.WriteLine($"Reason: {pex.Reason}");
+                    Console.WriteLine($"StatusCode: {pex.StatusCode}");
+                }
+                Console.WriteLine("=== EXCEPTION DETAIL END ===");
+                throw;
+            }
         }
 
         // returns the gdkey of the newly created account
