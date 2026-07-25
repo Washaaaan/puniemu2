@@ -32,6 +32,9 @@ namespace Puniemu.Src.Server.GameServer.Requests.Init.Logic
             try
             {
                 decrypted = NHNCrypt.Logic.NHNCrypt.DecryptRequest(requestStr);
+                Console.WriteLine("===== INIT REQUEST =====");
+                Console.WriteLine(decrypted);
+                Console.WriteLine("========================");
             }
             catch
             {
@@ -61,6 +64,11 @@ namespace Puniemu.Src.Server.GameServer.Requests.Init.Logic
                 {
                     var response = new InitResponse();
                     var jsonRes = JsonConvert.SerializeObject(response);
+                    // Imprimir lo que realmente se envía al cliente
+                    Console.WriteLine("===== INIT RESPONSE =====");
+                    Console.WriteLine(jsonRes);
+                    Console.WriteLine("=========================");
+
                     var encrypted = NHNCrypt.Logic.NHNCrypt.EncryptResponse(jsonRes);
                     await ctx.Response.WriteAsync(encrypted);
                 }
