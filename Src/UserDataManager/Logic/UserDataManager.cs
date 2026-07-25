@@ -29,7 +29,7 @@ namespace Puniemu.Src.UserDataManager.Logic
         private static CancellationTokenSource _cts = new();
 
         // connect to supabase
-        public static void Initialize()
+        public static async Task Initialize()
         {
             try
             {
@@ -38,7 +38,8 @@ namespace Puniemu.Src.UserDataManager.Logic
                 {
                     AutoRefreshToken = true,
                 });
-
+                
+                await SupabaseClient.Initialize();
                 // Start the 5-minute background flush loop
                 _flushTimer = new PeriodicTimer(TimeSpan.FromMinutes(5));
                 _flushTask = FlushLoopAsync(_cts.Token);

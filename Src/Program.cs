@@ -85,7 +85,7 @@ class Program
         app.UseRewriter(rewriteOptions);
 
         //Init database connection
-        UserDataManager.Logic.UserDataManager.Initialize();
+        await UserDataManager.Logic.UserDataManager.Initialize();
 
         //Add shutdown async from userdatadb
         app.Lifetime.ApplicationStopping.Register(() =>
