@@ -132,6 +132,13 @@ class Program
     {
         app.MapGet("/eal/{*filePath}", async (HttpContext ctx, string filePath) =>
         {
+            Console.WriteLine($"GET /eal/{filePath}");
+
+            string storageRoot = Path.Combine(Directory.GetCurrentDirectory(), "dataDownload");
+            string fullPath = Path.GetFullPath(Path.Combine(storageRoot, filePath));
+
+            Console.WriteLine($"Ruta: {fullPath}");
+            Console.WriteLine($"Existe: {File.Exists(fullPath)}");
             Console.WriteLine(filePath);
 
             if (string.IsNullOrEmpty(filePath))
