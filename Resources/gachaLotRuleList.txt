@@ -1,0 +1,1 @@
+[{"flashType": 3, "imageNameList": "gacha_text_headline03_12.png|gacha_text_headline03_18.png", "remainCnt": 0, "gachaId": 39030}]

@@ -1,0 +1,133 @@
+{
+  "state": 0,
+  "stateMessage": "",
+  "loginable": "Y",
+  "playable": "Y",
+  "currentTime": 1714060800000,
+  "heartBeatInterval": 60,
+  "cacheTTLSec": 300,
+  "brandType": "TOASTGAME",
+  "serviceDomain": "TOASTGAME",
+
+  "serverInfos": {
+    "LOGIN":             "http://youtube.com",
+    "GAMESVR":           "http://youtube.com",
+    "CS":                "http://youtube.com",
+    "NOTICE":            "http://youtube.com",
+    "IMAGE":             "http://youtube.com",
+    "IMAGE_RESIZE":      "http://youtube.com",
+    "MFS":               "http://youtube.com",
+    "LCS":               "http://youtube.com",
+    "NOMAD":             "http://youtube.com",
+    "PHOTO":             "http://youtube.com",
+    "SILOS":             "http://youtube.com",
+    "GAME_PLUS":         "http://youtube.com",
+    "GAME_INDICATOR_BIP":"http://youtube.com",
+    "RTA_BIP":           "http://youtube.com",
+    "STABILITY_BIP":     "http://youtube.com"
+  },
+
+  "loginUrl": {
+    "hangameLoginUrl_JP":  "http://youtube.com",
+    "hangamejp":           "http://youtube.com",
+    "hangameOAuthUrl":     "http://youtube.com/authorize.nhn",
+    "hangameEmailOAuthUrl":"http://youtube.com/egm/login.nhn"
+  },
+
+  "userAuthentication": {
+    "checkAuthUrl": "http://youtube.com/hsp/checkAuth.nhn",
+    "reAuthUrl":    "http://youtube.com/hsp/reAuth.nhn"
+  },
+
+  "idpInfo": {
+    "hangame": {
+      "selected": "Y",
+      "loginable": "Y",
+      "consumerKey": "DUMMY_KEY",
+      "consumerSecret": "DUMMY_SECRET",
+      "redirectionUrl": "http://youtube.com"
+    },
+    "hangamejp": {
+      "selected": "Y",
+      "loginable": "Y",
+      "consumerKey": "DUMMY_KEY",
+      "consumerSecret": "DUMMY_SECRET",
+      "redirectionUrl": "http://youtube.com"
+    },
+    "google": {
+      "selected": "Y",
+      "loginable": "Y",
+      "consumerKey": "DUMMY_KEY",
+      "consumerSecret": "DUMMY_SECRET",
+      "redirectionUrl": "http://youtube.com"
+    },
+    "facebook": {
+      "selected": "N",
+      "loginable": "N",
+      "consumerKey": "DUMMY_KEY",
+      "consumerSecret": "DUMMY_SECRET",
+      "redirectionUrl": "http://www.facebook.com"
+    },
+    "gree": {
+      "selected": "N",
+      "loginable": "N",
+      "consumerKey": "",
+      "consumerSecret": "",
+      "redirectionUrl": ""
+    }
+  },
+
+  "sns": {
+    "facebook": {
+      "consumerKey":    "DUMMY_FB_KEY",
+      "consumerSecret": "DUMMY_FB_SECRET",
+      "redirectionUrl": "http://youtube.com"
+    }
+  },
+
+  "lncNotices": [
+    {
+      "noticeText": "HSP IS WEIRD",
+      "noticeTitle": "You will be redirected to Minecraft's official website!",
+      "infoUrl": "https://minecraft.net"
+    }
+  ],
+
+  "serviceInfo": {
+    "maxRankingSize": 100
+  },
+
+  "clientAttributes": {
+    "ENFORCED_IDP_LOGIN": "N",
+    "HOLD_IDP_LOGIN":     "N"
+  },
+
+  "payment": {
+    "selected": "Y"
+  },
+
+  "logncrash": {
+    "appKey":   "DUMMY_APPKEY",
+    "logLevel": "ERROR",
+    "logtype":  "NELO2"
+  },
+
+  "stabilityStatus": "Y",
+
+  "toastCloudAppInfo": {
+    "Push": {
+      "appKey": "DUMMY_PUSH_APPKEY"
+    }
+  },
+
+  "indicatorLogServer": "http://youtube.com",
+
+  "csUrl":                   "http://youtube.com/help/inquiry/top.nhn",
+  "termsUrl":                "http://youtube.com/terms.nhn",
+  "personalInfoCollectionUrl":"http://youtube.com/privacy.nhn",
+  "punishReasonUrl":         "http://youtube.com/punish.nhn",
+
+  "LGCConfigKey":   "",
+  "LGCGameUrl":     "",
+  "LGCGcmProjectNum": ""
+}

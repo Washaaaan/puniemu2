@@ -1,0 +1,1 @@
+{"data": [{"itemId": 40001, "price": 200, "scoreAttackId": 1068}, {"itemId": 40002, "price": 250, "scoreAttackId": 1068}, {"itemId": 40003, "price": 150, "scoreAttackId": 1068}, {"itemId": 40004, "price": 200, "scoreAttackId": 1068}]}

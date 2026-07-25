@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "effectParam": 108000,
+            "effectType": 11,
+            "watchEffectId": 1030101,
+            "watchGrade": null,
+            "watchId": 10301,
+            "youkaiGroupId": 2
+        },
+        {
+            "effectParam": 105000,
+            "effectType": 10,
+            "watchEffectId": 1020101,
+            "watchGrade": null,
+            "watchId": 10201,
+            "youkaiGroupId": 1
+        },
+        {
+            "effectParam": 110000,
+            "effectType": 11,
+            "watchEffectId": 1050101,
+            "watchGrade": null,
+            "watchId": 10501,
+            "youkaiGroupId": 2
+        },
+        {
+            "effectParam": 105000,
+            "effectType": 11,
+            "watchEffectId": 1020102,
+            "watchGrade": null,
+            "watchId": 10201,
+            "youkaiGroupId": 1
+        },
+        {
+            "effectParam": 110000,
+            "effectType": 10,
+            "watchEffectId": 1040101,
+            "watchGrade": null,
+            "watchId": 10401,
+            "youkaiGroupId": 3
+        },
+        {
+            "effectParam": 110000,
+            "effectType": 10,
+            "watchEffectId": 1050102,
+            "watchGrade": null,
+            "watchId": 10501,
+            "youkaiGroupId": 2
+        }
+    ],
+    "version": 5
+}

@@ -1,0 +1,7 @@
+{
+    "7001" : [
+        {"firstClear":0,"tutorialId":7001001,"tutorialType":6,"tutorialStatus":0},
+        {"firstClear":0,"tutorialId":7001,"tutorialType":3,"tutorialStatus":0}, 
+        {"firstClear":0,"tutorialId":10000,"tutorialType":2,"tutorialStatus":0}
+    ]
+}

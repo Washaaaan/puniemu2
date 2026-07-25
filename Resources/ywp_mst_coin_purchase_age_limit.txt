@@ -1,0 +1,1 @@
+{"data": [{"ageMax": 16, "limitPayment": 5000}, {"ageMax": 18, "limitPayment": 20000}, {"ageMax": 9999, "limitPayment": 1000000000}], "version": 6}

@@ -1,0 +1,1 @@
+[{"playCnt": 2, "adsType": 1, "remainSec": 0}, {"playCnt": 2, "adsType": 2, "remainSec": 0}]

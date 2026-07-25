@@ -1,0 +1,1 @@
+{"tableData": "1001|ワイメタル|1|e_itemicon_039.png*1002|ワイメタルＲ|2|e_itemicon_040.png", "version": 2}

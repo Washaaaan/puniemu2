@@ -1,0 +1,1 @@
+[{"generalStringParam1": "", "bigBossEffectId": 68, "generalStringParam3": "", "generalStringParam2": "", "hpEnableFlg": 0, "bigBossId": 68, "generalIntParam2": 0, "generalIntParam3": 0, "generalIntParam1": 0, "youkaiId": 2211010, "bigBossDesc": "Pandanoko", "idx": 0}]

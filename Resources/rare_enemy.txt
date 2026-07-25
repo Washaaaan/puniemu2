@@ -1,0 +1,98 @@
+[
+    {
+        "EnemyID" : 900502203,
+        "Rate" : 5,
+        "Scope" : "MapsWide",
+        "Params": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            1008,
+            1009
+        ],
+    },
+    {
+        "EnemyID": 980700101,
+        "Rate" : 30,
+        "Scope": "MapsWide",
+        "Params": [
+            7001
+        ],
+        "ExceptionParams": [
+            7001001
+        ]
+    },
+    {
+        "EnemyID" : 900101102,
+        "Rate" : 10,
+        "Scope" : "StagesWide",
+        "Params": [
+            1001011
+        ]
+    },
+    {
+        "EnemyID" : 510000101,
+        "Rate" : 10,
+        "Scope" : "StagesWide",
+        "Params": [
+            1002008,
+            1002018
+        ]
+    },
+    {
+        "EnemyID" : 998141203,
+        "Rate" : 10,
+        "Scope" : "StagesWide",
+        "Params": [
+            1003014,
+            1003017
+        ]
+    },
+    {
+        "EnemyID" : 500000802,
+        "Rate" : 15,
+        "Scope" : "StagesWide",
+        "Params": [
+            1004007,
+            1004022
+        ]
+    },
+    {
+        "EnemyID" : 520001202,
+        "Rate" : 10,
+        "Scope" : "StagesWide",
+        "Params": [
+            1005011,
+            1005024
+        ]
+    },
+    {
+        "EnemyID" : 520001801,
+        "Rate" : 10,
+        "Scope" : "StagesWide",
+        "Params": [
+            1006021,
+            1006023
+        ]
+    },
+    {
+        "EnemyID" : 930600603,
+        "Rate" : 10,
+        "Scope" : "StagesWide",
+        "Params": [
+            1007022
+        ]
+    },
+    {
+        "EnemyID" : 900801903,
+        "Rate" : 10,
+        "Scope" : "StagesWide",
+        "Params": [
+            1008019
+        ]
+    },
+]

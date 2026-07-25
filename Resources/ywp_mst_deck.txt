@@ -1,0 +1,1 @@
+{"tableData": "1|0|0|fileIdx:1*10001|1|3000|fileIdx:2*10002|1|4000|fileIdx:3*10003|1|5000|fileIdx:4*10004|1|5000|fileIdx:5*10005|1|5000|fileIdx:6*10006|1|5000|fileIdx:7*10007|1|5000|fileIdx:8*10008|1|5000|fileIdx:9*10009|1|5000|fileIdx:10", "version": 1}

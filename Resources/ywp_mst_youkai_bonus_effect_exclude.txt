@@ -1,0 +1,1 @@
+{"data": [{"youkaiId": 9002592, "idx": 1}, {"youkaiId": 9002592, "idx": 2}], "version": 349}

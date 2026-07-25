@@ -1,0 +1,6423 @@
+[
+    {
+        "SeriesID": 1,
+        "SeriesName": "Score in Score Attack",
+        "Missions": [
+            {
+                "MissionID": 100001,
+                "MissionName": "Score 10,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    10000
+                ]
+            },
+            {
+                "MissionID": 100002,
+                "MissionName": "Score 20,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    20000
+                ]
+            },
+            {
+                "MissionID": 100003,
+                "MissionName": "Score 30,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    30000
+                ]
+            },
+            {
+                "MissionID": 100004,
+                "MissionName": "Score 40,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    40000
+                ]
+            },
+            {
+                "MissionID": 100005,
+                "MissionName": "Score 50,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    50000
+                ]
+            },
+            {
+                "MissionID": 100006,
+                "MissionName": "Score 60,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    60000
+                ]
+            },
+            {
+                "MissionID": 100007,
+                "MissionName": "Score 70,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    70000
+                ]
+            },
+            {
+                "MissionID": 100008,
+                "MissionName": "Score 80,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    80000
+                ]
+            },
+            {
+                "MissionID": 100009,
+                "MissionName": "Score 90,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    90000
+                ]
+            },
+            {
+                "MissionID": 100010,
+                "MissionName": "Score 100,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    100000
+                ]
+            },
+            {
+                "MissionID": 100011,
+                "MissionName": "Score 110,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    110000
+                ]
+            },
+            {
+                "MissionID": 100012,
+                "MissionName": "Score 120,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    120000
+                ]
+            },
+            {
+                "MissionID": 100013,
+                "MissionName": "Score 130,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    130000
+                ]
+            },
+            {
+                "MissionID": 100014,
+                "MissionName": "Score 140,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    140000
+                ]
+            },
+            {
+                "MissionID": 100015,
+                "MissionName": "Score 150,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    150000
+                ]
+            },
+            {
+                "MissionID": 100016,
+                "MissionName": "Score 160,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    160000
+                ]
+            },
+            {
+                "MissionID": 100017,
+                "MissionName": "Score 170,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    170000
+                ]
+            },
+            {
+                "MissionID": 100018,
+                "MissionName": "Score 180,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    180000
+                ]
+            },
+            {
+                "MissionID": 100019,
+                "MissionName": "Score 190,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    190000
+                ]
+            },
+            {
+                "MissionID": 100020,
+                "MissionName": "Score 200,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    200000
+                ]
+            },
+            {
+                "MissionID": 100021,
+                "MissionName": "Score 210,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    210000
+                ]
+            },
+            {
+                "MissionID": 100022,
+                "MissionName": "Score 220,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    220000
+                ]
+            },
+            {
+                "MissionID": 100023,
+                "MissionName": "Score 230,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    230000
+                ]
+            },
+            {
+                "MissionID": 100024,
+                "MissionName": "Score 240,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    240000
+                ]
+            },
+            {
+                "MissionID": 100025,
+                "MissionName": "Score 250,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    250000
+                ]
+            },
+            {
+                "MissionID": 100026,
+                "MissionName": "Score 260,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    260000
+                ]
+            },
+            {
+                "MissionID": 100027,
+                "MissionName": "Score 270,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    270000
+                ]
+            },
+            {
+                "MissionID": 100028,
+                "MissionName": "Score 280,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    280000
+                ]
+            },
+            {
+                "MissionID": 100029,
+                "MissionName": "Score 290,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    290000
+                ]
+            },
+            {
+                "MissionID": 100030,
+                "MissionName": "Score 300,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    300000
+                ]
+            },
+            {
+                "MissionID": 100031,
+                "MissionName": "Score 310,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    310000
+                ]
+            },
+            {
+                "MissionID": 100032,
+                "MissionName": "Score 320,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    320000
+                ]
+            },
+            {
+                "MissionID": 100033,
+                "MissionName": "Score 330,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    330000
+                ]
+            },
+            {
+                "MissionID": 100034,
+                "MissionName": "Score 340,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    340000
+                ]
+            },
+            {
+                "MissionID": 100035,
+                "MissionName": "Score 350,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    350000
+                ]
+            },
+            {
+                "MissionID": 100036,
+                "MissionName": "Score 360,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    360000
+                ]
+            },
+            {
+                "MissionID": 100037,
+                "MissionName": "Score 370,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    370000
+                ]
+            },
+            {
+                "MissionID": 100038,
+                "MissionName": "Score 380,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    380000
+                ]
+            },
+            {
+                "MissionID": 100039,
+                "MissionName": "Score 390,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    390000
+                ]
+            },
+            {
+                "MissionID": 100040,
+                "MissionName": "Score 400,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    400000
+                ]
+            },
+            {
+                "MissionID": 100041,
+                "MissionName": "Score 420,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    420000
+                ]
+            },
+            {
+                "MissionID": 100042,
+                "MissionName": "Score 440,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    440000
+                ]
+            },
+            {
+                "MissionID": 100043,
+                "MissionName": "Score 460,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    460000
+                ]
+            },
+            {
+                "MissionID": 100044,
+                "MissionName": "Score 480,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    480000
+                ]
+            },
+            {
+                "MissionID": 100045,
+                "MissionName": "Score 500,000 in Score Attack",
+                "MissionType": 70001,
+                "Params": [
+                    500000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 2,
+        "SeriesName": "Collect Star",
+        "Missions": [
+            {
+                "MissionID": 101001,
+                "MissionName": "Collect 20 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    20
+                ]
+            },
+            {
+                "MissionID": 101002,
+                "MissionName": "Collect 30 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    30
+                ]
+            },
+            {
+                "MissionID": 101003,
+                "MissionName": "Collect 40 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    40
+                ]
+            },
+            {
+                "MissionID": 101004,
+                "MissionName": "Collect 50 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    50
+                ]
+            },
+            {
+                "MissionID": 101005,
+                "MissionName": "Collect 60 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    60
+                ]
+            },
+            {
+                "MissionID": 101006,
+                "MissionName": "Collect 70 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    70
+                ]
+            },
+            {
+                "MissionID": 101007,
+                "MissionName": "Collect 80 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    80
+                ]
+            },
+            {
+                "MissionID": 101008,
+                "MissionName": "Collect 90 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    90
+                ]
+            },
+            {
+                "MissionID": 101009,
+                "MissionName": "Collect 100 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    100
+                ]
+            },
+            {
+                "MissionID": 101010,
+                "MissionName": "Collect 110 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    110
+                ]
+            },
+            {
+                "MissionID": 101011,
+                "MissionName": "Collect 120 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    120
+                ]
+            },
+            {
+                "MissionID": 101012,
+                "MissionName": "Collect 130 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    130
+                ]
+            },
+            {
+                "MissionID": 101013,
+                "MissionName": "Collect 140 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    140
+                ]
+            },
+            {
+                "MissionID": 101014,
+                "MissionName": "Collect 150 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    150
+                ]
+            },
+            {
+                "MissionID": 101015,
+                "MissionName": "Collect 160 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    160
+                ]
+            },
+            {
+                "MissionID": 101016,
+                "MissionName": "Collect 170 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    170
+                ]
+            },
+            {
+                "MissionID": 101017,
+                "MissionName": "Collect 180 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    180
+                ]
+            },
+            {
+                "MissionID": 101018,
+                "MissionName": "Collect 190 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    190
+                ]
+            },
+            {
+                "MissionID": 101019,
+                "MissionName": "Collect 200 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    200
+                ]
+            },
+            {
+                "MissionID": 101020,
+                "MissionName": "Collect 210 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    210
+                ]
+            },
+            {
+                "MissionID": 101021,
+                "MissionName": "Collect 220 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    220
+                ]
+            },
+            {
+                "MissionID": 101022,
+                "MissionName": "Collect 230 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    230
+                ]
+            },
+            {
+                "MissionID": 101023,
+                "MissionName": "Collect 240 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    240
+                ]
+            },
+            {
+                "MissionID": 101024,
+                "MissionName": "Collect 250 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    250
+                ]
+            },
+            {
+                "MissionID": 101025,
+                "MissionName": "Collect 260 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    260
+                ]
+            },
+            {
+                "MissionID": 101026,
+                "MissionName": "Collect 270 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    270
+                ]
+            },
+            {
+                "MissionID": 101027,
+                "MissionName": "Collect 280 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    280
+                ]
+            },
+            {
+                "MissionID": 101028,
+                "MissionName": "Collect 290 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    290
+                ]
+            },
+            {
+                "MissionID": 101029,
+                "MissionName": "Collect 300 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    300
+                ]
+            },
+            {
+                "MissionID": 101030,
+                "MissionName": "Collect 310 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    310
+                ]
+            },
+            {
+                "MissionID": 101031,
+                "MissionName": "Collect 320 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    320
+                ]
+            },
+            {
+                "MissionID": 101032,
+                "MissionName": "Collect 330 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    330
+                ]
+            },
+            {
+                "MissionID": 101033,
+                "MissionName": "Collect 340 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    340
+                ]
+            },
+            {
+                "MissionID": 101034,
+                "MissionName": "Collect 350 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    350
+                ]
+            },
+            {
+                "MissionID": 101035,
+                "MissionName": "Collect 360 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    360
+                ]
+            },
+            {
+                "MissionID": 101036,
+                "MissionName": "Collect 370 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    370
+                ]
+            },
+            {
+                "MissionID": 101037,
+                "MissionName": "Collect 380 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    380
+                ]
+            },
+            {
+                "MissionID": 101038,
+                "MissionName": "Collect 390 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    390
+                ]
+            },
+            {
+                "MissionID": 101039,
+                "MissionName": "Collect 400 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    400
+                ]
+            },
+            {
+                "MissionID": 101040,
+                "MissionName": "Collect 410 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    410
+                ]
+            },
+            {
+                "MissionID": 101041,
+                "MissionName": "Collect 420 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    420
+                ]
+            },
+            {
+                "MissionID": 101042,
+                "MissionName": "Collect 430 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    430
+                ]
+            },
+            {
+                "MissionID": 101043,
+                "MissionName": "Collect 440 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    440
+                ]
+            },
+            {
+                "MissionID": 101044,
+                "MissionName": "Collect 450 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    450
+                ]
+            },
+            {
+                "MissionID": 101045,
+                "MissionName": "Collect 460 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    460
+                ]
+            },
+            {
+                "MissionID": 101046,
+                "MissionName": "Collect 470 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    470
+                ]
+            },
+            {
+                "MissionID": 101047,
+                "MissionName": "Collect 480 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    480
+                ]
+            },
+            {
+                "MissionID": 101048,
+                "MissionName": "Collect 490 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    490
+                ]
+            },
+            {
+                "MissionID": 101049,
+                "MissionName": "Collect 500 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    500
+                ]
+            },
+            {
+                "MissionID": 101050,
+                "MissionName": "Collect 510 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    510
+                ]
+            },
+            {
+                "MissionID": 101051,
+                "MissionName": "Collect 520 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    520
+                ]
+            },
+            {
+                "MissionID": 101052,
+                "MissionName": "Collect 530 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    530
+                ]
+            },
+            {
+                "MissionID": 101053,
+                "MissionName": "Collect 540 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    540
+                ]
+            },
+            {
+                "MissionID": 101054,
+                "MissionName": "Collect 550 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    550
+                ]
+            },
+            {
+                "MissionID": 101055,
+                "MissionName": "Collect 560 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    560
+                ]
+            },
+            {
+                "MissionID": 101056,
+                "MissionName": "Collect 570 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    570
+                ]
+            },
+            {
+                "MissionID": 101057,
+                "MissionName": "Collect 580 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    580
+                ]
+            },
+            {
+                "MissionID": 101058,
+                "MissionName": "Collect 590 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    590
+                ]
+            },
+            {
+                "MissionID": 101059,
+                "MissionName": "Collect 600 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    600
+                ]
+            },
+            {
+                "MissionID": 101060,
+                "MissionName": "Collect 610 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    610
+                ]
+            },
+            {
+                "MissionID": 101061,
+                "MissionName": "Collect 620 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    620
+                ]
+            },
+            {
+                "MissionID": 101062,
+                "MissionName": "Collect 630 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    630
+                ]
+            },
+            {
+                "MissionID": 101063,
+                "MissionName": "Collect 640 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    640
+                ]
+            },
+            {
+                "MissionID": 101064,
+                "MissionName": "Collect 650 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    650
+                ]
+            },
+            {
+                "MissionID": 101065,
+                "MissionName": "Collect 660 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    660
+                ]
+            },
+            {
+                "MissionID": 101066,
+                "MissionName": "Collect 670 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    670
+                ]
+            },
+            {
+                "MissionID": 101067,
+                "MissionName": "Collect 680 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    680
+                ]
+            },
+            {
+                "MissionID": 101068,
+                "MissionName": "Collect 690 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    690
+                ]
+            },
+            {
+                "MissionID": 101069,
+                "MissionName": "Collect 700 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    700
+                ]
+            },
+            {
+                "MissionID": 101070,
+                "MissionName": "Collect 710 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    710
+                ]
+            },
+            {
+                "MissionID": 101071,
+                "MissionName": "Collect 720 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    720
+                ]
+            },
+            {
+                "MissionID": 101072,
+                "MissionName": "Collect 730 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    730
+                ]
+            },
+            {
+                "MissionID": 101073,
+                "MissionName": "Collect 740 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    740
+                ]
+            },
+            {
+                "MissionID": 101074,
+                "MissionName": "Collect 750 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    750
+                ]
+            },
+            {
+                "MissionID": 101075,
+                "MissionName": "Collect 760 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    760
+                ]
+            },
+            {
+                "MissionID": 101076,
+                "MissionName": "Collect 770 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    770
+                ]
+            },
+            {
+                "MissionID": 101077,
+                "MissionName": "Collect 780 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    780
+                ]
+            },
+            {
+                "MissionID": 101078,
+                "MissionName": "Collect 790 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    790
+                ]
+            },
+            {
+                "MissionID": 101079,
+                "MissionName": "Collect 800 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    800
+                ]
+            },
+            {
+                "MissionID": 101080,
+                "MissionName": "Collect 810 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    810
+                ]
+            },
+            {
+                "MissionID": 101081,
+                "MissionName": "Collect 820 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    820
+                ]
+            },
+            {
+                "MissionID": 101082,
+                "MissionName": "Collect 830 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    830
+                ]
+            },
+            {
+                "MissionID": 101083,
+                "MissionName": "Collect 840 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    840
+                ]
+            },
+            {
+                "MissionID": 101084,
+                "MissionName": "Collect 850 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    850
+                ]
+            },
+            {
+                "MissionID": 101085,
+                "MissionName": "Collect 860 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    860
+                ]
+            },
+            {
+                "MissionID": 101086,
+                "MissionName": "Collect 870 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    870
+                ]
+            },
+            {
+                "MissionID": 101087,
+                "MissionName": "Collect 880 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    880
+                ]
+            },
+            {
+                "MissionID": 101088,
+                "MissionName": "Collect 890 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    890
+                ]
+            },
+            {
+                "MissionID": 101089,
+                "MissionName": "Collect 900 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    900
+                ]
+            },
+            {
+                "MissionID": 101090,
+                "MissionName": "Collect 925 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    925
+                ]
+            },
+            {
+                "MissionID": 101091,
+                "MissionName": "Collect 950 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    950
+                ]
+            },
+            {
+                "MissionID": 101092,
+                "MissionName": "Collect 975 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    975
+                ]
+            },
+            {
+                "MissionID": 101093,
+                "MissionName": "Collect 1,000 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1000
+                ]
+            },
+            {
+                "MissionID": 101094,
+                "MissionName": "Collect 1,050 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1050
+                ]
+            },
+            {
+                "MissionID": 101095,
+                "MissionName": "Collect 1,100 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1100
+                ]
+            },
+            {
+                "MissionID": 101096,
+                "MissionName": "Collect 1,150 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1150
+                ]
+            },
+            {
+                "MissionID": 101097,
+                "MissionName": "Collect 1,200 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1200
+                ]
+            },
+            {
+                "MissionID": 101098,
+                "MissionName": "Collect 1,250 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1250
+                ]
+            },
+            {
+                "MissionID": 101099,
+                "MissionName": "Collect 1,300 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1300
+                ]
+            },
+            {
+                "MissionID": 101100,
+                "MissionName": "Collect 1,350 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1350
+                ]
+            },
+            {
+                "MissionID": 101101,
+                "MissionName": "Collect 1,400 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1400
+                ]
+            },
+            {
+                "MissionID": 101102,
+                "MissionName": "Collect 1,450 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1450
+                ]
+            },
+            {
+                "MissionID": 101103,
+                "MissionName": "Collect 1,500 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1500
+                ]
+            },
+            {
+                "MissionID": 101104,
+                "MissionName": "Collect 1,550 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1550
+                ]
+            },
+            {
+                "MissionID": 101105,
+                "MissionName": "Collect 1,600 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1600
+                ]
+            },
+            {
+                "MissionID": 101106,
+                "MissionName": "Collect 1,650 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1650
+                ]
+            },
+            {
+                "MissionID": 101107,
+                "MissionName": "Collect 1,700 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1700
+                ]
+            },
+            {
+                "MissionID": 101108,
+                "MissionName": "Collect 1,750 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1750
+                ]
+            },
+            {
+                "MissionID": 101109,
+                "MissionName": "Collect 1,800 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1800
+                ]
+            },
+            {
+                "MissionID": 101110,
+                "MissionName": "Collect 1,850 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1850
+                ]
+            },
+            {
+                "MissionID": 101111,
+                "MissionName": "Collect 1,900 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1900
+                ]
+            },
+            {
+                "MissionID": 101112,
+                "MissionName": "Collect 1,950 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    1950
+                ]
+            },
+            {
+                "MissionID": 101113,
+                "MissionName": "Collect 2,000 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    2000
+                ]
+            },
+            {
+                "MissionID": 101114,
+                "MissionName": "Collect 2,050 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    2050
+                ]
+            },
+            {
+                "MissionID": 101115,
+                "MissionName": "Collect 2,100 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    2100
+                ]
+            },
+            {
+                "MissionID": 101116,
+                "MissionName": "Collect 2,150 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    2150
+                ]
+            },
+            {
+                "MissionID": 101117,
+                "MissionName": "Collect 2,200 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    2200
+                ]
+            },
+            {
+                "MissionID": 101118,
+                "MissionName": "Collect 2,250 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    2250
+                ]
+            },
+            {
+                "MissionID": 101119,
+                "MissionName": "Collect 2,300 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    2300
+                ]
+            },
+            {
+                "MissionID": 101120,
+                "MissionName": "Collect 2,350 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    2350
+                ]
+            },
+            {
+                "MissionID": 101121,
+                "MissionName": "Collect 2,400 Stars",
+                "MissionType": 21001,
+                "Params": [
+                    2400
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 3,
+        "SeriesName": "Score in Total",
+        "Missions": [
+            {
+                "MissionID": 102001,
+                "MissionName": "Score 500,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    500000
+                ]
+            },
+            {
+                "MissionID": 102002,
+                "MissionName": "Score 1,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    1000000
+                ]
+            },
+            {
+                "MissionID": 102003,
+                "MissionName": "Score 2,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    2000000
+                ]
+            },
+            {
+                "MissionID": 102004,
+                "MissionName": "Score 3,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    3000000
+                ]
+            },
+            {
+                "MissionID": 102005,
+                "MissionName": "Score 5,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    5000000
+                ]
+            },
+            {
+                "MissionID": 102006,
+                "MissionName": "Score 7,500,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    7500000
+                ]
+            },
+            {
+                "MissionID": 102007,
+                "MissionName": "Score 10,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    10000000
+                ]
+            },
+            {
+                "MissionID": 102008,
+                "MissionName": "Score 12,500,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    12500000
+                ]
+            },
+            {
+                "MissionID": 102009,
+                "MissionName": "Score 15,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    15000000
+                ]
+            },
+            {
+                "MissionID": 102010,
+                "MissionName": "Score 20,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    20000000
+                ]
+            },
+            {
+                "MissionID": 102011,
+                "MissionName": "Score 25,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    25000000
+                ]
+            },
+            {
+                "MissionID": 102012,
+                "MissionName": "Score 30,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    30000000
+                ]
+            },
+            {
+                "MissionID": 102013,
+                "MissionName": "Score 35,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    35000000
+                ]
+            },
+            {
+                "MissionID": 102014,
+                "MissionName": "Score 40,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    40000000
+                ]
+            },
+            {
+                "MissionID": 102015,
+                "MissionName": "Score 45,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    45000000
+                ]
+            },
+            {
+                "MissionID": 102016,
+                "MissionName": "Score 50,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    50000000
+                ]
+            },
+            {
+                "MissionID": 102017,
+                "MissionName": "Score 60,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    60000000
+                ]
+            },
+            {
+                "MissionID": 102018,
+                "MissionName": "Score 70,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    70000000
+                ]
+            },
+            {
+                "MissionID": 102019,
+                "MissionName": "Score 80,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    80000000
+                ]
+            },
+            {
+                "MissionID": 102020,
+                "MissionName": "Score 90,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    90000000
+                ]
+            },
+            {
+                "MissionID": 102021,
+                "MissionName": "Score 100,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    100000000
+                ]
+            },
+            {
+                "MissionID": 102022,
+                "MissionName": "Score 125,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    125000000
+                ]
+            },
+            {
+                "MissionID": 102023,
+                "MissionName": "Score 150,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    150000000
+                ]
+            },
+            {
+                "MissionID": 102024,
+                "MissionName": "Score 175,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    175000000
+                ]
+            },
+            {
+                "MissionID": 102025,
+                "MissionName": "Score 200,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    200000000
+                ]
+            },
+            {
+                "MissionID": 102026,
+                "MissionName": "Score 225,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    225000000
+                ]
+            },
+            {
+                "MissionID": 102027,
+                "MissionName": "Score 250,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    250000000
+                ]
+            },
+            {
+                "MissionID": 102028,
+                "MissionName": "Score 275,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    275000000
+                ]
+            },
+            {
+                "MissionID": 102029,
+                "MissionName": "Score 300,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    300000000
+                ]
+            },
+            {
+                "MissionID": 102030,
+                "MissionName": "Score 325,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    325000000
+                ]
+            },
+            {
+                "MissionID": 102031,
+                "MissionName": "Score 350,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    350000000
+                ]
+            },
+            {
+                "MissionID": 102032,
+                "MissionName": "Score 375,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    375000000
+                ]
+            },
+            {
+                "MissionID": 102033,
+                "MissionName": "Score 400,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    400000000
+                ]
+            },
+            {
+                "MissionID": 102034,
+                "MissionName": "Score 425,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    425000000
+                ]
+            },
+            {
+                "MissionID": 102035,
+                "MissionName": "Score 450,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    450000000
+                ]
+            },
+            {
+                "MissionID": 102036,
+                "MissionName": "Score 500,000,000 in Total",
+                "MissionType": 11002,
+                "Params": [
+                    500000000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 4,
+        "SeriesName": "Pop Wib Wob",
+        "Missions": [
+            {
+                "MissionID": 103001,
+                "MissionName": "Pop 1,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    1000
+                ]
+            },
+            {
+                "MissionID": 103002,
+                "MissionName": "Pop 2,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    2000
+                ]
+            },
+            {
+                "MissionID": 103003,
+                "MissionName": "Pop 3,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    3000
+                ]
+            },
+            {
+                "MissionID": 103004,
+                "MissionName": "Pop 4,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    4000
+                ]
+            },
+            {
+                "MissionID": 103005,
+                "MissionName": "Pop 5,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    5000
+                ]
+            },
+            {
+                "MissionID": 103006,
+                "MissionName": "Pop 7,500 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    7500
+                ]
+            },
+            {
+                "MissionID": 103007,
+                "MissionName": "Pop 10,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    10000
+                ]
+            },
+            {
+                "MissionID": 103008,
+                "MissionName": "Pop 15,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    15000
+                ]
+            },
+            {
+                "MissionID": 103009,
+                "MissionName": "Pop 20,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    20000
+                ]
+            },
+            {
+                "MissionID": 103010,
+                "MissionName": "Pop 25,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    25000
+                ]
+            },
+            {
+                "MissionID": 103011,
+                "MissionName": "Pop 30,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    30000
+                ]
+            },
+            {
+                "MissionID": 103012,
+                "MissionName": "Pop 35,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    35000
+                ]
+            },
+            {
+                "MissionID": 103013,
+                "MissionName": "Pop 40,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    40000
+                ]
+            },
+            {
+                "MissionID": 103014,
+                "MissionName": "Pop 45,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    45000
+                ]
+            },
+            {
+                "MissionID": 103015,
+                "MissionName": "Pop 50,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    50000
+                ]
+            },
+            {
+                "MissionID": 103016,
+                "MissionName": "Pop 60,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    60000
+                ]
+            },
+            {
+                "MissionID": 103017,
+                "MissionName": "Pop 70,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    70000
+                ]
+            },
+            {
+                "MissionID": 103018,
+                "MissionName": "Pop 80,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    80000
+                ]
+            },
+            {
+                "MissionID": 103019,
+                "MissionName": "Pop 90,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    90000
+                ]
+            },
+            {
+                "MissionID": 103020,
+                "MissionName": "Pop 100,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    100000
+                ]
+            },
+            {
+                "MissionID": 103021,
+                "MissionName": "Pop 120,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    120000
+                ]
+            },
+            {
+                "MissionID": 103022,
+                "MissionName": "Pop 140,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    140000
+                ]
+            },
+            {
+                "MissionID": 103023,
+                "MissionName": "Pop 160,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    160000
+                ]
+            },
+            {
+                "MissionID": 103024,
+                "MissionName": "Pop 180,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    180000
+                ]
+            },
+            {
+                "MissionID": 103025,
+                "MissionName": "Pop 200,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    200000
+                ]
+            },
+            {
+                "MissionID": 103026,
+                "MissionName": "Pop 220,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    220000
+                ]
+            },
+            {
+                "MissionID": 103027,
+                "MissionName": "Pop 240,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    240000
+                ]
+            },
+            {
+                "MissionID": 103028,
+                "MissionName": "Pop 260,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    260000
+                ]
+            },
+            {
+                "MissionID": 103029,
+                "MissionName": "Pop 280,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    280000
+                ]
+            },
+            {
+                "MissionID": 103030,
+                "MissionName": "Pop 300,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    300000
+                ]
+            },
+            {
+                "MissionID": 103031,
+                "MissionName": "Pop 350,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    350000
+                ]
+            },
+            {
+                "MissionID": 103032,
+                "MissionName": "Pop 400,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    400000
+                ]
+            },
+            {
+                "MissionID": 103033,
+                "MissionName": "Pop 450,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    450000
+                ]
+            },
+            {
+                "MissionID": 103034,
+                "MissionName": "Pop 500,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    500000
+                ]
+            },
+            {
+                "MissionID": 103035,
+                "MissionName": "Pop 550,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    550000
+                ]
+            },
+            {
+                "MissionID": 103036,
+                "MissionName": "Pop 600,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    600000
+                ]
+            },
+            {
+                "MissionID": 103037,
+                "MissionName": "Pop 650,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    650000
+                ]
+            },
+            {
+                "MissionID": 103038,
+                "MissionName": "Pop 700,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    700000
+                ]
+            },
+            {
+                "MissionID": 103039,
+                "MissionName": "Pop 750,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    750000
+                ]
+            },
+            {
+                "MissionID": 103040,
+                "MissionName": "Pop 800,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    800000
+                ]
+            },
+            {
+                "MissionID": 103041,
+                "MissionName": "Pop 850,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    850000
+                ]
+            },
+            {
+                "MissionID": 103042,
+                "MissionName": "Pop 900,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    900000
+                ]
+            },
+            {
+                "MissionID": 103043,
+                "MissionName": "Pop 950,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    950000
+                ]
+            },
+            {
+                "MissionID": 103044,
+                "MissionName": "Pop 1000,000 Wib Wob",
+                "MissionType": 11001,
+                "Params": [
+                    1000000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 5,
+        "SeriesName": "Perform Soultimate Moves",
+        "Missions": [
+            {
+                "MissionID": 104001,
+                "MissionName": "Perform 10 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    10
+                ]
+            },
+            {
+                "MissionID": 104002,
+                "MissionName": "Perform 25 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    25
+                ]
+            },
+            {
+                "MissionID": 104003,
+                "MissionName": "Perform 50 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    50
+                ]
+            },
+            {
+                "MissionID": 104004,
+                "MissionName": "Perform 75 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    75
+                ]
+            },
+            {
+                "MissionID": 104005,
+                "MissionName": "Perform 100 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    100
+                ]
+            },
+            {
+                "MissionID": 104006,
+                "MissionName": "Perform 150 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    150
+                ]
+            },
+            {
+                "MissionID": 104007,
+                "MissionName": "Perform 200 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    200
+                ]
+            },
+            {
+                "MissionID": 104008,
+                "MissionName": "Perform 250 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    250
+                ]
+            },
+            {
+                "MissionID": 104009,
+                "MissionName": "Perform 300 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    300
+                ]
+            },
+            {
+                "MissionID": 104010,
+                "MissionName": "Perform 350 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    350
+                ]
+            },
+            {
+                "MissionID": 104011,
+                "MissionName": "Perform 400 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    400
+                ]
+            },
+            {
+                "MissionID": 104012,
+                "MissionName": "Perform 450 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    450
+                ]
+            },
+            {
+                "MissionID": 104013,
+                "MissionName": "Perform 500 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    500
+                ]
+            },
+            {
+                "MissionID": 104014,
+                "MissionName": "Perform 600 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    600
+                ]
+            },
+            {
+                "MissionID": 104015,
+                "MissionName": "Perform 700 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    700
+                ]
+            },
+            {
+                "MissionID": 104016,
+                "MissionName": "Perform 800 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    800
+                ]
+            },
+            {
+                "MissionID": 104017,
+                "MissionName": "Perform 900 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    900
+                ]
+            },
+            {
+                "MissionID": 104018,
+                "MissionName": "Perform 1,000 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    1000
+                ]
+            },
+            {
+                "MissionID": 104019,
+                "MissionName": "Perform 1,200 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    1200
+                ]
+            },
+            {
+                "MissionID": 104020,
+                "MissionName": "Perform 1,400 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    1400
+                ]
+            },
+            {
+                "MissionID": 104021,
+                "MissionName": "Perform 1,600 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    1600
+                ]
+            },
+            {
+                "MissionID": 104022,
+                "MissionName": "Perform 1,800 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    1800
+                ]
+            },
+            {
+                "MissionID": 104023,
+                "MissionName": "Perform 2,000 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    2000
+                ]
+            },
+            {
+                "MissionID": 104024,
+                "MissionName": "Perform 2,200 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    2200
+                ]
+            },
+            {
+                "MissionID": 104025,
+                "MissionName": "Perform 2,400 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    2400
+                ]
+            },
+            {
+                "MissionID": 104026,
+                "MissionName": "Perform 2,600 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    2600
+                ]
+            },
+            {
+                "MissionID": 104027,
+                "MissionName": "Perform 2,800 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    2800
+                ]
+            },
+            {
+                "MissionID": 104028,
+                "MissionName": "Perform 3,000 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    3000
+                ]
+            },
+            {
+                "MissionID": 104029,
+                "MissionName": "Perform 3,200 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    3200
+                ]
+            },
+            {
+                "MissionID": 104030,
+                "MissionName": "Perform 3,400 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    3400
+                ]
+            },
+            {
+                "MissionID": 104031,
+                "MissionName": "Perform 3,600 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    3600
+                ]
+            },
+            {
+                "MissionID": 104032,
+                "MissionName": "Perform 3,800 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    3800
+                ]
+            },
+            {
+                "MissionID": 104033,
+                "MissionName": "Perform 4,000 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    4000
+                ]
+            },
+            {
+                "MissionID": 104034,
+                "MissionName": "Perform 4,200 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    4200
+                ]
+            },
+            {
+                "MissionID": 104035,
+                "MissionName": "Perform 4,400 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    4400
+                ]
+            },
+            {
+                "MissionID": 104036,
+                "MissionName": "Perform 4,600 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    4600
+                ]
+            },
+            {
+                "MissionID": 104037,
+                "MissionName": "Perform 4,800 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    4800
+                ]
+            },
+            {
+                "MissionID": 104038,
+                "MissionName": "Perform 5,000 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    5000
+                ]
+            },
+            {
+                "MissionID": 104039,
+                "MissionName": "Perform 5,500 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    5500
+                ]
+            },
+            {
+                "MissionID": 104040,
+                "MissionName": "Perform 6,000 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    6000
+                ]
+            },
+            {
+                "MissionID": 104041,
+                "MissionName": "Perform 6,500 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    6500
+                ]
+            },
+            {
+                "MissionID": 104042,
+                "MissionName": "Perform 7,000 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    7000
+                ]
+            },
+            {
+                "MissionID": 104043,
+                "MissionName": "Perform 7,500 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    7500
+                ]
+            },
+            {
+                "MissionID": 104044,
+                "MissionName": "Perform 8,000 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    8000
+                ]
+            },
+            {
+                "MissionID": 104045,
+                "MissionName": "Perform 8,500 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    8500
+                ]
+            },
+            {
+                "MissionID": 104046,
+                "MissionName": "Perform 9,000 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    9000
+                ]
+            },
+            {
+                "MissionID": 104047,
+                "MissionName": "Perform 9,500 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    9500
+                ]
+            },
+            {
+                "MissionID": 104048,
+                "MissionName": "Perform 10,000 Soultimate Moves",
+                "MissionType": 11003,
+                "Params": [
+                    10000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 6,
+        "SeriesName": "Create Bonus Balls",
+        "Missions": [
+            {
+                "MissionID": 105001,
+                "MissionName": "Create 10 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    10
+                ]
+            },
+            {
+                "MissionID": 105002,
+                "MissionName": "Create 25 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    25
+                ]
+            },
+            {
+                "MissionID": 105003,
+                "MissionName": "Create 50 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    50
+                ]
+            },
+            {
+                "MissionID": 105004,
+                "MissionName": "Create 75 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    75
+                ]
+            },
+            {
+                "MissionID": 105005,
+                "MissionName": "Create 100 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    100
+                ]
+            },
+            {
+                "MissionID": 105006,
+                "MissionName": "Create 150 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    150
+                ]
+            },
+            {
+                "MissionID": 105007,
+                "MissionName": "Create 200 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    200
+                ]
+            },
+            {
+                "MissionID": 105008,
+                "MissionName": "Create 250 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    250
+                ]
+            },
+            {
+                "MissionID": 105009,
+                "MissionName": "Create 300 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    300
+                ]
+            },
+            {
+                "MissionID": 105010,
+                "MissionName": "Create 350 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    350
+                ]
+            },
+            {
+                "MissionID": 105011,
+                "MissionName": "Create 400 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    400
+                ]
+            },
+            {
+                "MissionID": 105012,
+                "MissionName": "Create 450 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    450
+                ]
+            },
+            {
+                "MissionID": 105013,
+                "MissionName": "Create 500 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    500
+                ]
+            },
+            {
+                "MissionID": 105014,
+                "MissionName": "Create 600 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    600
+                ]
+            },
+            {
+                "MissionID": 105015,
+                "MissionName": "Create 700 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    700
+                ]
+            },
+            {
+                "MissionID": 105016,
+                "MissionName": "Create 800 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    800
+                ]
+            },
+            {
+                "MissionID": 105017,
+                "MissionName": "Create 900 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    900
+                ]
+            },
+            {
+                "MissionID": 105018,
+                "MissionName": "Create 1,000 Bonus Balls",
+                "MissionType": 11004,
+                "Params": [
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 7,
+        "SeriesName": "Enter Fever Time Time",
+        "Missions": [
+            {
+                "MissionID": 106001,
+                "MissionName": "Enter Fever Time 10 Times",
+                "MissionType": 11005,
+                "Params": [
+                    10
+                ]
+            },
+            {
+                "MissionID": 106002,
+                "MissionName": "Enter Fever Time 25 Times",
+                "MissionType": 11005,
+                "Params": [
+                    25
+                ]
+            },
+            {
+                "MissionID": 106003,
+                "MissionName": "Enter Fever Time 50 Times",
+                "MissionType": 11005,
+                "Params": [
+                    50
+                ]
+            },
+            {
+                "MissionID": 106004,
+                "MissionName": "Enter Fever Time 75 Times",
+                "MissionType": 11005,
+                "Params": [
+                    75
+                ]
+            },
+            {
+                "MissionID": 106005,
+                "MissionName": "Enter Fever Time 100 Times",
+                "MissionType": 11005,
+                "Params": [
+                    100
+                ]
+            },
+            {
+                "MissionID": 106006,
+                "MissionName": "Enter Fever Time 150 Times",
+                "MissionType": 11005,
+                "Params": [
+                    150
+                ]
+            },
+            {
+                "MissionID": 106007,
+                "MissionName": "Enter Fever Time 200 Times",
+                "MissionType": 11005,
+                "Params": [
+                    200
+                ]
+            },
+            {
+                "MissionID": 106008,
+                "MissionName": "Enter Fever Time 250 Times",
+                "MissionType": 11005,
+                "Params": [
+                    250
+                ]
+            },
+            {
+                "MissionID": 106009,
+                "MissionName": "Enter Fever Time 300 Times",
+                "MissionType": 11005,
+                "Params": [
+                    300
+                ]
+            },
+            {
+                "MissionID": 106010,
+                "MissionName": "Enter Fever Time 350 Times",
+                "MissionType": 11005,
+                "Params": [
+                    350
+                ]
+            },
+            {
+                "MissionID": 106011,
+                "MissionName": "Enter Fever Time 400 Times",
+                "MissionType": 11005,
+                "Params": [
+                    400
+                ]
+            },
+            {
+                "MissionID": 106012,
+                "MissionName": "Enter Fever Time 450 Times",
+                "MissionType": 11005,
+                "Params": [
+                    450
+                ]
+            },
+            {
+                "MissionID": 106013,
+                "MissionName": "Enter Fever Time 500 Times",
+                "MissionType": 11005,
+                "Params": [
+                    500
+                ]
+            },
+            {
+                "MissionID": 106014,
+                "MissionName": "Enter Fever Time 600 Times",
+                "MissionType": 11005,
+                "Params": [
+                    600
+                ]
+            },
+            {
+                "MissionID": 106015,
+                "MissionName": "Enter Fever Time 700 Times",
+                "MissionType": 11005,
+                "Params": [
+                    700
+                ]
+            },
+            {
+                "MissionID": 106016,
+                "MissionName": "Enter Fever Time 800 Times",
+                "MissionType": 11005,
+                "Params": [
+                    800
+                ]
+            },
+            {
+                "MissionID": 106017,
+                "MissionName": "Enter Fever Time 900 Times",
+                "MissionType": 11005,
+                "Params": [
+                    900
+                ]
+            },
+            {
+                "MissionID": 106018,
+                "MissionName": "Enter Fever Time 1,000 Times",
+                "MissionType": 11005,
+                "Params": [
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 8,
+        "SeriesName": "Add Yo-kai to the Medallium",
+        "Missions": [
+            {
+                "MissionID": 107001,
+                "MissionName": "Add 10 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    10
+                ]
+            },
+            {
+                "MissionID": 107002,
+                "MissionName": "Add 15 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    15
+                ]
+            },
+            {
+                "MissionID": 107003,
+                "MissionName": "Add 20 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    20
+                ]
+            },
+            {
+                "MissionID": 107004,
+                "MissionName": "Add 25 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    25
+                ]
+            },
+            {
+                "MissionID": 107005,
+                "MissionName": "Add 30 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    30
+                ]
+            },
+            {
+                "MissionID": 107006,
+                "MissionName": "Add 35 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    35
+                ]
+            },
+            {
+                "MissionID": 107007,
+                "MissionName": "Add 40 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    40
+                ]
+            },
+            {
+                "MissionID": 107008,
+                "MissionName": "Add 45 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    45
+                ]
+            },
+            {
+                "MissionID": 107009,
+                "MissionName": "Add 50 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    50
+                ]
+            },
+            {
+                "MissionID": 107010,
+                "MissionName": "Add 55 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    55
+                ]
+            },
+            {
+                "MissionID": 107011,
+                "MissionName": "Add 60 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    60
+                ]
+            },
+            {
+                "MissionID": 107012,
+                "MissionName": "Add 65 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    65
+                ]
+            },
+            {
+                "MissionID": 107013,
+                "MissionName": "Add 70 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    70
+                ]
+            },
+            {
+                "MissionID": 107014,
+                "MissionName": "Add 75 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    75
+                ]
+            },
+            {
+                "MissionID": 107015,
+                "MissionName": "Add 80 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    80
+                ]
+            },
+            {
+                "MissionID": 107016,
+                "MissionName": "Add 85 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    85
+                ]
+            },
+            {
+                "MissionID": 107017,
+                "MissionName": "Add 90 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    90
+                ]
+            },
+            {
+                "MissionID": 107018,
+                "MissionName": "Add 95 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    95
+                ]
+            },
+            {
+                "MissionID": 107019,
+                "MissionName": "Add 100 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    100
+                ]
+            },
+            {
+                "MissionID": 107020,
+                "MissionName": "Add 105 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    105
+                ]
+            },
+            {
+                "MissionID": 107021,
+                "MissionName": "Add 110 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    110
+                ]
+            },
+            {
+                "MissionID": 107022,
+                "MissionName": "Add 115 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    115
+                ]
+            },
+            {
+                "MissionID": 107023,
+                "MissionName": "Add 120 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    120
+                ]
+            },
+            {
+                "MissionID": 107024,
+                "MissionName": "Add 125 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    125
+                ]
+            },
+            {
+                "MissionID": 107025,
+                "MissionName": "Add 130 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    130
+                ]
+            },
+            {
+                "MissionID": 107026,
+                "MissionName": "Add 135 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    135
+                ]
+            },
+            {
+                "MissionID": 107027,
+                "MissionName": "Add 140 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    140
+                ]
+            },
+            {
+                "MissionID": 107028,
+                "MissionName": "Add 145 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    145
+                ]
+            },
+            {
+                "MissionID": 107029,
+                "MissionName": "Add 150 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    150
+                ]
+            },
+            {
+                "MissionID": 107030,
+                "MissionName": "Add 160 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    160
+                ]
+            },
+            {
+                "MissionID": 107031,
+                "MissionName": "Add 170 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    170
+                ]
+            },
+            {
+                "MissionID": 107032,
+                "MissionName": "Add 180 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    180
+                ]
+            },
+            {
+                "MissionID": 107033,
+                "MissionName": "Add 190 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    190
+                ]
+            },
+            {
+                "MissionID": 107034,
+                "MissionName": "Add 200 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    200
+                ]
+            },
+            {
+                "MissionID": 107035,
+                "MissionName": "Add 210 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    210
+                ]
+            },
+            {
+                "MissionID": 107036,
+                "MissionName": "Add 220 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    220
+                ]
+            },
+            {
+                "MissionID": 107037,
+                "MissionName": "Add 230 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    230
+                ]
+            },
+            {
+                "MissionID": 107038,
+                "MissionName": "Add 240 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    240
+                ]
+            },
+            {
+                "MissionID": 107039,
+                "MissionName": "Add 250 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    250
+                ]
+            },
+            {
+                "MissionID": 107040,
+                "MissionName": "Add 260 Yo-kai to the Medallium",
+                "MissionType": 61401,
+                "Params": [
+                    260
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 9,
+        "SeriesName": "Login on Different Day",
+        "Missions": [
+            {
+                "MissionID": 109001,
+                "MissionName": "Login on 2 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    2
+                ]
+            },
+            {
+                "MissionID": 109002,
+                "MissionName": "Login on 3 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    3
+                ]
+            },
+            {
+                "MissionID": 109003,
+                "MissionName": "Login on 4 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    4
+                ]
+            },
+            {
+                "MissionID": 109004,
+                "MissionName": "Login on 5 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    5
+                ]
+            },
+            {
+                "MissionID": 109005,
+                "MissionName": "Login on 6 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    6
+                ]
+            },
+            {
+                "MissionID": 109006,
+                "MissionName": "Login on 7 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    7
+                ]
+            },
+            {
+                "MissionID": 109007,
+                "MissionName": "Login on 14 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    14
+                ]
+            },
+            {
+                "MissionID": 109008,
+                "MissionName": "Login on 30 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    30
+                ]
+            },
+            {
+                "MissionID": 109009,
+                "MissionName": "Login on 50 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    50
+                ]
+            },
+            {
+                "MissionID": 109010,
+                "MissionName": "Login on 100 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    100
+                ]
+            },
+            {
+                "MissionID": 109011,
+                "MissionName": "Login on 150 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    150
+                ]
+            },
+            {
+                "MissionID": 109012,
+                "MissionName": "Login on 200 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    200
+                ]
+            },
+            {
+                "MissionID": 109013,
+                "MissionName": "Login on 250 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    250
+                ]
+            },
+            {
+                "MissionID": 109014,
+                "MissionName": "Login on 300 Different Days",
+                "MissionType": 61301,
+                "Params": [
+                    300
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 10,
+        "SeriesName": "Insomni's Test",
+        "Missions": [
+            {
+                "MissionID": 110001,
+                "MissionName": "Insomni's Test",
+                "MissionType": 10103,
+                "Params": [
+                    1004010,
+                    70
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 11,
+        "SeriesName": "Chymera's Test",
+        "Missions": [
+            {
+                "MissionID": 110002,
+                "MissionName": "Chymera's Test",
+                "MissionType": 21002,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 12,
+        "SeriesName": "Appak's Test",
+        "Missions": [
+            {
+                "MissionID": 110003,
+                "MissionName": "Appak's Test",
+                "MissionType": 10102,
+                "Params": [
+                    88
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 13,
+        "SeriesName": "Yopple HQ Star Collecting",
+        "Missions": [
+            {
+                "MissionID": 110020,
+                "MissionName": "Yopple HQ Stars Collecting",
+                "MissionType": 21002,
+                "Params": [
+                    80
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 14,
+        "SeriesName": "Send Spirit to Friend",
+        "Missions": [
+            {
+                "MissionID": 111001,
+                "MissionName": "Send Spirit to a Friend",
+                "MissionType": 51101,
+                "Params": [
+                    1
+                ]
+            },
+            {
+                "MissionID": 111002,
+                "MissionName": "Send 5 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    5
+                ]
+            },
+            {
+                "MissionID": 111003,
+                "MissionName": "Send 10 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    10
+                ]
+            },
+            {
+                "MissionID": 111004,
+                "MissionName": "Send 20 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    20
+                ]
+            },
+            {
+                "MissionID": 111005,
+                "MissionName": "Send 30 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    30
+                ]
+            },
+            {
+                "MissionID": 111006,
+                "MissionName": "Send 40 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    40
+                ]
+            },
+            {
+                "MissionID": 111007,
+                "MissionName": "Send 50 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    50
+                ]
+            },
+            {
+                "MissionID": 111008,
+                "MissionName": "Send 75 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    75
+                ]
+            },
+            {
+                "MissionID": 111009,
+                "MissionName": "Send 100 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    100
+                ]
+            },
+            {
+                "MissionID": 111010,
+                "MissionName": "Send 150 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    150
+                ]
+            },
+            {
+                "MissionID": 111011,
+                "MissionName": "Send 200 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    200
+                ]
+            },
+            {
+                "MissionID": 111012,
+                "MissionName": "Send 250 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    250
+                ]
+            },
+            {
+                "MissionID": 111013,
+                "MissionName": "Send 300 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    300
+                ]
+            },
+            {
+                "MissionID": 111014,
+                "MissionName": "Send 350 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    350
+                ]
+            },
+            {
+                "MissionID": 111015,
+                "MissionName": "Send 400 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    400
+                ]
+            },
+            {
+                "MissionID": 111016,
+                "MissionName": "Send 450 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    450
+                ]
+            },
+            {
+                "MissionID": 111017,
+                "MissionName": "Send 500 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    500
+                ]
+            },
+            {
+                "MissionID": 111018,
+                "MissionName": "Send 550 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    550
+                ]
+            },
+            {
+                "MissionID": 111019,
+                "MissionName": "Send 600 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    600
+                ]
+            },
+            {
+                "MissionID": 111020,
+                "MissionName": "Send 650 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    650
+                ]
+            },
+            {
+                "MissionID": 111021,
+                "MissionName": "Send 700 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    700
+                ]
+            },
+            {
+                "MissionID": 111022,
+                "MissionName": "Send 750 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    750
+                ]
+            },
+            {
+                "MissionID": 111023,
+                "MissionName": "Send 800 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    800
+                ]
+            },
+            {
+                "MissionID": 111024,
+                "MissionName": "Send 850 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    850
+                ]
+            },
+            {
+                "MissionID": 111025,
+                "MissionName": "Send 900 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    900
+                ]
+            },
+            {
+                "MissionID": 111026,
+                "MissionName": "Send 950 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    950
+                ]
+            },
+            {
+                "MissionID": 111027,
+                "MissionName": "Send 1,000 Spirits to Friend",
+                "MissionType": 51101,
+                "Params": [
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 15,
+        "SeriesName": "Fuse Yo-kai",
+        "Missions": [
+            {
+                "MissionID": 112001,
+                "MissionName": "Fuse a Yo-kai",
+                "MissionType": 61001,
+                "Params": [
+                    1
+                ]
+            },
+            {
+                "MissionID": 112002,
+                "MissionName": "Fuse 3 Yo-kai",
+                "MissionType": 61001,
+                "Params": [
+                    3
+                ]
+            },
+            {
+                "MissionID": 112003,
+                "MissionName": "Fuse 5 Yo-kai",
+                "MissionType": 61001,
+                "Params": [
+                    5
+                ]
+            },
+            {
+                "MissionID": 112004,
+                "MissionName": "Fuse 7 Yo-kai",
+                "MissionType": 61001,
+                "Params": [
+                    7
+                ]
+            },
+            {
+                "MissionID": 112005,
+                "MissionName": "Fuse 10 Yo-kai",
+                "MissionType": 61001,
+                "Params": [
+                    10
+                ]
+            },
+            {
+                "MissionID": 112006,
+                "MissionName": "Fuse 15 Yo-kai",
+                "MissionType": 61001,
+                "Params": [
+                    15
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 16,
+        "SeriesName": "Level Up Yo-kai",
+        "Missions": [
+            {
+                "MissionID": 113001,
+                "MissionName": "Level Up Yo-kai: Intro",
+                "MissionType": 40001,
+                "Params": [
+                    2152000,
+                    5
+                ]
+            },
+            {
+                "MissionID": 113002,
+                "MissionName": "Level Up Yo-kai ①",
+                "MissionType": 40001,
+                "Params": [
+                    2213000,
+                    10
+                ]
+            },
+            {
+                "MissionID": 113003,
+                "MissionName": "Level Up Yo-kai ②",
+                "MissionType": 40001,
+                "Params": [
+                    2120000,
+                    5
+                ]
+            },
+            {
+                "MissionID": 113004,
+                "MissionName": "Level Up Yo-kai ③",
+                "MissionType": 40001,
+                "Params": [
+                    2175000,
+                    15
+                ]
+            },
+            {
+                "MissionID": 113005,
+                "MissionName": "Level Up Yo-kai ④",
+                "MissionType": 40001,
+                "Params": [
+                    2167000,
+                    5
+                ]
+            },
+            {
+                "MissionID": 113006,
+                "MissionName": "Level Up Yo-kai ⑤",
+                "MissionType": 40001,
+                "Params": [
+                    2174020,
+                    10
+                ]
+            },
+            {
+                "MissionID": 113007,
+                "MissionName": "Level Up Yo-kai ⑥",
+                "MissionType": 40001,
+                "Params": [
+                    2276000,
+                    5
+                ]
+            },
+            {
+                "MissionID": 113008,
+                "MissionName": "Level Up Yo-kai ⑦",
+                "MissionType": 40001,
+                "Params": [
+                    2203000,
+                    10
+                ]
+            },
+            {
+                "MissionID": 113009,
+                "MissionName": "Level Up Yo-kai ⑧",
+                "MissionType": 40001,
+                "Params": [
+                    2174000,
+                    5
+                ]
+            },
+            {
+                "MissionID": 113010,
+                "MissionName": "Level Up Yo-kai ⑨",
+                "MissionType": 40001,
+                "Params": [
+                    2174010,
+                    5
+                ]
+            },
+            {
+                "MissionID": 113011,
+                "MissionName": "Level Up Yo-kai ⑩",
+                "MissionType": 40001,
+                "Params": [
+                    2159000,
+                    10
+                ]
+            },
+            {
+                "MissionID": 113012,
+                "MissionName": "Level Up Yo-kai ⑪",
+                "MissionType": 40001,
+                "Params": [
+                    2159010,
+                    10
+                ]
+            },
+            {
+                "MissionID": 113013,
+                "MissionName": "Level Up Yo-kai ⑫",
+                "MissionType": 40001,
+                "Params": [
+                    2113000,
+                    15
+                ]
+            },
+            {
+                "MissionID": 113014,
+                "MissionName": "Level Up Yo-kai ⑬",
+                "MissionType": 40001,
+                "Params": [
+                    2113010,
+                    20
+                ]
+            },
+            {
+                "MissionID": 113015,
+                "MissionName": "Level Up Yo-kai ⑭",
+                "MissionType": 40001,
+                "Params": [
+                    2183000,
+                    15
+                ]
+            },
+            {
+                "MissionID": 113016,
+                "MissionName": "Level Up Yo-kai ⑮",
+                "MissionType": 40001,
+                "Params": [
+                    2282000,
+                    15
+                ]
+            },
+            {
+                "MissionID": 113017,
+                "MissionName": "Level Up Yo-kai ⑯",
+                "MissionType": 40001,
+                "Params": [
+                    2167010,
+                    20
+                ]
+            },
+            {
+                "MissionID": 113018,
+                "MissionName": "Level Up Yo-kai ⑰",
+                "MissionType": 40001,
+                "Params": [
+                    2102010,
+                    20
+                ]
+            },
+            {
+                "MissionID": 113019,
+                "MissionName": "Level Up Yo-kai ⑱",
+                "MissionType": 40001,
+                "Params": [
+                    2119000,
+                    20
+                ]
+            },
+            {
+                "MissionID": 113020,
+                "MissionName": "Level Up Yo-kai ⑲",
+                "MissionType": 40001,
+                "Params": [
+                    2124010,
+                    25
+                ]
+            },
+            {
+                "MissionID": 113021,
+                "MissionName": "Level Up Yo-kai ⑳",
+                "MissionType": 40001,
+                "Params": [
+                    2155000,
+                    25
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 17,
+        "SeriesName": "Try Evolving",
+        "Missions": [
+            {
+                "MissionID": 114001,
+                "MissionName": "Try Evolving ①",
+                "MissionType": 40001,
+                "Params": [
+                    2101000,
+                    16
+                ]
+            },
+            {
+                "MissionID": 114002,
+                "MissionName": "Try Evolving ②",
+                "MissionType": 40001,
+                "Params": [
+                    2281000,
+                    32
+                ]
+            },
+            {
+                "MissionID": 114003,
+                "MissionName": "Try Evolving ③",
+                "MissionType": 40001,
+                "Params": [
+                    2231000,
+                    36
+                ]
+            },
+            {
+                "MissionID": 114004,
+                "MissionName": "Try Evolving ④",
+                "MissionType": 40001,
+                "Params": [
+                    2169000,
+                    22
+                ]
+            },
+            {
+                "MissionID": 114005,
+                "MissionName": "Try Evolving ⑤",
+                "MissionType": 40001,
+                "Params": [
+                    2125000,
+                    22
+                ]
+            },
+            {
+                "MissionID": 114006,
+                "MissionName": "Try Evolving ⑥",
+                "MissionType": 40001,
+                "Params": [
+                    2197000,
+                    24
+                ]
+            },
+            {
+                "MissionID": 114007,
+                "MissionName": "Try Evolving ⑦",
+                "MissionType": 40001,
+                "Params": [
+                    2189000,
+                    25
+                ]
+            },
+            {
+                "MissionID": 114008,
+                "MissionName": "Try Evolving ⑧",
+                "MissionType": 40001,
+                "Params": [
+                    2211000,
+                    35
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 19,
+        "SeriesName": "Make purchases at the shop",
+        "Missions": [
+             {
+                "MissionID": 115001,
+                "MissionName": "Buy Something at the Shop",
+                "MissionType": 61201,
+                "Params": [
+                    1
+                ]
+            },
+            {
+                "MissionID": 115002,
+                "MissionName": "Make 5 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    5
+                ]
+            },
+            {
+                "MissionID": 115003,
+                "MissionName": "Make 10 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    10
+                ]
+            },
+            {
+                "MissionID": 115004,
+                "MissionName": "Make 15 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    15
+                ]
+            },
+            {
+                "MissionID": 115005,
+                "MissionName": "Make 20 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    20
+                ]
+            },
+            {
+                "MissionID": 115006,
+                "MissionName": "Make 30 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    30
+                ]
+            },
+            {
+                "MissionID": 115007,
+                "MissionName": "Make 40 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    40
+                ]
+            },
+            {
+                "MissionID": 115008,
+                "MissionName": "Make 50 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    50
+                ]
+            },
+            {
+                "MissionID": 115009,
+                "MissionName": "Make 60 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    60
+                ]
+            },
+            {
+                "MissionID": 115010,
+                "MissionName": "Make 70 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    70
+                ]
+            },
+            {
+                "MissionID": 115011,
+                "MissionName": "Make 80 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    80
+                ]
+            },
+            {
+                "MissionID": 115012,
+                "MissionName": "Make 90 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    90
+                ]
+            },
+            {
+                "MissionID": 115013,
+                "MissionName": "Make 100 purchases at the shop",
+                "MissionType": 61201,
+                "Params": [
+                    100
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 20,
+        "SeriesName": "Use Item",
+        "Missions": [
+            {
+                "MissionID": 116001,
+                "MissionName": "Use 3 Items",
+                "MissionType": 31001,
+                "Params": [
+                    3
+                ]
+            },
+            {
+                "MissionID": 116002,
+                "MissionName": "Use 5 Items",
+                "MissionType": 31001,
+                "Params": [
+                    5
+                ]
+            },
+            {
+                "MissionID": 116003,
+                "MissionName": "Use 7 Items",
+                "MissionType": 31001,
+                "Params": [
+                    7
+                ]
+            },
+            {
+                "MissionID": 116004,
+                "MissionName": "Use 10 Items",
+                "MissionType": 31001,
+                "Params": [
+                    10
+                ]
+            },
+            {
+                "MissionID": 116005,
+                "MissionName": "Use 15 Items",
+                "MissionType": 31001,
+                "Params": [
+                    15
+                ]
+            },
+            {
+                "MissionID": 116006,
+                "MissionName": "Use 20 Items",
+                "MissionType": 31001,
+                "Params": [
+                    20
+                ]
+            },
+            {
+                "MissionID": 116007,
+                "MissionName": "Use 25 Items",
+                "MissionType": 31001,
+                "Params": [
+                    25
+                ]
+            },
+            {
+                "MissionID": 116008,
+                "MissionName": "Use 30 Items",
+                "MissionType": 31001,
+                "Params": [
+                    30
+                ]
+            },
+            {
+                "MissionID": 116009,
+                "MissionName": "Use 40 Items",
+                "MissionType": 31001,
+                "Params": [
+                    40
+                ]
+            },
+            {
+                "MissionID": 116010,
+                "MissionName": "Use 50 Items",
+                "MissionType": 31001,
+                "Params": [
+                    50
+                ]
+            },
+            {
+                "MissionID": 116011,
+                "MissionName": "Use 60 Items",
+                "MissionType": 31001,
+                "Params": [
+                    60
+                ]
+            },
+            {
+                "MissionID": 116012,
+                "MissionName": "Use 70 Items",
+                "MissionType": 31001,
+                "Params": [
+                    70
+                ]
+            },
+            {
+                "MissionID": 116013,
+                "MissionName": "Use 80 Items",
+                "MissionType": 31001,
+                "Params": [
+                    80
+                ]
+            },
+            {
+                "MissionID": 116014,
+                "MissionName": "Use 90 Items",
+                "MissionType": 31001,
+                "Params": [
+                    90
+                ]
+            },
+            {
+                "MissionID": 116015,
+                "MissionName": "Use 100 Items",
+                "MissionType": 31001,
+                "Params": [
+                    100
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 21,
+        "SeriesName": "Crank the Crank--Kai Time",
+        "Missions": [
+            {
+                "MissionID": 117001,
+                "MissionName": "Crank the Crank-a-Kai 3 times",
+                "MissionType": 61101,
+                "Params": [
+                    3
+                ]
+            },
+            {
+                "MissionID": 117002,
+                "MissionName": "Crank the Crank-a-Kai 5 times",
+                "MissionType": 61101,
+                "Params": [
+                    5
+                ]
+            },
+            {
+                "MissionID": 117003,
+                "MissionName": "Crank the Crank-a-Kai 7 times",
+                "MissionType": 61101,
+                "Params": [
+                    7
+                ]
+            },
+            {
+                "MissionID": 117004,
+                "MissionName": "Crank the Crank-a-Kai 10 times",
+                "MissionType": 61101,
+                "Params": [
+                    10
+                ]
+            },
+            {
+                "MissionID": 117005,
+                "MissionName": "Crank the Crank-a-Kai 15 times",
+                "MissionType": 61101,
+                "Params": [
+                    15
+                ]
+            },
+            {
+                "MissionID": 117006,
+                "MissionName": "Crank the Crank-a-Kai 20 times",
+                "MissionType": 61101,
+                "Params": [
+                    20
+                ]
+            },
+            {
+                "MissionID": 117007,
+                "MissionName": "Crank the Crank-a-Kai 25 times",
+                "MissionType": 61101,
+                "Params": [
+                    25
+                ]
+            },
+            {
+                "MissionID": 117008,
+                "MissionName": "Crank the Crank-a-Kai 30 times",
+                "MissionType": 61101,
+                "Params": [
+                    30
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 22,
+        "SeriesName": "Brave Yo-kai Challenge",
+        "Missions": [
+            {
+                "MissionID": 118001,
+                "MissionName": "Brave Yo-kai Challenge ①",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118002,
+                "MissionName": "Brave Yo-kai Challenge ②",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118003,
+                "MissionName": "Brave Yo-kai Challenge ③",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118004,
+                "MissionName": "Brave Yo-kai Challenge ④",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118005,
+                "MissionName": "Brave Yo-kai Challenge ⑤",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118006,
+                "MissionName": "Brave Yo-kai Challenge ⑥",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118007,
+                "MissionName": "Brave Yo-kai Challenge ⑦",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118008,
+                "MissionName": "Brave Yo-kai Challenge ⑧",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 23,
+        "SeriesName": "Mysterious Yo-kai Challenge",
+        "Missions": [
+            {
+                "MissionID": 118009,
+                "MissionName": "Mysterious Yo-kai Challenge ①",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118010,
+                "MissionName": "Mysterious Yo-kai Challenge ②",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118011,
+                "MissionName": "Mysterious Yo-kai Challenge ③",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118012,
+                "MissionName": "Mysterious Yo-kai Challenge ④",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118013,
+                "MissionName": "Mysterious Yo-kai Challenge ⑤",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118014,
+                "MissionName": "Mysterious Yo-kai Challenge ⑥",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118015,
+                "MissionName": "Mysterious Yo-kai Challenge ⑦",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118016,
+                "MissionName": "Mysterious Yo-kai Challenge ⑧",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 24,
+        "SeriesName": "Tough Yo-kai Challenge",
+        "Missions": [
+            {
+                "MissionID": 118017,
+                "MissionName": "Tough Yo-kai Challenge ①",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118018,
+                "MissionName": "Tough Yo-kai Challenge ②",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118019,
+                "MissionName": "Tough Yo-kai Challenge ③",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118020,
+                "MissionName": "Tough Yo-kai Challenge ④",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118021,
+                "MissionName": "Tough Yo-kai Challenge ⑤",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118022,
+                "MissionName": "Tough Yo-kai Challenge ⑥",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118023,
+                "MissionName": "Tough Yo-kai Challenge ⑦",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118024,
+                "MissionName": "Tough Yo-kai Challenge ⑧",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 25,
+        "SeriesName": "Charming Yo-kai Challenge",
+        "Missions": [
+            {
+                "MissionID": 118025,
+                "MissionName": "Charming Yo-kai Challenge ①",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118026,
+                "MissionName": "Charming Yo-kai Challenge ②",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118027,
+                "MissionName": "Charming Yo-kai Challenge ③",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118028,
+                "MissionName": "Charming Yo-kai Challenge ④",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118029,
+                "MissionName": "Charming Yo-kai Challenge ⑤",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118030,
+                "MissionName": "Charming Yo-kai Challenge ⑥",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118031,
+                "MissionName": "Charming Yo-kai Challenge ⑦",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118032,
+                "MissionName": "Charming Yo-kai Challenge ⑧",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 26,
+        "SeriesName": "Heartful Yo-kai Challenge",
+        "Missions": [
+            {
+                "MissionID": 118033,
+                "MissionName": "Heartful Yo-kai Challenge ①",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118034,
+                "MissionName": "Heartful Yo-kai Challenge ②",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118035,
+                "MissionName": "Heartful Yo-kai Challenge ③",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118036,
+                "MissionName": "Heartful Yo-kai Challenge ④",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118037,
+                "MissionName": "Heartful Yo-kai Challenge ⑤",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118038,
+                "MissionName": "Heartful Yo-kai Challenge ⑥",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118039,
+                "MissionName": "Heartful Yo-kai Challenge ⑦",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118040,
+                "MissionName": "Heartful Yo-kai Challenge ⑧",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 27,
+        "SeriesName": "Shady Yo-kai Challenge",
+        "Missions": [
+            {
+                "MissionID": 118041,
+                "MissionName": "Shady Yo-kai Challenge ①",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118042,
+                "MissionName": "Shady Yo-kai Challenge ②",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118043,
+                "MissionName": "Shady Yo-kai Challenge ③",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118044,
+                "MissionName": "Shady Yo-kai Challenge ④",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118045,
+                "MissionName": "Shady Yo-kai Challenge ⑤",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118046,
+                "MissionName": "Shady Yo-kai Challenge ⑥",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118047,
+                "MissionName": "Shady Yo-kai Challenge ⑦",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118048,
+                "MissionName": "Shady Yo-kai Challenge ⑧",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 28,
+        "SeriesName": "Eerie Yo-kai Challenge",
+        "Missions": [
+            {
+                "MissionID": 118049,
+                "MissionName": "Eerie Yo-kai Challenge ①",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118050,
+                "MissionName": "Eerie Yo-kai Challenge ②",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118051,
+                "MissionName": "Eerie Yo-kai Challenge ③",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118052,
+                "MissionName": "Eerie Yo-kai Challenge ④",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118053,
+                "MissionName": "Eerie Yo-kai Challenge ⑤",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118054,
+                "MissionName": "Eerie Yo-kai Challenge ⑥",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118055,
+                "MissionName": "Eerie Yo-kai Challenge ⑦",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118056,
+                "MissionName": "Eerie Yo-kai Challenge ⑧",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 29,
+        "SeriesName": "Slippery Yo-kai Challenge",
+        "Missions": [
+            {
+                "MissionID": 118057,
+                "MissionName": "Slippery Yo-kai Challenge ①",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118058,
+                "MissionName": "Slippery Yo-kai Challenge ②",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118059,
+                "MissionName": "Slippery Yo-kai Challenge ③",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118060,
+                "MissionName": "Slippery Yo-kai Challenge ④",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118061,
+                "MissionName": "Slippery Yo-kai Challenge ⑤",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118062,
+                "MissionName": "Slippery Yo-kai Challenge ⑥",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118063,
+                "MissionName": "Slippery Yo-kai Challenge ⑦",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118064,
+                "MissionName": "Slippery Yo-kai Challenge ⑧",
+                "MissionType": 10105,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 30,
+        "SeriesName": "Rank E Test",
+        "Missions": [
+            {
+                "MissionID": 118065,
+                "MissionName": "Rank E Test",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118067,
+                "MissionName": "Rank E Test ②",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 31,
+        "SeriesName": "Rank D Test",
+        "Missions": [
+            {
+                "MissionID": 118066,
+                "MissionName": "Rank D Test",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118068,
+                "MissionName": "Rank D Test ②",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118070,
+                "MissionName": "Rank D Test ③",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 32,
+        "SeriesName": "Rank C Test",
+        "Missions": [
+            {
+                "MissionID": 118069,
+                "MissionName": "Rank C Test",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118071,
+                "MissionName": "Rank C Test ②",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118072,
+                "MissionName": "Rank C Test ③",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 33,
+        "SeriesName": "Rank B Test",
+        "Missions": [
+            {
+                "MissionID": 118073,
+                "MissionName": "Rank B Test",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            },
+            {
+                "MissionID": 118074,
+                "MissionName": "Rank B Test ②",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 34,
+        "SeriesName": "Rank Test",
+        "Missions": [
+            {
+                "MissionID": 118075,
+                "MissionName": "Rank A Test",
+                "MissionType": 10104,
+                "Params": [
+                    1
+                ]
+            },
+            {
+                "MissionID": 118076,
+                "MissionName": "Rank A Test ②",
+                "MissionType": 10104,
+                "Params": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 35,
+        "SeriesName": "Rank S Test",
+        "Missions": [
+            {
+                "MissionID": 118077,
+                "MissionName": "Rank S Test",
+                "MissionType": 10104,
+                "Params": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 36,
+        "SeriesName": "Try Buying Rice Ball",
+        "Missions": [
+            {
+                "MissionID": 119001,
+                "MissionName": "Try Buying a Rice Ball ①",
+                "MissionType": 60201,
+                "Params": [
+                    10001
+                ]
+            },
+            {
+                "MissionID": 119002,
+                "MissionName": "Try Buying a Rice Ball ②",
+                "MissionType": 60201,
+                "Params": [
+                    10003
+                ]
+            },
+        ]
+    },
+    {
+        "SeriesID": 37,
+        "SeriesName": "Try Buying Bread",
+        "Missions": [
+            {
+                "MissionID": 119003,
+                "MissionName": "Try Buying Bread ①",
+                "MissionType": 60201,
+                "Params": [
+                    10101
+                ]
+            },
+            {
+                "MissionID": 119004,
+                "MissionName": "Try Buying Bread ②",
+                "MissionType": 60201,
+                "Params": [
+                    10102
+                ]
+            },
+            {
+                "MissionID": 119005,
+                "MissionName": "Try Buying Bread ③",
+                "MissionType": 60201,
+                "Params": [
+                    10105
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 38,
+        "SeriesName": "Try Buying Candy",
+        "Missions": [
+            {
+                "MissionID": 119006,
+                "MissionName": "Try Buying Candy ①",
+                "MissionType": 60201,
+                "Params": [
+                    10202
+                ]
+            },
+            {
+                "MissionID": 119007,
+                "MissionName": "Try Buying Candy ②",
+                "MissionType": 60201,
+                "Params": [
+                    10203
+                ]
+            },
+            {
+                "MissionID": 119008,
+                "MissionName": "Try Buying Candy ③",
+                "MissionType": 60201,
+                "Params": [
+                    10205
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 39,
+        "SeriesName": "Try Buying Milk",
+        "Missions": [
+            {
+                "MissionID": 119009,
+                "MissionName": "Try Buying Milk ①",
+                "MissionType": 60201,
+                "Params": [
+                    10301
+                ]
+            },
+            {
+                "MissionID": 119010,
+                "MissionName": "Try Buying Milk ②",
+                "MissionType": 60201,
+                "Params": [
+                    10302
+                ]
+            },
+            {
+                "MissionID": 119011,
+                "MissionName": "Try Buying Milk ③",
+                "MissionType": 60201,
+                "Params": [
+                    10303
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 40,
+        "SeriesName": "Try Buying Juice",
+        "Missions": [
+            {
+                "MissionID": 119012,
+                "MissionName": "Try Buying Juice ①",
+                "MissionType": 60201,
+                "Params": [
+                    10401
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 41,
+        "SeriesName": "Try Buying Hamburger",
+        "Missions": [
+            {
+                "MissionID": 119013,
+                "MissionName": "Try Buying a Hamburger ①",
+                "MissionType": 60201,
+                "Params": [
+                    10501
+                ]
+            },
+            {
+                "MissionID": 119014,
+                "MissionName": "Try Buying a Hamburger ②",
+                "MissionType": 60201,
+                "Params": [
+                    10502
+                ]
+            },
+            {
+                "MissionID": 119015,
+                "MissionName": "Try Buying a Hamburger ③",
+                "MissionType": 60201,
+                "Params": [
+                    10503
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 42,
+        "SeriesName": "Try Buying Ramen",
+        "Missions": [
+            {
+                "MissionID": 119016,
+                "MissionName": "Try Buying Ramen ①",
+                "MissionType": 60201,
+                "Params": [
+                    10701
+                ]
+            },
+            {
+                "MissionID": 119017,
+                "MissionName": "Try Buying Ramen ②",
+                "MissionType": 60201,
+                "Params": [
+                    10702
+                ]
+            },
+            {
+                "MissionID": 119018,
+                "MissionName": "Try Buying Ramen ③",
+                "MissionType": 60201,
+                "Params": [
+                    10703
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 43,
+        "SeriesName": "Try Buying Chinese Food",
+        "Missions": [
+            {
+                "MissionID": 119019,
+                "MissionName": "Try Buying Chinese Food ①",
+                "MissionType": 60201,
+                "Params": [
+                    10901
+                ]
+            },
+            {
+                "MissionID": 119020,
+                "MissionName": "Try Buying Chinese Food ②",
+                "MissionType": 60201,
+                "Params": [
+                    10902
+                ]
+            },
+            {
+                "MissionID": 119021,
+                "MissionName": "Try Buying Chinese Food ③",
+                "MissionType": 60201,
+                "Params": [
+                    10903
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 44,
+        "SeriesName": "Try Buying Vegetables",
+        "Missions": [
+            {
+                "MissionID": 119022,
+                "MissionName": "Try Buying Vegetables ①",
+                "MissionType": 60201,
+                "Params": [
+                    11101
+                ]
+            },
+            {
+                "MissionID": 119023,
+                "MissionName": "Try Buying Vegetables ②",
+                "MissionType": 60201,
+                "Params": [
+                    11102
+                ]
+            },
+            {
+                "MissionID": 119024,
+                "MissionName": "Try Buying Vegetables ③",
+                "MissionType": 60201,
+                "Params": [
+                    11103
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 45,
+        "SeriesName": "Try Buying Meat",
+        "Missions": [
+            {
+                "MissionID": 119025,
+                "MissionName": "Try Buying Meat ①",
+                "MissionType": 60201,
+                "Params": [
+                    11201
+                ]
+            },
+            {
+                "MissionID": 119026,
+                "MissionName": "Try Buying Meat ②",
+                "MissionType": 60201,
+                "Params": [
+                    11202
+                ]
+            },
+            {
+                "MissionID": 119027,
+                "MissionName": "Try Buying Meat ③",
+                "MissionType": 60201,
+                "Params": [
+                    11203
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 46,
+        "SeriesName": "Try Buying Seafood",
+        "Missions": [
+            {
+                "MissionID": 119028,
+                "MissionName": "Try Buying Seafood ①",
+                "MissionType": 60201,
+                "Params": [
+                    11301
+                ]
+            },
+            {
+                "MissionID": 119029,
+                "MissionName": "Try Buying Seafood ②",
+                "MissionType": 60201,
+                "Params": [
+                    11302
+                ]
+            },
+            {
+                "MissionID": 119030,
+                "MissionName": "Try Buying Seafood ③",
+                "MissionType": 60201,
+                "Params": [
+                    11303
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 47,
+        "SeriesName": "Try Buying Sushi",
+        "Missions": [
+            {
+                "MissionID": 119031,
+                "MissionName": "Try Buying Sushi ①",
+                "MissionType": 60201,
+                "Params": [
+                    10801
+                ]
+            },
+            {
+                "MissionID": 119032,
+                "MissionName": "Try Buying Sushi ②",
+                "MissionType": 60201,
+                "Params": [
+                    10802
+                ]
+            },
+            {
+                "MissionID": 119033,
+                "MissionName": "Try Buying Sushi ③",
+                "MissionType": 60201,
+                "Params": [
+                    10803
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 48,
+        "SeriesName": "Try Buying Curry",
+        "Missions": [
+            {
+                "MissionID": 119034,
+                "MissionName": "Try Buying Curry ①",
+                "MissionType": 60201,
+                "Params": [
+                    11401
+                ]
+            },
+            {
+                "MissionID": 119035,
+                "MissionName": "Try Buying Curry ②",
+                "MissionType": 60201,
+                "Params": [
+                    11402
+                ]
+            },
+            {
+                "MissionID": 119036,
+                "MissionName": "Try Buying Curry ③",
+                "MissionType": 60201,
+                "Params": [
+                    11403
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 49,
+        "SeriesName": "Try Buying Sweet Things",
+        "Missions": [
+            {
+                "MissionID": 119037,
+                "MissionName": "Try Buying Sweet Things ①",
+                "MissionType": 60201,
+                "Params": [
+                    11501
+                ]
+            },
+            {
+                "MissionID": 119038,
+                "MissionName": "Try Buying Sweet Things ②",
+                "MissionType": 60201,
+                "Params": [
+                    11502
+                ]
+            },
+            {
+                "MissionID": 119039,
+                "MissionName": "Try Buying Sweet Things ③",
+                "MissionType": 60201,
+                "Params": [
+                    11503
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 50,
+        "SeriesName": "Try Buying Oden Stew",
+        "Missions": [
+            {
+                "MissionID": 119040,
+                "MissionName": "Try Buying Oden Stew ①",
+                "MissionType": 60201,
+                "Params": [
+                    11602
+                ]
+            },
+            {
+                "MissionID": 119041,
+                "MissionName": "Try Buying Oden Stew ②",
+                "MissionType": 60201,
+                "Params": [
+                    11603
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 51,
+        "SeriesName": "Try Buying Snacks",
+        "Missions": [
+            {
+                "MissionID": 119042,
+                "MissionName": "Try Buying Snacks ①",
+                "MissionType": 60201,
+                "Params": [
+                    11801
+                ]
+            },
+            {
+                "MissionID": 119043,
+                "MissionName": "Try Buying Snacks ②",
+                "MissionType": 60201,
+                "Params": [
+                    11802
+                ]
+            },
+            {
+                "MissionID": 119044,
+                "MissionName": "Try Buying Snacks ③",
+                "MissionType": 60201,
+                "Params": [
+                    11803
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 52,
+        "SeriesName": "Try Buying Chocobar",
+        "Missions": [
+            {
+                "MissionID": 119045,
+                "MissionName": "Try Buying Chocobar",
+                "MissionType": 60201,
+                "Params": [
+                    10207
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 53,
+        "SeriesName": "Befriend Showbonyan",
+        "Missions": [
+            {
+                "MissionID": 119046,
+                "MissionName": "Befriend Showbonyan",
+                "MissionType": 40101,
+                "Params": [
+                    2681000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 54,
+        "SeriesName": "Try Buying Ice Cream",
+        "Missions": [
+            {
+                "MissionID": 119047,
+                "MissionName": "Try Buying Ice Cream ①",
+                "MissionType": 60201,
+                "Params": [
+                    11901
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 55,
+        "SeriesName": "Befriend Komasan",
+        "Missions": [
+            {
+                "MissionID": 119048,
+                "MissionName": "Befriend Komasan",
+                "MissionType": 40101,
+                "Params": [
+                    2159000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 56,
+        "SeriesName": "Try Buying Donut",
+        "Missions": [
+            {
+                "MissionID": 119049,
+                "MissionName": "Try Buying Donut ①",
+                "MissionType": 60201,
+                "Params": [
+                    12001
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 57,
+        "SeriesName": "Befriend Usapyon",
+        "Missions": [
+            {
+                "MissionID": 119050,
+                "MissionName": "Befriend Usapyon",
+                "MissionType": 40101,
+                "Params": [
+                    2597000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 58,
+        "SeriesName": "Try Buying Pizza",
+        "Missions": [
+            {
+                "MissionID": 119051,
+                "MissionName": "Try Buying Pizza ①",
+                "MissionType": 60201,
+                "Params": [
+                    12201
+                ]
+            },
+            {
+                "MissionID": 119052,
+                "MissionName": "Try Buying Pizza ②",
+                "MissionType": 60201,
+                "Params": [
+                    12203
+                ]
+            },
+            {
+                "MissionID": 119053,
+                "MissionName": "Try Buying Pizza ③",
+                "MissionType": 60201,
+                "Params": [
+                    12202
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 59,
+        "SeriesName": "Try Buying Hot Dog",
+        "Missions": [
+            {
+                "MissionID": 119054,
+                "MissionName": "Try Buying Hot Dog ①",
+                "MissionType": 60201,
+                "Params": [
+                    12301
+                ]
+            },
+            {
+                "MissionID": 119055,
+                "MissionName": "Try Buying Hot Dog ②",
+                "MissionType": 60201,
+                "Params": [
+                    12302
+                ]
+            },
+            {
+                "MissionID": 119056,
+                "MissionName": "Try Buying Hot Dog ③",
+                "MissionType": 60201,
+                "Params": [
+                    12303
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 60,
+        "SeriesName": "Try Buying Pasta",
+        "Missions": [
+            {
+                "MissionID": 119057,
+                "MissionName": "Try Buying Pasta ①",
+                "MissionType": 60201,
+                "Params": [
+                    12401
+                ]
+            },
+            {
+                "MissionID": 119058,
+                "MissionName": "Try Buying Pasta ②",
+                "MissionType": 60201,
+                "Params": [
+                    12403
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 61,
+        "SeriesName": "Try Buying Tempura",
+        "Missions": [
+            {
+                "MissionID": 119059,
+                "MissionName": "Try Buying Tempura ①",
+                "MissionType": 60201,
+                "Params": [
+                    12501
+                ]
+            },
+            {
+                "MissionID": 119060,
+                "MissionName": "Try Buying Tempura ②",
+                "MissionType": 60201,
+                "Params": [
+                    12503
+                ]
+            },
+            {
+                "MissionID": 119061,
+                "MissionName": "Try Buying Tempura ③",
+                "MissionType": 60201,
+                "Params": [
+                    12506
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 62,
+        "SeriesName": "Try Buying Sukiyaki",
+        "Missions": [
+            {
+                "MissionID": 119062,
+                "MissionName": "Try Buying Sukiyaki ①",
+                "MissionType": 60201,
+                "Params": [
+                    12801
+                ]
+            },
+            {
+                "MissionID": 119063,
+                "MissionName": "Try Buying Sukiyaki ②",
+                "MissionType": 60201,
+                "Params": [
+                    12803
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 63,
+        "SeriesName": "Try Using Rice Ball",
+        "Missions": [
+            {
+                "MissionID": 120001,
+                "MissionName": "Try Using a Rice Ball ①",
+                "MissionType": 30001,
+                "Params": [
+                    10001
+                ]
+            },
+            {
+                "MissionID": 120002,
+                "MissionName": "Try Using a Rice Ball ②",
+                "MissionType": 30001,
+                "Params": [
+                    10003
+                ]
+            },
+            {
+                "MissionID": 120003,
+                "MissionName": "Try Using a Rice Ball ③",
+                "MissionType": 30001,
+                "Params": [
+                    10004
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 64,
+        "SeriesName": "Try Using Bread",
+        "Missions": [
+            {
+                "MissionID": 120004,
+                "MissionName": "Try Using Bread ①",
+                "MissionType": 30001,
+                "Params": [
+                    10101
+                ]
+            },
+            {
+                "MissionID": 120005,
+                "MissionName": "Try Using Bread ②",
+                "MissionType": 30001,
+                "Params": [
+                    10102
+                ]
+            },
+            {
+                "MissionID": 120006,
+                "MissionName": "Try Using Bread ③",
+                "MissionType": 30001,
+                "Params": [
+                    10105
+                ]
+            },
+            {
+                "MissionID": 120007,
+                "MissionName": "Try Using Bread ④",
+                "MissionType": 30001,
+                "Params": [
+                    10104
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 65,
+        "SeriesName": "Try Using Candy",
+        "Missions": [
+            {
+                "MissionID": 120008,
+                "MissionName": "Try Using Candy ①",
+                "MissionType": 30001,
+                "Params": [
+                    10202
+                ]
+            },
+            {
+                "MissionID": 120009,
+                "MissionName": "Try Using Candy ②",
+                "MissionType": 30001,
+                "Params": [
+                    10203
+                ]
+            },
+            {
+                "MissionID": 120010,
+                "MissionName": "Try Using Candy ③",
+                "MissionType": 30001,
+                "Params": [
+                    10205
+                ]
+            },
+            {
+                "MissionID": 120011,
+                "MissionName": "Try Using Candy ④",
+                "MissionType": 30001,
+                "Params": [
+                    10206
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 66,
+        "SeriesName": "Try Using Chocobar",
+        "Missions": [
+            {
+                "MissionID": 120012,
+                "MissionName": "Try Using Chocobar ①",
+                "MissionType": 30001,
+                "Params": [
+                    10207
+                ]
+            },
+            {
+                "MissionID": 120071,
+                "MissionName": "Try Using Chocobar ②",
+                "MissionType": 30001,
+                "Params": [
+                    11902
+                ]
+            },
+            {
+                "MissionID": 120072,
+                "MissionName": "Try Using Chocobar ③",
+                "MissionType": 30001,
+                "Params": [
+                    11903
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 67,
+        "SeriesName": "Try Using Milk",
+        "Missions": [
+            {
+                "MissionID": 120013,
+                "MissionName": "Try Using Milk ①",
+                "MissionType": 30001,
+                "Params": [
+                    10301
+                ]
+            },
+            {
+                "MissionID": 120014,
+                "MissionName": "Try Using Milk ②",
+                "MissionType": 30001,
+                "Params": [
+                    10302
+                ]
+            },
+            {
+                "MissionID": 120015,
+                "MissionName": "Try Using Milk ③",
+                "MissionType": 30001,
+                "Params": [
+                    10303
+                ]
+            },
+            {
+                "MissionID": 120016,
+                "MissionName": "Try Using Milk ④",
+                "MissionType": 30001,
+                "Params": [
+                    10304
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 68,
+        "SeriesName": "Try Using Juice",
+        "Missions": [
+            {
+                "MissionID": 120017,
+                "MissionName": "Try Using Juice ①",
+                "MissionType": 30001,
+                "Params": [
+                    10401
+                ]
+            },
+            {
+                "MissionID": 120018,
+                "MissionName": "Try Using Juice ④",
+                "MissionType": 30001,
+                "Params": [
+                    10404
+                ]
+            },
+            {
+                "MissionID": 120073,
+                "MissionName": "Try Using Juice ②",
+                "MissionType": 30001,
+                "Params": [
+                    10405
+                ]
+            },
+            {
+                "MissionID": 120074,
+                "MissionName": "Try Using Juice ③",
+                "MissionType": 30001,
+                "Params": [
+                    10406
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 69,
+        "SeriesName": "Try Using Hamburger",
+        "Missions": [
+            {
+                "MissionID": 120019,
+                "MissionName": "Try Using Hamburger ①",
+                "MissionType": 30001,
+                "Params": [
+                    10501
+                ]
+            },
+            {
+                "MissionID": 120020,
+                "MissionName": "Try Using Hamburger ②",
+                "MissionType": 30001,
+                "Params": [
+                    10502
+                ]
+            },
+            {
+                "MissionID": 120021,
+                "MissionName": "Try Using Hamburger ③",
+                "MissionType": 30001,
+                "Params": [
+                    10503
+                ]
+            },
+            {
+                "MissionID": 120022,
+                "MissionName": "Try Using Hamburger ④",
+                "MissionType": 30001,
+                "Params": [
+                    10504
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 70,
+        "SeriesName": "Try Using Ramen",
+        "Missions": [
+            {
+                "MissionID": 120023,
+                "MissionName": "Try Using Ramen ①",
+                "MissionType": 30001,
+                "Params": [
+                    10701
+                ]
+            },
+            {
+                "MissionID": 120024,
+                "MissionName": "Try Using Ramen ②",
+                "MissionType": 30001,
+                "Params": [
+                    10702
+                ]
+            },
+            {
+                "MissionID": 120025,
+                "MissionName": "Try Using Ramen ③",
+                "MissionType": 30001,
+                "Params": [
+                    10703
+                ]
+            },
+            {
+                "MissionID": 120026,
+                "MissionName": "Try Using Ramen ④",
+                "MissionType": 30001,
+                "Params": [
+                    10704
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 71,
+        "SeriesName": "Try Using Chinese Food",
+        "Missions": [
+            {
+                "MissionID": 120027,
+                "MissionName": "Try Using Chinese Food ①",
+                "MissionType": 30001,
+                "Params": [
+                    10901
+                ]
+            },
+            {
+                "MissionID": 120028,
+                "MissionName": "Try Using Chinese Food ②",
+                "MissionType": 30001,
+                "Params": [
+                    10902
+                ]
+            },
+            {
+                "MissionID": 120029,
+                "MissionName": "Try Using Chinese Food ③",
+                "MissionType": 30001,
+                "Params": [
+                    10903
+                ]
+            },
+            {
+                "MissionID": 120030,
+                "MissionName": "Try Using Chinese Food ④",
+                "MissionType": 30001,
+                "Params": [
+                    10904
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 72,
+        "SeriesName": "Try Using Vegetables",
+        "Missions": [
+            {
+                "MissionID": 120031,
+                "MissionName": "Try Using Vegetables ①",
+                "MissionType": 30001,
+                "Params": [
+                    11101
+                ]
+            },
+            {
+                "MissionID": 120032,
+                "MissionName": "Try Using Vegetables ②",
+                "MissionType": 30001,
+                "Params": [
+                    11102
+                ]
+            },
+            {
+                "MissionID": 120033,
+                "MissionName": "Try Using Vegetables ③",
+                "MissionType": 30001,
+                "Params": [
+                    11103
+                ]
+            },
+            {
+                "MissionID": 120034,
+                "MissionName": "Try Using Vegetables ④",
+                "MissionType": 30001,
+                "Params": [
+                    11104
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 73,
+        "SeriesName": "Try Using Meat",
+        "Missions": [
+            {
+                "MissionID": 120035,
+                "MissionName": "Try Using Meat ①",
+                "MissionType": 30001,
+                "Params": [
+                    11201
+                ]
+            },
+            {
+                "MissionID": 120036,
+                "MissionName": "Try Using Meat ②",
+                "MissionType": 30001,
+                "Params": [
+                    11202
+                ]
+            },
+            {
+                "MissionID": 120037,
+                "MissionName": "Try Using Meat ③",
+                "MissionType": 30001,
+                "Params": [
+                    11203
+                ]
+            },
+            {
+                "MissionID": 120038,
+                "MissionName": "Try Using Meat ④",
+                "MissionType": 30001,
+                "Params": [
+                    11204
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 74,
+        "SeriesName": "Try Using Seafood",
+        "Missions": [
+            {
+                "MissionID": 120039,
+                "MissionName": "Try Using Seafood ①",
+                "MissionType": 30001,
+                "Params": [
+                    11301
+                ]
+            },
+            {
+                "MissionID": 120040,
+                "MissionName": "Try Using Seafood ②",
+                "MissionType": 30001,
+                "Params": [
+                    11302
+                ]
+            },
+            {
+                "MissionID": 120041,
+                "MissionName": "Try Using Seafood ③",
+                "MissionType": 30001,
+                "Params": [
+                    11303
+                ]
+            },
+            {
+                "MissionID": 120042,
+                "MissionName": "Try Using Seafood ④",
+                "MissionType": 30001,
+                "Params": [
+                    11304
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 75,
+        "SeriesName": "Try Using Sushi",
+        "Missions": [
+            {
+                "MissionID": 120043,
+                "MissionName": "Try Using Sushi ①",
+                "MissionType": 30001,
+                "Params": [
+                    10801
+                ]
+            },
+            {
+                "MissionID": 120044,
+                "MissionName": "Try Using Sushi ②",
+                "MissionType": 30001,
+                "Params": [
+                    10802
+                ]
+            },
+            {
+                "MissionID": 120045,
+                "MissionName": "Try Using Sushi ③",
+                "MissionType": 30001,
+                "Params": [
+                    10803
+                ]
+            },
+            {
+                "MissionID": 120046,
+                "MissionName": "Try Using Sushi ④",
+                "MissionType": 30001,
+                "Params": [
+                    10804
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 76,
+        "SeriesName": "Try Using Curry",
+        "Missions": [
+            {
+                "MissionID": 120047,
+                "MissionName": "Try Using Curry ①",
+                "MissionType": 30001,
+                "Params": [
+                    11401
+                ]
+            },
+            {
+                "MissionID": 120048,
+                "MissionName": "Try Using Curry ②",
+                "MissionType": 30001,
+                "Params": [
+                    11402
+                ]
+            },
+            {
+                "MissionID": 120049,
+                "MissionName": "Try Using Curry ③",
+                "MissionType": 30001,
+                "Params": [
+                    11403
+                ]
+            },
+            {
+                "MissionID": 120050,
+                "MissionName": "Try Using Curry ④",
+                "MissionType": 30001,
+                "Params": [
+                    11404
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 77,
+        "SeriesName": "Try Using Sweet Things",
+        "Missions": [
+            {
+                "MissionID": 120051,
+                "MissionName": "Try Using Sweet Things ①",
+                "MissionType": 30001,
+                "Params": [
+                    11501
+                ]
+            },
+            {
+                "MissionID": 120052,
+                "MissionName": "Try Using Sweet Things ②",
+                "MissionType": 30001,
+                "Params": [
+                    11502
+                ]
+            },
+            {
+                "MissionID": 120053,
+                "MissionName": "Try Using Sweet Things ③",
+                "MissionType": 30001,
+                "Params": [
+                    11503
+                ]
+            },
+            {
+                "MissionID": 120054,
+                "MissionName": "Try Using Sweet Things ④",
+                "MissionType": 30001,
+                "Params": [
+                    11504
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 78,
+        "SeriesName": "Try Using Oden Stew",
+        "Missions": [
+            {
+                "MissionID": 120055,
+                "MissionName": "Try Using Oden Stew ①",
+                "MissionType": 30001,
+                "Params": [
+                    11602
+                ]
+            },
+            {
+                "MissionID": 120056,
+                "MissionName": "Try Using Oden Stew ②",
+                "MissionType": 30001,
+                "Params": [
+                    11603
+                ]
+            },
+            {
+                "MissionID": 120057,
+                "MissionName": "Try Using Oden Stew ③",
+                "MissionType": 30001,
+                "Params": [
+                    11604
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 79,
+        "SeriesName": "Try Using Soba Noodles",
+        "Missions": [
+            {
+                "MissionID": 120058,
+                "MissionName": "Try Using Soba Noodles ①",
+                "MissionType": 30001,
+                "Params": [
+                    11701
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 80,
+        "SeriesName": "Try Using Snacks",
+        "Missions": [
+            {
+                "MissionID": 120059,
+                "MissionName": "Try Using Snacks ①",
+                "MissionType": 30001,
+                "Params": [
+                    11801
+                ]
+            },
+            {
+                "MissionID": 120060,
+                "MissionName": "Try Using Snacks ②",
+                "MissionType": 30001,
+                "Params": [
+                    11802
+                ]
+            },
+            {
+                "MissionID": 120061,
+                "MissionName": "Try Using Snacks ③",
+                "MissionType": 30001,
+                "Params": [
+                    11803
+                ]
+            },
+            {
+                "MissionID": 120062,
+                "MissionName": "Try Using Snacks ④",
+                "MissionType": 30001,
+                "Params": [
+                    11804
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 81,
+        "SeriesName": "Try Using Ice Cream",
+        "Missions": [
+            {
+                "MissionID": 120063,
+                "MissionName": "Try Using Ice Cream ①",
+                "MissionType": 30001,
+                "Params": [
+                    11901
+                ]
+            },
+            {
+                "MissionID": 120075,
+                "MissionName": "Try Using Ice Cream ②",
+                "MissionType": 30001,
+                "Params": [
+                    12003
+                ]
+            },
+            {
+                "MissionID": 120076,
+                "MissionName": "Try Using Ice Cream ③",
+                "MissionType": 30001,
+                "Params": [
+                    12004
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 82,
+        "SeriesName": "Try Using Exporb",
+        "Missions": [
+            {
+                "MissionID": 120064,
+                "MissionName": "Try Using an Exporb ①",
+                "MissionType": 30001,
+                "Params": [
+                    20506
+                ]
+            },
+            {
+                "MissionID": 120065,
+                "MissionName": "Try Using an Exporb ②",
+                "MissionType": 30001,
+                "Params": [
+                    20501
+                ]
+            },
+            {
+                "MissionID": 120066,
+                "MissionName": "Try Using an Exporb ③",
+                "MissionType": 30001,
+                "Params": [
+                    20502
+                ]
+            },
+            {
+                "MissionID": 120067,
+                "MissionName": "Try Using an Exporb ④",
+                "MissionType": 30001,
+                "Params": [
+                    20503
+                ]
+            },
+            {
+                "MissionID": 120068,
+                "MissionName": "Try Using an Exporb ⑤",
+                "MissionType": 30001,
+                "Params": [
+                    20504
+                ]
+            },
+            {
+                "MissionID": 120069,
+                "MissionName": "Try Using an Exporb ⑥",
+                "MissionType": 30001,
+                "Params": [
+                    20505
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 83,
+        "SeriesName": "Try Using Skill Scroll",
+        "Missions": [
+            {
+                "MissionID": 120070,
+                "MissionName": "Try Using a Skill Scroll ①",
+                "MissionType": 30001,
+                "Params": [
+                    20703
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 84,
+        "SeriesName": "Try Using Donut",
+        "Missions": [
+            {
+                "MissionID": 120077,
+                "MissionName": "Try Using Donut ①",
+                "MissionType": 30001,
+                "Params": [
+                    12001
+                ]
+            },
+            {
+                "MissionID": 120078,
+                "MissionName": "Try Using Donut ②",
+                "MissionType": 30001,
+                "Params": [
+                    12103
+                ]
+            },
+            {
+                "MissionID": 120079,
+                "MissionName": "Try Using Donut ③",
+                "MissionType": 30001,
+                "Params": [
+                    12104
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 85,
+        "SeriesName": "Try Using Pizza",
+        "Missions": [
+            {
+                "MissionID": 120080,
+                "MissionName": "Try Using Pizza ①",
+                "MissionType": 30001,
+                "Params": [
+                    12201
+                ]
+            },
+            {
+                "MissionID": 120081,
+                "MissionName": "Try Using Pizza ②",
+                "MissionType": 30001,
+                "Params": [
+                    12203
+                ]
+            },
+            {
+                "MissionID": 120082,
+                "MissionName": "Try Using Pizza ③",
+                "MissionType": 30001,
+                "Params": [
+                    12202
+                ]
+            },
+            {
+                "MissionID": 120083,
+                "MissionName": "Try Using Pizza ④",
+                "MissionType": 30001,
+                "Params": [
+                    12204
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 86,
+        "SeriesName": "Try Using Hot Dog",
+        "Missions": [
+            {
+                "MissionID": 120084,
+                "MissionName": "Try Using Hot Dog ①",
+                "MissionType": 30001,
+                "Params": [
+                    12301
+                ]
+            },
+            {
+                "MissionID": 120085,
+                "MissionName": "Try Using Hot Dog ②",
+                "MissionType": 30001,
+                "Params": [
+                    12302
+                ]
+            },
+            {
+                "MissionID": 120086,
+                "MissionName": "Try Using Hot Dog ③",
+                "MissionType": 30001,
+                "Params": [
+                    12303
+                ]
+            },
+            {
+                "MissionID": 120087,
+                "MissionName": "Try Using Hot Dog ④",
+                "MissionType": 30001,
+                "Params": [
+                    12304
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 87,
+        "SeriesName": "Try Using Pasta",
+        "Missions": [
+            {
+                "MissionID": 120088,
+                "MissionName": "Try Using Pasta ①",
+                "MissionType": 30001,
+                "Params": [
+                    12401
+                ]
+            },
+            {
+                "MissionID": 120089,
+                "MissionName": "Try Using Pasta ②",
+                "MissionType": 30001,
+                "Params": [
+                    12403
+                ]
+            },
+            {
+                "MissionID": 120090,
+                "MissionName": "Try Using Pasta ③",
+                "MissionType": 30001,
+                "Params": [
+                    12405
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 88,
+        "SeriesName": "Try Using Tempura",
+        "Missions": [
+            {
+                "MissionID": 120091,
+                "MissionName": "Try Using Tempura ①",
+                "MissionType": 30001,
+                "Params": [
+                    12501
+                ]
+            },
+            {
+                "MissionID": 120092,
+                "MissionName": "Try Using Tempura ②",
+                "MissionType": 30001,
+                "Params": [
+                    12503
+                ]
+            },
+            {
+                "MissionID": 120093,
+                "MissionName": "Try Using Tempura ③",
+                "MissionType": 30001,
+                "Params": [
+                    12506
+                ]
+            },
+            {
+                "MissionID": 120094,
+                "MissionName": "Try Using Tempura ④",
+                "MissionType": 30001,
+                "Params": [
+                    12508
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 89,
+        "SeriesName": "Try Using Sukiyaki",
+        "Missions": [
+            {
+                "MissionID": 120098,
+                "MissionName": "Try Using Sukiyaki ①",
+                "MissionType": 30001,
+                "Params": [
+                    12801
+                ]
+            },
+            {
+                "MissionID": 120099,
+                "MissionName": "Try Using Sukiyaki ②",
+                "MissionType": 30001,
+                "Params": [
+                    12803
+                ]
+            },
+            {
+                "MissionID": 120100,
+                "MissionName": "Try Using Sukiyaki ③",
+                "MissionType": 30001,
+                "Params": [
+                    12804
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 90,
+        "SeriesName": "Befriend with Mimikin",
+        "Missions": [
+            {
+                "MissionID": 998400,
+                "MissionName": "Befriend with Mimikin",
+                "MissionType": 40101,
+                "Params": [
+                    2246000
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 91,
+        "SeriesName": "Get Mimikin to Level",
+        "Missions": [
+            {
+                "MissionID": 998401,
+                "MissionName": "Get Mimikin to Level 10",
+                "MissionType": 40001,
+                "Params": [
+                    2246000,
+                    10
+                ]
+            },
+            {
+                "MissionID": 998402,
+                "MissionName": "Get Mimikin to Level 20",
+                "MissionType": 40001,
+                "Params": [
+                    2246000,
+                    20
+                ]
+            },
+            {
+                "MissionID": 998403,
+                "MissionName": "Get Mimikin to Level 30",
+                "MissionType": 40001,
+                "Params": [
+                    2246000,
+                    30
+                ]
+            },
+            {
+                "MissionID": 998404,
+                "MissionName": "Get Mimikin to Level 40",
+                "MissionType": 40001,
+                "Params": [
+                    2246000,
+                    40
+                ]
+            },
+            {
+                "MissionID": 998405,
+                "MissionName": "Get Mimikin to Level 50",
+                "MissionType": 40001,
+                "Params": [
+                    2246000,
+                    50
+                ]
+            }
+        ]
+    },
+    {
+        "SeriesID": 92,
+        "SeriesName": "Mission From Mimikin",
+        "Missions": [
+            {
+                "MissionID": 998406,
+                "MissionName": "Mission From Mimikin",
+                "MissionType": 61301,
+                "Params": [
+                    2
+                ]
+            }
+        ]
+    }
+]

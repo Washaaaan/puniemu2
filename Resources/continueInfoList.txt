@@ -1,0 +1,1 @@
+[{"continueNum": 1, "needMoney": 300, "addTime": 5, "recoveryValue": 100000}, {"continueNum": 2, "needMoney": 500, "addTime": 5, "recoveryValue": 100000}]

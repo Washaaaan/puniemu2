@@ -1,0 +1,1 @@
+[{"generalStringParam1": "", "bigBossEffectId": 68, "generalStringParam3": "", "generalStringParam2": "", "perEffectParam": 0, "perSecondParam": 23, "generalIntParam2": 0, "generalIntParam3": 0, "idx": 0, "generalIntParam1": 0, "effectType": 1}]

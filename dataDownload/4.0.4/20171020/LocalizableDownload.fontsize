@@ -1,0 +1,231 @@
+"frienddialog_01" = 24; // フレンド一覧での最終プレイの文字;
+"frienddialog_02" = 24; // フレンド一覧での最終プレイ日時;
+"frienddialog_03" = 26; // フレンド画面での「ゲーム内でともだちになるための...」;
+"frienddialog_04" = 30; // フレンド検索画面のタイトル;
+"frienddialog_05" = 30; // フレンド検索画面の「ともだちのキャラクターコードを入力してね」の文言;
+"frienddialog_06" = 25; // フレンド検索画面の「キャラクターコードはメニューのプロフィールにのってるよ」の文言;
+"frienddialog_07" = 25; // フレンド申請画面のタイトル;
+"frienddialog_08" = 30; // フレンド申請画面の本文;
+"frienddialog_09" = 30; // フレンド要請画面の名前、「申請日」、申請日時;
+"frienddialog_10" = 30; // フレンド申請確認画面のタイトル（申請を受け付ける側）;
+"frienddialog_11" = 30; // フレンド申請確認画面の本文（申請を受け付ける側）;
+"frienddialog_12" = 30; // フレンド削除画面のタイトル;
+"frienddialog_13" = 30; // フレンド削除画面の本文;
+
+"friendlistcell_01" = 20; // フレンド申請画面でのフレンドの名前;
+"friendlistcell_02" = 18; // フレンド申請画面での「最終プレイ」;
+"friendlistcell_03" = 18; // フレンド申請画面での「申請日」;
+"friendlistcell_04" = 18; // フレンド申請画面での申請日時;
+
+"friendlistview_01" = 22; // ともだちリストの「50件を超えると、古いものから削除されます」の文言;
+"friendlistview_02" = 28; // ともだちリストの本文;
+
+"itemiconinfownd01" = 20; // アイテム画面の説明文;
+"itemiconinfownd02" = 20; // アイテム画面のアイテム名;
+
+"loadingwidget_01" = 26; // ローディング中のTips;
+
+"mapwarptablewidget_01" = 25; // ワープ画面でイベントが存在しないときの文言;
+
+"missionstarwidget_01" = 21; // パズルの星の条件の文言;
+
+"newmissionprocess_01" = 26; // ミッションが追加されたときの文言;
+
+"missionscene_01" = 20; // ミッション画面の上の「ミッションせつめい」の文言;
+
+"missiontabtablemain_01" = 24.0f; // ミッション画面のタブの文言;
+
+"noticeview_01" = 30; // お知らせ画面での「今日は表示しない」の文言;
+
+"presentboxcell_01" = 15; // プレゼントボックス一覧の日時;
+"presentboxcell_02" = 20; // プレゼントボックス一覧で「１時間以内...」の文言;
+
+"presentboxview_01" = 24; // プレゼントボックスの「プレゼント保管期間...」の文言;
+
+"presentboxdialog_01" = 22; // プレゼントボックス画面の各種文言;
+
+"puzzlefuncopendialog_01" = 26; // 不明;
+
+"puzzlesearchsprite_01" = 20; // パズル画面のアイテムの詳細の文言;
+"puzzlesearchsprite_02" = 24; // パズル画面でポーズ中のスキル名;
+"puzzlesearchsprite_03" = 21; // パズル画面でポーズ中のスキルの説明;
+"puzzlesearchsprite_04" = 24; // パズル画面でポーズ中の妖怪の名前;
+
+"qrcodescene_01" = 28; // 「QRコードを探しています」の文言;
+
+"tablewidget_01" = 25; // ミッション画面の各アイテムのミッション文言;
+
+"talkdialog_01" = 24; // 会話ダイアログの会話文;
+
+"uniondialog_01" = 26; // 合成画面の「AとBを合成しますか？」の文言;
+
+"youkaistatuswidget_01" = 18; // 編成の必殺技の説明の文言;
+"youkaistatuswidget_02" = 24; // 辞典の好物の説明文;
+"youkaistatuswidget_03" = 22; // 辞典の妖怪の説明;
+"youkaistatuswidget_04" = 30; // 編成の必殺技名;
+"youkaistatuswidget_05" = 20; // 編成の種族名;
+"youkaistatuswidget_06" = 28; // 辞典の好物名;
+"youkaistatuswidget_07" = 20; // 辞典の種族名;
+"youkaistatuswidget_08" = 30; // 辞典の必殺技名;
+"youkaistatuswidget_09" = 20; // 辞典の必殺技説明;
+"youkaistatuswidget_10" = 20; // 辞典の妖怪説明;
+"youkaistatuswidget_11" = 24; // 編成のスキル説明;
+"youkaistatuswidget_12" = 30; // 辞典の必殺技名;
+"youkaistatuswidget_13" = 20; // 辞典の必殺技説明;
+"youkaistatuswidget_14" = 24; // 辞典のスキル説明;
+
+"youkaibossdetailview_01" = 32; // 辞典のボスの名前;
+
+"youkaidetailview_01" = 32; // 辞典の妖怪の名前（ボス以外）;
+"youkaidetailview_02" = 30; // 辞典の「レベル上限を開放しました」の文言;
+
+"youkaiguidedialog_01" = 26; // 辞典のレジェンド開放妖怪名;
+"youkaiguidedialog_02" = 30; // 辞典のレジェンド開放妖怪の説明;
+"youkaiguidedialog_03" = 30; // 辞典のレジェンド開放妖怪の説明画面のタイトル;
+
+"youkaifoodview_01" = 32; // 辞典の食べ物部分の妖怪名;
+
+"youkaisearchview_01" = 30; // 辞典の検索画面の「えらんだページへジャンプします」の文言;
+"youkaisearchview_02" = 30; // 辞典の検索画面の「しゅぞく」の文言;
+
+"youkaisortview_01" = 30; // 編成のソート画面の「ならびかたをえらんでね」の文言;
+"youkaisortview_02" = 30; // 編成のソート画面の「しゅぞく」の文言;
+"youkaisortview_03" = 30; // 編成のソート画面の「ならびかえ」の文言;
+
+"rankingcell_01" = 22; // ランキング画面の一覧の名前;
+
+"rankingrewarddialog_01" = 18; // ランキング報酬画面の「毎週月曜日に」の文言;
+"rankingrewarddialog_02" = 23; // ランキング報酬画面のタブの「ともだち」などの文言;
+"rankingrewarddialog_03" = 21; // ランキング報酬画面のプレイヤー名;
+
+"rankingwidget_01" = 24; // ランキング画面のタブの「ともだち」などの文言;
+
+"rankingdialog_01" = 30; // ランキング画面でひとだまを送る画面の文言;
+
+"rankingrewardcell_01" = 12; // スコアアタック報酬画面のアイテムの名前;
+
+"rewardgetprocess_01" = 30.0f; // ミッション報酬受け取り画面の「かくにん」などの文言;
+"rewardgetprocess_02" = 25.0f; // ミッション報酬受け取り画面の「最大１０件まで」などの文言;
+
+"scoreattackitemselectwidget_01" = 18; // スコアアタックのアイテムの説明文;
+
+"scoreatk_week_result_01" = 22; // スコアアタックの結果の「ごほうびは」の文言;
+
+"playerregistdialog_01" = 30; // 名前入力画面の「アイコン」「なまえ」の文言;
+"playerregistdialog_02" = 24; // 名前入力画面の「アイコンは」「変更できるよ」の文言;
+"playerregistdialog_03" = 24; // 名前入力画面の「あとからせってい画面で変更できるよ」の文言;
+"playerregistdialog_04" = 30; // ゲーム開始時の「あやしげなガシャがある」の文言;
+
+"dictionaryscene_01" = 32; // 辞典の一番上の妖怪名;
+"dictionaryscene_02" = 30; // レジェンドページをチェックしたときの「紋章が光りかがやく…！！」の文言;
+
+"enemyinfowidget_01" = 18; // パズル開始前の画面の「とうろく」の文言;
+"enemyinfowidget_02" = 22; //パズル開始前の画面の好物名の文言;
+"enemyinfowidget_03" = 18; // 妖怪の種族名;
+
+"hitodamadialog_01" = 30; // ひとだま交換確認画面のタイトル;
+"hitodamadialog_02" = 30; // ひとだま交換確認画面の文言;
+"hitodamadialog_03" = 20; // ひとだま交換確認画面の下の注意書き;
+"hitodamadialog_04" = 30; // ひとだまが足りない画面のタイトル;
+"hitodamadialog_05" = 30; // ひとだまが足りない画面の文言;
+
+"iteminfowindow_01" = 28; // アイテム画面のアイテム名;
+"iteminfowindow_02" = 24; // アイテム画面の「もっている数」の文言;
+"iteminfowindow_03" = 20; // アイテム画面の説明文言;
+"iteminfowindow_03" = 14; // アイテム画面のタブの名前;
+
+"lockfriendview_01" = 26; // マップロックのフレンドポイント画面の「一人につき」の文言;
+
+"loginstampdialog_01" = 30; // ログインスタンプ画面の「ログイン報酬」の文言;
+"loginstampdialog_02" = 24; // ログインスタンプ画面の説明文言;
+
+"mapdialog_01" = 30; // かくしルート開放画面の文言;
+"mapdialog_02" = 25; // マップ開放ダイアログの文言;
+
+"medalscene_01" = 25; // メダル画面のプレイヤーの名前;
+"medalscene_02" = 15; // メダル画面の「とうろくしたメダルの数」などの文言;
+"medalscene_02" = 20; // メダル画面のアイコンの上の「じぶんのじょうほう」の文言;
+
+"normalrecordbasescene_01" = 18; // 記録画面の「グラフこうもく」の文言;
+
+"onegaiview_01" = 26; // ひとだまおねだり画面の「お互いにひとだま１コもらえるよ！」の文言;
+
+"pointtradecell_01" = 26.0f; // メダルポイント交換画面の各種文言;
+
+"proficonchangeview_01" = 20; // プロフィール変更確認画面のタイトル;
+"proficonchangeview_02" = 30; //プロフィール変更確認画面の文言;
+
+"profilescene_01" = 20; // プロフィール画面の「じぶんのじょうほう」の文言;
+"profilescene_02" = 15; // プロフィール画面の「みんなにみせるアイコン」「よばれかた」の文言;
+"profilescene_03" = 35; // プロフィール画面のプレイヤー名;
+"profilescene_04" = 30; // プロフィール画面の呼ばれ方とキャラクターコード;
+
+"proftitlecell_01" = 30.0f; // プロフィール画面の呼ばれかた一覧画面の文言;
+
+"registerdmedalscene_01" = 18; // 登録済みメダル画面の「じぶんのじょうほう」の文言;
+"registerdmedalscene_02" = 15; // 登録済みメダル画面の「とうろく数」などの文言;
+
+"reviewdialog_01" = 25; // レビュー催促画面の文言;
+
+"serialcodeview_01" = 24; // ひみつのワード選択画面の文言;
+
+"shoplistcell_01" = 24.0f; // ショップ画面のアイテム名(フォントに問題があるモデル);
+"shoplistcell_02" = 26.0f; // ショップ画面のアイテム名(通常);
+
+"shopsearchview_01" = 30; // ショップの検索画面の文言;
+
+"skillupdialog_01" = 30; // スキルレベルアップ画面の「既に持っている妖怪はわざレベルＵＰ」の文言;
+
+"stagedetailview_01" = 27; // ステージ詳細画面の妖怪の名前;
+"stagedetailview_02" = 15; // ステージ詳細画面の下のフレンドの名前;
+
+"stealflashreportview_01" = 18; // 争奪戦のぶんどりニュース;
+
+"watchcreateview_01" = 30; // 時計作成確認画面の「ウォッチをつくる」などの文言;
+"watchcreateview_02" = 20; // 時計作成確認画面の「けっか」の文言;
+
+"bosstokioubaune_01" = 26; // トキヲウバウネの効果文言;
+"bosssubeteubaune_01" = 26; // スベテウバウネの効果文言;
+
+"sgsrankingwidget_01" = 21; // よこどりランキング画面のタブ;
+"stealrankingrewarddialog_01" = 21; // よこどり報酬画面のタブ;
+
+"gachayoukaiselectview_01" = 30; // エラベールコインで技レベルが最大だったときの画面のタイトル;
+"gachayoukaiselectview_02" = 22; // エラベールコインで技レベルが最大だったときの画面の本文;
+
+"puzzletaskuiresultsubwidget_01"	= 22; // ボーナスなし(使用箇所不明);
+
+"pointtradedialog_02"			= 30; // 「ポイントこうかがついた！」などの文言;
+"pointtradedialog_03"			= 20; // 「優勝数」の文言;
+
+"puzzleresulttournamentsprite_01"	= 22; // トーナメント結果画面の「ボーナスなし」の文言;
+
+"selectstealplayerdialog_01"		= 28; // トーナメントのよこどり画面の「相手が見つかりません」の文言;
+
+"tournamentstagedetailview_01"		= 21; // トーナメント詳細画面の「なし」の文言;
+
+"livemessagedialog_01"			= 18.0f; // ライブ中継画面の話している人の名前;
+"livemessagedialog_02"			= 18.0f; // ライブ中継画面の日時;
+"livemessagedialog_03"			= 23.0f; // ライブ中継画面のメッセージ本文;
+"livemessagedialog_04"			= 30.0f; // ライブ中継画面の「メッセージはありません。」の文言;
+"livemessagedialog_05"			= 24.0f; // ライブ中継画面の「ここから未読だよ」の文言;
+"livemessagedialog_06"			= 20.0f; // ライブ中継画面の未読カウント数;
+
+"stealplayerdetaildialog_01"		= 30; // トーナメントの横取り画面の「よこどりにチャレンジしますか？」の文言;
+"stealplayerdetaildialog_02"		= 20; // トーナメントの横取り画面の「あなたのメンバー」などの文言;
+
+"eventeffectwidget_01"			= 21; // イベント効果画面の「はつどうこうか」「なし」の文言;
+"eventeffectwidget_02"			= 21; // イベント効果画面の「ポイント」の文言;
+"eventeffectwidget_03"			= 21; // イベント効果画面の「はつどう中」「なし」の文言;
+
+"eventhelpfrienddialog_01"		= 30; // ともだちをたすける;
+"eventhelpfrienddialog_02"		= 24; // ともだちをたすけて　おたすけパワーをゲット！;
+"eventhelpfrienddialog_03"		= 30; // %sとたたかっているともだちがいません;
+"eventhelpfrienddialog_04"		= 30; // たたかっているともだちがいません;
+"eventhelpfrienddialog_05"		= 30; // ！;
+
+"yw3dialog_01"				= 30; // %s出現 or %s逃亡;
+"yw3dialog_02"				= 30; // %sがあらわれた！ or %sはどこかへ\n行ってしまった・・・;
+"yw3dialog_03"				= 30; // 未使用;
+"yw3dialog_04"				= 22; // 次に会うときはHPがすこし回復しているよ！;
+"yw3dialog_05"				= 30; // トムニャンバトル or %sバトル;

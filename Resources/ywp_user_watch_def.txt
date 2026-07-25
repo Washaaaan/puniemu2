@@ -1,0 +1,1 @@
+[{"watchStatus": 1, "watchId": 10101, "equipFlg": 1, "readFlg": 1}, {"watchStatus": 10, "watchId": 10201, "equipFlg": 0, "readFlg": 0}]

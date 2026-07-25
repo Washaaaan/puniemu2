@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Manage your save</title>
+	<style>
+		@font-face {
+			font-family: 'FOT-Seurat ProN';
+		}
+
+		body {
+			font-family: 'SeuratProN-B', 'FOT-Seurat ProN', 'Maru Gothic Pro W4', 'Hiragino Sans';
+			user-select: none;
+			-webkit-touch-callout: none;
+			-webkit-text-size-adjust: none;
+		}
+
+		html,
+		div,
+		span,
+		object,
+		iframe,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p,
+		blockquote,
+		pre,
+		abbr,
+		address,
+		cite,
+		code,
+		del,
+		dfn,
+		em,
+		img,
+		ins,
+		kbd,
+		q,
+		samp,
+		small,
+		strong,
+		sub,
+		sup,
+		var,
+		b,
+		i,
+		dl,
+		dt,
+		dd,
+		ol,
+		ul,
+		li,
+		fieldset,
+		form,
+		label,
+		legend,
+		table,
+		caption,
+		tbody,
+		tfoot,
+		thead,
+		tr,
+		th,
+		td,
+		article,
+		aside,
+		canvas,
+		details,
+		figcaption,
+		figure,
+		footer,
+		header,
+		hgroup,
+		menu,
+		nav,
+		section,
+		summary,
+		time,
+		mark,
+		audio,
+		video {
+			-webkit-touch-callout: none;
+		}
+
+		table {
+			font-size: 95%;
+		}
+
+		/* --- page styling --- */
+		body {
+			margin: 0;
+			padding: 40px 20px;
+			max-width: 360px;
+			margin: 0 auto;
+		}
+
+		h1 {
+			font-size: 24px;
+			margin-bottom: 20px;
+			text-align: center;
+		}
+
+		button {
+			display: block;
+			width: 100%;
+			padding: 10px;
+			margin-bottom: 8px;
+			font-family: inherit;
+			font-size: 14px;
+			cursor: pointer;
+			border-radius: 10px;
+			background: #ffd23f;
+			border: 1px solid #d9a916;
+		}
+
+		.field {
+			display: none;
+			margin-bottom: 16px;
+		}
+
+		.field.open {
+			display: block;
+		}
+
+		input {
+			width: 100%;
+			padding: 8px;
+			font-family: inherit;
+			font-size: 14px;
+			margin-bottom: 6px;
+			box-sizing: border-box;
+			border-radius: 10px;
+		}
+
+		.status {
+			font-size: 12px;
+			margin: 0;
+		}
+	</style>
+</head>
+
+<body>
+
+	<h1 id="title">Manage your save</h1>
+
+	<div id="select">
+		<button onclick="toggle('link')">Link saves to email address</button>
+		<button onclick="toggle('restore')">Restore saves from email address</button>
+	</div>
+
+	<div class="field" id="field-link">
+		<input type="email" id="email-link" placeholder="you@example.com">
+		<button onclick="submitEmail('link')">Submit</button>
+		<button onclick="goBack()">Back</button>
+		<p class="status" id="status-link"></p>
+	</div>
+
+	<div class="field" id="field-restore">
+		<input type="email" id="email-restore" placeholder="you@example.com">
+		<button onclick="submitEmail('restore')">Submit</button>
+		<button onclick="goBack()">Back</button>
+		<p class="status" id="status-restore"></p>
+	</div>
+
+	<script>
+		function getUserId() {
+			if (window.__PARAMS__ && window.__PARAMS__.userId) return window.__PARAMS__.userId;
+			return new URLSearchParams(window.location.search).get('userId') || '';
+		}
+		function toggle(id) {
+			document.getElementById('select').style.display = 'none';
+			document.getElementById('field-' + id).classList.add('open');
+			document.getElementById('title').textContent = id === 'link' ? 'Link saves' : 'Restore saves';
+		}
+		function goBack() {
+			document.getElementById('select').style.display = 'block';
+			document.getElementById('field-link').classList.remove('open');
+			document.getElementById('field-restore').classList.remove('open');
+			document.getElementById('title').textContent = 'Manage your save';
+		}
+		function submitEmail(id) {
+			const value = document.getElementById('email-' + id).value.trim();
+			const status = document.getElementById('status-' + id);
+			const valid = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value);
+
+			if (!valid) {
+				status.textContent = 'Enter a valid email';
+				return;
+			}
+
+			const params = new URLSearchParams({
+				userId: getUserId(),
+				email: value,
+				mode: id
+			});
+
+			status.textContent = 'Sending...';
+
+			fetch('https://wibwob.ddns.net/auth/' + id + '?' + params.toString(), {
+				method: 'POST'
+			})
+				.then(function (res) {
+					status.textContent = res.ok
+						? (id === 'link' ? 'Check your email. Confirmation code sent. Enter it in the "Confirm action" menu which is right next to this one. ' + value : 'Check your email. Confirmation code sent. Enter it in the "Confirm action" menu which is right next to this one. ' + value)
+						: 'Something went wrong';
+				})
+				.catch(function () {
+					status.textContent = 'Something went wrong';
+				});
+		}
+	</script>
+
+</body>
+
+</html>

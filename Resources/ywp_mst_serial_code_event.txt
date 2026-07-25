@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "endDt": "9999-07-21 16:00:00",
+            "eventCode": "confirm",
+            "eventName": "Confirm action with code",
+            "rewardGroupId": 1,
+            "rewardName": "1",
+            "startDt": "2016-07-21 16:00:00"
+        },
+    ],
+    "version": 14
+}

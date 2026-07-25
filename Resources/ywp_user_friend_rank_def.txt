@@ -1,0 +1,1 @@
+[{"iconId": 1, "playerName": "Test123", "titleId": 1, "getStar": 0, "userId": "3347321526146", "dicCnt": 0, "score": 0, "youkaiId": 2235000, "getStarModiDt": null, "hitodamaSendFlg": 1, "onedariSendFlg": 1, "rank": 1, "self": 1}]

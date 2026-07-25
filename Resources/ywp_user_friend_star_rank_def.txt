@@ -1,0 +1,1 @@
+[{"iconId": 1, "playerName": "Test123", "titleId": 1, "getStar": 3, "userId": "3347321526146", "dicCnt": 0, "score": 0, "youkaiId": 2235000, "getStarModiDt": {"date": 13, "day": 1, "hours": 3, "minutes": 49, "month": 9, "seconds": 38, "time": 1760294978000, "timezoneOffset": -540, "year": 125}, "hitodamaSendFlg": 1, "onedariSendFlg": 1, "rank": 1, "self": 1}]
