@@ -39,15 +39,15 @@ namespace Puniemu.Src.UserDataManager.Logic
                     AutoRefreshToken = true,
                 });
                 
-                await SupabaseClient.Initialize();
+                await SupabaseClient.InitializeAsync();
                 // Start the 5-minute background flush loop
                 _flushTimer = new PeriodicTimer(TimeSpan.FromMinutes(5));
                 _flushTask = FlushLoopAsync(_cts.Token);
                 Console.WriteLine("db service started");
             }
-            catch
+            catch (Exception ex)
             {
-                Console.WriteLine("Couldn't create supabase client.");
+                Console.WriteLine($"Couldn't create supabase client: {ex.Message}");
                 Environment.Exit(1);
             }
         }
