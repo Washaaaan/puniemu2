@@ -2,17 +2,17 @@
     {
         "tutorialType": 1,
         "tutorialId": 1000,
-        "tutorialStatus": 0
+        "tutorialStatus": 1
     },
     {
         "tutorialType": 2,
         "tutorialId": 2002,
-        "tutorialStatus": 0
+        "tutorialStatus": 1
     },
     {
         "tutorialType": 99,
         "tutorialId": 3000,
-        "tutorialStatus": 0
+        "tutorialStatus": 1
     },
     {
         "tutorialType": 2,
