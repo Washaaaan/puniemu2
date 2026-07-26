@@ -119,56 +119,41 @@ class Program
 
             await next();
         });
+
+        //Serve the data download straight from this server so imgServer needs no extra port.
+        //Files are looked up by bare filename, which makes the <version>/<date>/ path irrelevant.
+        var dataDownloadRoot = app.Configuration["DataDownloadRoot"];
+        if (!string.IsNullOrWhiteSpace(dataDownloadRoot) && Directory.Exists(dataDownloadRoot))
+        {
+            var dataDownloadIndex = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+            foreach (var file in Directory.EnumerateFiles(dataDownloadRoot, "*", SearchOption.AllDirectories))
+                dataDownloadIndex.TryAdd(Path.GetFileName(file), file);
+            Console.WriteLine($"data download: indexed {dataDownloadIndex.Count} files from {dataDownloadRoot}");
+
+            app.Use(async (ctx, next) =>
+            {
+                var path = ctx.Request.Path.Value;
+                if (HttpMethods.IsGet(ctx.Request.Method) && path != null && !path.EndsWith(".nhn"))
+                {
+                    var name = Path.GetFileName(path.TrimEnd('/'));
+                    if (name.Length > 0 && dataDownloadIndex.TryGetValue(name, out var full))
+                    {
+                        await ctx.Response.SendFileAsync(full);
+                        return;
+                    }
+                }
+                await next();
+            });
+        }
         //Assign handlers
         AssignCustomAuthHandlers(app);
-        AssignDataDownloadHandler(app);
         AssignL5IDHandlers(app);
         AssignGameServerHandlers(app);
         AssignDefault(app);
         app.Run();
     }
+    
 
-    static void AssignDataDownloadHandler(WebApplication app)
-    {
-        app.MapGet("/eal/{*filePath}", async (HttpContext ctx, string filePath) =>
-        {
-            Console.WriteLine($"GET /eal/{filePath}");
-
-            string storageRoot = Path.Combine(Directory.GetCurrentDirectory(), "dataDownload");
-            string fullPath = Path.GetFullPath(Path.Combine(storageRoot, filePath));
-
-            Console.WriteLine($"Ruta: {fullPath}");
-            Console.WriteLine($"Existe: {File.Exists(fullPath)}");
-            Console.WriteLine(filePath);
-
-            if (string.IsNullOrEmpty(filePath))
-            {
-                ctx.Response.StatusCode = 400;
-                await ctx.Response.WriteAsync("no file bro");
-                return;
-            }
-
-            if (!fullPath.StartsWith(storageRoot, StringComparison.OrdinalIgnoreCase) || !File.Exists(fullPath))
-            {
-                ctx.Response.StatusCode = 404;
-                await ctx.Response.WriteAsync("404 ");
-                return;
-            }
-
-            var provider = new Microsoft.AspNetCore.StaticFiles.FileExtensionContentTypeProvider();
-            if (!provider.TryGetContentType(fullPath, out string? contentType))
-            {
-                contentType = "application/octet-stream"; 
-            }
-
-            string fileName = Path.GetFileName(fullPath);
-            ctx.Response.ContentType = contentType;
-
-            ctx.Response.Headers.Append("Content-Disposition", $"attachment; filename=\"{fileName}\"");
-
-            await ctx.Response.SendFileAsync(fullPath);
-        });
-    }
     static void AssignL5IDHandlers(WebApplication app)
     {
         const string L5ID_BASE = "/api/v1/";
