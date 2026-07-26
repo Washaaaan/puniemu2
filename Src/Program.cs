@@ -168,6 +168,9 @@ class Program
                 await next();
             });
         }
+        else {
+            Console.WriteLine("SEMEEEEEEN");
+        }
         //Assign handlers
         AssignCustomAuthHandlers(app);
         AssignL5IDHandlers(app);
