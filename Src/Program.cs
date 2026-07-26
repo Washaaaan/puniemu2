@@ -143,15 +143,16 @@ class Program
             await next();
         });
 
-        //Serve the data download straight from this server so imgServer needs no extra port.
-        //Files are looked up by bare filename, which makes the <version>/<date>/ path irrelevant.
+        Console.WriteLine($"[STARTUP DEBUG] CWD: {Directory.GetCurrentDirectory()}");
+        Console.WriteLine($"[STARTUP DEBUG] Looking for dataDownload at: {Path.GetFullPath("dataDownload")}");
+
         var dataDownloadRoot = "dataDownload";
         if (!string.IsNullOrWhiteSpace(dataDownloadRoot) && Directory.Exists(dataDownloadRoot))
         {
             var dataDownloadIndex = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
             foreach (var file in Directory.EnumerateFiles(dataDownloadRoot, "*", SearchOption.AllDirectories))
                 dataDownloadIndex.TryAdd(Path.GetFileName(file), file);
-            Console.WriteLine($"data download: indexed {dataDownloadIndex.Count} files from {dataDownloadRoot}");
+            Console.WriteLine($"[STARTUP DEBUG] data download: indexed {dataDownloadIndex.Count} files from {dataDownloadRoot}");
 
             app.Use(async (ctx, next) =>
             {
@@ -168,8 +169,9 @@ class Program
                 await next();
             });
         }
-        else {
-            Console.WriteLine("SEMEEEEEEN");
+        else
+        {
+            Console.WriteLine($"[STARTUP DEBUG] dataDownload folder NOT FOUND at: {Path.GetFullPath("dataDownload")}");
         }
         //Assign handlers
         AssignCustomAuthHandlers(app);
