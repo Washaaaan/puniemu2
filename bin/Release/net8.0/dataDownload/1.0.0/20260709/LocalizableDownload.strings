@@ -1,0 +1,1691 @@
+"foodType_riceBall"    = "Rice Ball";    // おにぎり;
+"foodType_bread"       = "Bread";        // パン;
+"foodType_cheapSweets" = "Candy";        // 駄菓子;
+"foodType_chocobo"     = "Chocobar";     // チョコボー;
+"foodType_milk"        = "Milk";         // 牛乳;
+"foodType_juice"       = "Juice";        // ジュース;
+"foodType_hamburger"   = "Hamburger";    // ハンバーガー;
+"foodType_ramen"       = "Ramen";        // ラーメン;
+"foodType_china"       = "Chinese Food"; // 中華;
+"foodType_begetables"  = "Vegetables";   // 野菜;
+"foodType_meet"        = "Meat";         // 肉;
+"foodType_fish"        = "Seafood";      // 魚介類;
+"foodType_sushi"       = "Sushi";        // 寿司;
+"foodType_curry"       = "Curry";        // カレー;
+"foodType_suites"      = "Sweet Things"; // スイーツ;
+"foodType_oden"        = "Oden Stew";    // おでん;
+"foodType_soba"        = "Soba Noodles"; // そば;
+"foodType_snack"       = "Snacks";       // スナック;
+"foodType_softcream"   = "Ice Cream";    // ソフトクリーム;
+"footType_donuts"      = "Donut";        // ドーナツ(*USAピョンだけの好物);
+"foodType_pizza"	= "Pizza";		// ピザ;
+"foodType_hotdog"	= "Hot Dog";		// ホットドッグ;
+"foodType_pasta"	= "Pasta";		// パスタ;
+"foodType_tempura"	= "Tempura";		// 天ぷら;
+"foodType_delicioustick"= "Delicious Stick";	// デリシャスティック;
+"foodType_sukiyaki"	= "Sukiyaki";		// すきやき;
+
+"kindType_0"        = "";
+"kindType_1"        = "Brave";      // イサマシ;
+"kindType_2"        = "Mysterious"; // フシギ;
+"kindType_3"        = "Tough";      // ゴーケツ;
+"kindType_4"        = "Charming";   // プリチー;
+"kindType_5"        = "Heartful";   // ポカポカ;
+"kindType_6"        = "Shady";      // ウスラカゲ;
+"kindType_7"        = "Eerie";      // ブキミー;
+"kindType_8"        = "Slippery";   // ニョロロン;
+"kindType_9"        = "Enma";       // エンマ(2018/1/18実装);
+"kindType_10"       = "Wicked";     // かいま;
+"kindType_11"       = "Lonely"; // ハグレ;
+
+"foodLike_1"      = "Will make Yo-kai warm to you a little.";     // ちょびっとなつきやすくなる;
+"foodLike_2"      = "Will make Yo-kai warm to you.";              // それなりになつきやすくなる;
+"foodLike_3"      = "Will make Yo-kai warm to you a lot.";        // けっこうなつきやすくなる;
+"foodLike_4"      = "Will make Yo-kai warm to you a great deal."; // ものすごくなつきやすくなる;
+
+"continue_title"        = "Continue?";    // やり直しますか？;
+
+"levelLock_title"   = "Increase Level Cap";         // レベル上限解放;
+"levelLock_body02"  = "Increase Level Cap?";        // レベル上限を解放しますか？;
+"levelLock_body03"  = "Level Cap";                // レベル上限;
+"openDoor_title"    = "Open the Door";            // 扉をあける;
+"openDoor_body"     = "Use Y-Money to open the door?";  // Y-Moneyを消費して扉をあけますか？;
+
+"stop_retry1"              = "Spend Spirit";          // ひとだまを消費して;
+"stop_retry2"              = "to restart the stage?"; // ステージを始めからやり直しますか？;
+"stop_scoreAtk_retry1"     = "Do you want to Quit?";  // スコアアタックを;
+"stop_scoreAtk_retry2"     = "　";                    // 途中でやめますか？;
+
+"event_stop_retry1"        = "Spend Points";             // てもちポイントを消費して;
+"event_stop_retry2"        = "to restart the stage?";    // ステージを始めからやり直しますか？;
+"event_not_point"          = "Not enough points.";       // てもちポイントが足りません;
+
+"stop_map_back1"        = "Quit this stage";             // このステージを;
+"stop_map_back2"        = "before finishing?";           // 途中でやめますか？;
+"search_foodLike_skill_max1"       = "S-Move Level is Maxed out and";         // わざレベル最大のため;
+"search_foodLike_skill_max2"       = "will not accept any food."; // これ以上好物をあげられません;
+
+"mission_daily_title"   = "Daily";                                      // デイリー;
+"mission_normal_title"  = "Normal";                                     // つうじょう;
+"mission_event_title"   = "Event";                                      // イベント;
+"mission_none_text01"   = "There are no missions currently available."; // 開催中のミッションがありません;
+"mission_none_text02"   = "Please wait for an event to start!";         // イベントの開催をお待ち下さい！;
+
+"missionscene_01"       = "Missions Description";         // ミッションせつめい;
+
+"mapscene_01_01"        = "Invalid map.";                             // 無効なマップです。;
+"mapscene_01_02"        = "Screen...";                                // タイトルに戻ります。;
+"mapscene_02"           = "The event has finished.";                  // イベントは終了しました。;
+"mapscene_03_01"        = "Are you sure you want to";                 // タイトル画面にもどります;
+"mapscene_03_02"        = "return to the Title Screen?";              // よろしいですか？;
+"mapscene_04"           = "You cannot access this yet.";             // まだ先には進めません。;
+"mapscene_05"           = "This is as far as you can go\nright now!"; // 今はここまでしか遊べないよ！;
+"mapscene_06"           = "You need 5 Yo-kai or more.";               // てもちの妖怪が5体未満です。;
+"mapscene_07"           = "You need 5 Yo-kai or more.";                      // てもちの妖怪が5体未満です。;
+"mapscene_08"           = "Confirm";                                         // かくにん;
+"mapscene_09"           = "There aren't any events underway\nat the moment."; // 現在開催中のイベントがありません。;
+"mapscene_10"           = "The door has been opened!";                       // 扉があきました！;
+"mapscene_11"           = "%s unlocked!";                                    // %sが開放されました。;
+"mapscene_12"           = "Confirm";                                         // かくにん;
+"mapscene_13"           = "This week's Yo-kai has left.";                    // 今週の妖怪は終了しました。;
+"mapscene_14"           = "You cannot access this yet.";             // まだ先には進めません。;
+"mapscene_15"           = "You can't play right now!"; // 今はまだ遊べないよ！;
+"mapscene_16"           = "You'll be able to play from %s"; // "xx/xxから遊べるようになるよ！";
+
+"mapui_01"              = "Confirm"; // かくにん;
+"mapui_02"              = "There aren't any events underway\nat the moment."; // 現在開催中のイベントがありません;
+
+"mapdialog_01"          = "Open Hidden Route";               // かくしルート開放;
+"mapdialog_02"          = "Open Secret Route";               // うらルート開放;
+"mapdialog_03"          = "A hidden route has been opened!"; // かくされたルートが開放された！;
+"mapdialog_04"          = "The door has been opened!";       // 扉があきました！;
+"mapdialog_05"          = "Objective Complete!"; // 条件たっせい！;
+"mapdialog_06"          = "You're 1 step closer to\nthe boss stage!"; // ボスステージへ1歩ちかづいた！;
+"mapdialog_07"          = "Complete"; // たっせい済みの条件;
+"mapdialog_08"          = "The path to a boss stage\nhas been unlocked!"; // ボスステージへの道が\n開放された！;
+
+"stagedetailview_01"    = "You don't have enough Points."; // てもちポイントが不足しています。;
+"stagedetailview_02"    = "You need 5 Yo-kai or more.";    // てもちの妖怪が5体未満です。;
+"stagedetailview_03"    = "None";                          // なし(好物なしの意味);
+"stagedetailview_04"    = "Register";                      // とうろく;
+"stagedetailview_05"    = "Done";                          // とうろくずみ;
+"stagedetailview_06"    = "Not Yet";                       // みとうろく;
+"stagedetailview_07"    = "Stage Clear";                   // ステージクリア;
+"stagedetailview_08"    = "Give up?\nSpent Spirit will not\nbe returned.";  // 消費した　ひとだまは\nもどってきませんが\nよこどりをやめますか？;
+"stagedetailview_09"    = "Not enough points."; // てもちポイントが不足しています。;
+"stagedetailview_10"    = "Not enough items."; // アイテムが不足しています。;
+
+"mapwarp_daily_title"   = "Daily";                                      // デイリー;
+"mapwarp_normal_title"  = "Normal";                                     // つうじょう;
+"mapwarp_event_title"   = "Event";                                      // イベント;
+"mapwarp_none_text01"   = "There are no maps available right now.";     // 開催中のマップがありません;
+"mapwarp_none_text02"   = "Please wait for a map to become available."; // 開催をお待ちください！;
+
+"mapwarpscene_01"       = "Map Description"; // マップせつめい;
+
+"mapwarpmanager_01_01"  = "Daily";                              // デイリー;
+"mapwarpmanager_01_02"  = "Normal";                             // つうじょう;
+"mapwarpmanager_01_03"  = "Event";                              // イベント;
+"mapwarpmanager_02"     = "This is where Nate and Katie\nlive."; // ケータ君やフミちゃんが住む町;
+
+"mapcharactorview_01"   = "Krrran... Krrran...";                                 // カラン　カラン　カラン。;
+"mapcharactorview_02"   = ".........";                                           // ……。;
+"mapcharactorview_03"   = "I just know I'm going to make\nlots of new friends!"; // ともだちが　いっぱい\n増えるような…気がする。;
+"mapcharactorview_04"   = "I've already visited the\nshrine once today...";      // 今日は\nもうお参りしたからいいかな。;
+"mapcharactorview_05"   = "Put 100y in the\nmoney box?";                         // おさい銭箱に\n100y入れますか？;
+
+"mapkeylockview_01"    = "Let's open the door!";                    // 扉をあけよう!;
+"mapkeylockview_02"    = "Jibanyan";                                // ジバニャン;
+"mapkeylockview_03"    = "%s needs\nto reach level %d!";             // %sのレベルが%d未満です。;
+"mapkeylockview_04"    = "You're not friends with\n<B>%s</B> yet!"; // まだ<B>%s</B>とともだちになっていません。;
+"mapkeylockview_04_01" = "You're not friends with";                 // まだ<B>%s</B>と;
+"mapkeylockview_04_02" = "<B>%s</B> yet!";                          // ともだちになっていません。;
+
+"lockfriendview_01"    = "Friend Points";                    // ともだちポイント;
+"lockfriendview_02"    = "You'll earn\n%d point per person!"; // 一人につき%dポイントもらえるよ！;
+"lockfriendview_03"    = "Help Requests sent!";              // おねがいメッセージをおくりました！;
+
+"lockfrienddialog_02"    = "Send message?";                          // メッセージを送りますか？;
+"lockfrienddialog_03"    = "Send message\nto %s?";                    // %sにお願いメッセージを送りますか？;
+"lockfrienddialog_04_01" = "* Friend Points and Help Requests";      // ＊ともだちポイントとおねがいメッセージは;
+"lockfrienddialog_04_02" = "cannot be carried onto the next map.";   // 次のマップに持ちこせません。;
+"lockfrienddialog_05"    = "Open the Door";                          // 扉をあける;
+"lockfrienddialog_06"    = "Use Friend Points\nto open the door?";   // ともだちポイントで\n扉をあけますか？;
+
+"entrydialog_01_01" = "First Name:";                                      // お名前(氏);
+"entrydialog_01_02" = "Last Name:";                                       // お名前(名);
+"entrydialog_01_03" = "Zip Code:";                                        // 郵便番号;
+"entrydialog_01_04" = "Address (State):";                                 // ご住所(都道府県);
+"entrydialog_01_05" = "Address (City):";                                  // ご住所(市区郡);
+"entrydialog_01_06" = "Address (Street):";                                // ご住所(番地);
+"entrydialog_01_07" = "Telephone Number:";                                // お電話番号;
+"entrydialog_01_08" = "Email Address:";                                   // メールアドレス;
+"entrydialog_02"    = "Input Error";                                      // 入力エラー;
+"entrydialog_03"    = "There is a problem with the data you entered.";    // 入力内容に不備があります;
+"entrydialog_04"    = "Please check.";                                    // をご確認ください;
+"entrydialog_05"    = "Registration complete.";                           // 応募完了;
+"entrydialog_06_01" = "No Hyphens";                                       // ハイフンなし;
+"entrydialog_06_02" = "(Optional)";                                       // (記入なしでも可);
+"entrydialog_06_03" = "No Hyphens";                                       // ハイフンなし;
+"entrydialog_07_01" = "Last Name:";                                       // お名前;
+"entrydialog_07_02" = "Zip Code:";                                        // 郵便番号;
+"entrydialog_07_03" = "Address:";                                         // ご住所;
+"entrydialog_07_04" = "Telephone Number:";                                // お電話番号;
+"entrydialog_07_05" = "Email Address:";                                   // メールアドレス;
+"entrydialog_07_06" = "First Name:";                                      // 氏;
+"entrydialog_07_07" = "Last Name:";                                       // 名;
+"entrydialog_07_08" = "Address (State):";                                 // 都道府県;
+"entrydialog_07_09" = "Address (City):";                                  // 市区郡;
+"entrydialog_07_10" = "Address (Street):";                                // 番地;
+"entrydialog_07_11" = "Building Name";                                    // 建物名;
+"entrydialog_08"    = "Enter Text Here";                                  // ここに入力;
+"entrydialog_09"    = "Confirm";                                          // かくにん;
+"entrydialog_10_01" = "Please check that the data entered";               // 入力した内容でお間違えないかどうか;
+"entrydialog_10_02" = "is correct before sending.";                       // ご確認の上送信して下さい。;
+"entrydialog_11"    = "Send the data as entered?";                        // 入力した内容で送信しますか？;
+"entrydialog_12"    = "Please enter shipping details for Yo-kai medals."; // 妖怪メダルの発送情報を入力してください;
+"entrydialog_13_01" = "Confirm"; // かくにん;
+"entrydialog_13_02" = ""; // 入力した内容でお間違えないかどうか;
+"entrydialog_13_03" = ""; // ご確認の上 送信してください;
+"entrydialog_13_04" = ""; // 入力した内容で送信しますか？;
+
+"serialcode_01_01" = "Enter the code you recieved in your email";                    // キャンペーンの種類をえらび、;
+"serialcode_01_02" = "when linking/restoring saves.";          // ひみつのワードを入力してください;
+"serialcode_02_01" = "Secret Code is Correct!";            // ひみつのワード入力成功！;
+"serialcode_02_02" = "Check your Inbox";                   // ゆうびんに;
+"serialcode_02_03" = "　";                                 // プレゼントをおくりました！;
+"serialcode_03_01" = "The Secret Code was";                // ひみつのワードが;
+"serialcode_03_02" = "already used or";                    // 間違っているか、;
+"serialcode_03_03" = "entered incorrectly.";               // 使用済みのひみつのワードです。;
+
+"puzzle_treasure_text"  = "Available when the stage has been cleared."; // ステージクリア後獲得できるよ;
+
+"puzzleresulteventsprite_01" = "No bonus."; // ボーナスなし;
+
+"bossbase_01"                 = "View tactical info\nfor %s?";  // %sの\n攻略情報を見ますか？;
+"bossbase_02_01"              = "Oh no! You lost...";           // 負けちゃいましたね…;
+"bossbase_02_02"              = "Read up on the boss";          // ボスの特徴を調べて;
+"bossbase_02_03"              = "and try again!";               // 再挑戦しましょう！;
+"bossbase_03"                 = "View tactical info\nfor %s?";  // %sの\n攻略情報を見ますか？;
+
+"youkaievolutiondialog_05" = "Are you sure you want to lose the\nchance to evolve your friend?";  // 進化の機会を失ってしまいますが\n本当によろしいですか？;
+"youkaievolutiondialog_06" = "%s has evolved\ninto <B>%s</B>!";                                   // %sは\n<B>%s</B>に進化した！;
+"youkaievolutiondialog_07" = "%s is ready to evolve!▽Evolve to have \n%s's S-Move improve!▽";     // %sが進化しそうだ！\n進化させると<B>%s</B>のわざアップ！▽;
+"youkaievolutiondialog_08" = "Evolve %s now?";                                                    // %sを進化させますか？;
+"youkaievolutiondialog_09" = "%s is ready to evolve!\nEvolve now?";                               // %が進化しそうだ！\n進化させますか？;
+
+"continuedialog_03_01"      = "Spend <R>Y-Money</R>";          // <R>Yマネー</R>を消費して;
+"continuedialog_03_02"      = "to Continue?";                  // 途中からやり直しますか？;
+"continuedialog_03_03"      = "Extend gameplay by %d sec?";           // %d秒延長しますか？;
+"continuedialog_04_01"      = "Use <R>Y-Money</R> to extend";  // <R>Yマネー</R>を消費して;
+"continuedialog_04_02"      = "Extend gameplay by 10 sec?";           // 10秒延長しますか？;
+
+"puzzleresultsprite_01"     = "Stage Clear"; // ステージクリア;
+"puzzleresultsprite_02"     = "The match has ended.\nWait for the announcement\nof the results!"; // 対戦が終了したよ。\n結果発表を待ってね！;
+"puzzleresultsprite_03"     = "The event has ended.\nWait for the results!"; // イベントが終了したよ。\n結果発表を待ってね！;
+
+"puzzlestopsprite_01"       = "Stage Clear"; // ステージクリア;
+
+"puzzlesearchsprite_01"     = "no favorite treats"; // ともだちにならない妖怪のようですぞ！;
+"puzzlesearchsprite_02"     = "no favorite treats"; // 好物がありません;
+
+"puzzleenemyyoukaisprite_01_01" = "%s's warmed\ntoward you a little..."; // %sがちょびっとなついた。;
+"puzzleenemyyoukaisprite_01_02" = "%s's starting\nto like you...";        // %sがそれなりになついた。;
+"puzzleenemyyoukaisprite_01_03" = "%s really likes\nyou now...";          // %sがけっこうなついた。;
+"puzzleenemyyoukaisprite_01_04" = "You're %s's favorite!";               // %sがものすごくなついた。;
+
+"puzzlescene_01"            = "You need 5 Yo-kai or more.";                           // てもちの妖怪が5体未満です。;
+"puzzlescene_02"            = "Noko";                                                 // ツチノコ;
+"puzzlescene_03"            = "Noko!";                                                // キュピーン♪;
+"puzzlescene_04_01"         = "Something appeared and\nrestored your HP...";          // なにかあらわれて\nHPを回復していきましたね…;
+"puzzlescene_04_02"         = "For important top-secret\nreasons,";                   // このステージは\n大人の事情で;
+"puzzlescene_04_03"         = "you can't get a Game Over\non this stage!";            // ゲームオーバーに\nならないようですよ！;
+"puzzlescene_05"            = "Extend Your Time?";                                    // 延長しますか？;
+"puzzlescene_06"            = "Don't give up! Keep going\ntill you clear the stage!"; // このステージは\nあきらめないでやりましょう！;
+"puzzlescene_07"            = "Extend Your Time?";                                    // 延長しますか？;
+"puzzlescene_08"            = "You're already using\nthis item: %s.";                 // 既に%sを\n使用しています。;
+"puzzlescene_09"            = "An irregular value is in use.";                        // 不正な値が使用されています。;
+
+"downloadview_01"           = "Data Download";                      // データダウンロード;
+"downloadview_02_01"        = "Data will now be downloaded.";       // データのダウンロードを行います;
+"downloadview_02_02"        = "Please make sure you have a good";   // 通信環境の良いところで;
+"downloadview_02_03"        = "connection before getting started."; // 行って下さい;
+
+"loadingwidget_01"          = "Hint"; // ヒント;
+"loadingwidget_02_01"       = "Linking Wib Wobs of the\nsame type will make them bigger!";                     // 同じ妖怪ぷにをつなげると\nでっかくなりますよ！;
+"loadingwidget_02_02"       = "The bigger a Wib Wob, the more\ndamage it will do to the enemy!";               // でかぷにのサイズが大きいほど\n敵へのダメージも大きいですよ！;
+"loadingwidget_02_03"       = "Don't hang around too long,\nbecause the enemy will keep attacking!";           // 敵は一定時間たつと攻撃してくる\nので気をつけるでうぃす！;
+"loadingwidget_02_04"       = "Tap an enemy you want to\ntarget, and I'll stick a pin in it!";                 // 狙いたい敵がいる時はタップして\nピンをさすのでうぃす♪ ;
+"loadingwidget_02_05"       = "The more Wib Wobs you join together,\nthe more your Fever Gauge will fill!";    // 妖怪ぷにをたくさんつなげるほど\nフィーバーゲージがたまりますよ;
+"loadingwidget_02_06"       = "When Fever strikes, you'll do more\ndamage and score more points!";             // フィーバー中はダメージも\nスコアも高くなりますよ！;
+"loadingwidget_02_07"       = "The Yo-kai you beat in battle can\nsometimes become your friends!";             // 倒した敵妖怪はともだちに\nなることがありますよ！;
+"loadingwidget_02_08"       = "Giving Yo-kai their favorite treats will\nmake them easier to befriend!";       // 敵に好物をあげると　ともだちに＼nなりやすくなるでうぃす♪;
+"loadingwidget_02_09"       = "Popping a Wib Wob will fill\nup that Yo-kai's Soul Meter.";                    // 妖怪ぷにを消すと　消した妖怪の\nわざゲージがたまりますよ！;
+"loadingwidget_02_10"       = "Larger Wib Wob charge\nyour S-Move Gauge even more!";                          // 妖怪ぷにのサイズが大きいほど\nわざゲージが多くたまりますよ！;
+"loadingwidget_02_11"       = "Befriend the same Yo-kai more than\nonce to improve its S-Move!";               // 同じ妖怪と　ともだちになると\nわざレベルがアップしますよ♪;
+"loadingwidget_02_12"       = "Yo-kai with higher S-Move Levels are a\nhuge help during battle!";               // わざレベルが上がると\nとても有利になりますよ！;
+"loadingwidget_02_13"       = "Match Yo-kai with members of the same\ntribe and watch their powers grow!";     // てもちの妖怪の種族をそろえると\nそろえた妖怪がパワーアップ♪;
+"loadingwidget_02_14"       = "Attack an enemy with a Yo-kai of the\nright tribe to deal bonus damage!";       // 敵の種族に対して有利な種族で\n攻撃するとダメージアップです！;
+"loadingwidget_02_15"       = "Pop two or more Big Wib Wob within\n3 seconds to start a combo!";              // でかぷにを3秒以内に消すと\nコンボが続くのでうぃす♪;
+"loadingwidget_02_16"       = "Combos are the key to racking\nup high scores!";                                // ハイスコアをねらう時はコンボを\n続けるといいのでうぃっす！;
+"loadingwidget_02_17"       = "Some Yo-kai only appear once\nin a while on certain stages!";                   // 同じステージでも　たまにしか\n出会えない妖怪がいますよ！;
+"loadingwidget_02_18"       = "Take out the Noko which sometimes\nappear to earn a ton of XP!";                // たまに出会えるツチノコは倒すと\nけいけんちが多いでうぃす♪ ;
+"loadingwidget_02_19"       = "The orange stages\nare special hidden stages!";                                 // オレンジ色のステージは\nかくしステージみたいですよ！;
+"loadingwidget_02_20"       = "You can access hidden stages by\naccomplishing specific\nachievements on nearby stages!"; // かくしステージは近くのステージ\nで条件を満たすといけますよ！;
+"loadingwidget_02_21"       = "Accomplishing specific achievements on\nboss stages unlocks secret maps!";      // ボスステージで何かを達成すると\nうらマップへいけるようですよ！;
+"loadingwidget_02_22"       = "Enemies on secret maps drop\nitems more often!";                                // うらマップの敵はアイテムを\n落としやすいようですよ！;
+"loadingwidget_02_23"       = "Your friends can send you Spirit\nto help you on your way!";                    // ともだちがいると　ひとだまを\n送ってもらえるでうぃっす♪ ;
+"loadingwidget_02_24"       = "You can't befriend enemies\nbeaten in Score Attack mode!";                      // スコアアタックで倒した敵は\nともだちにならないですよ！;
+"loadingwidget_02_25"       = "Final Score Attack results are\ntallied up every Monday!";                      // スコアアタックの最終結果は\n毎週月曜に決まるでうぃっす♪;
+"loadingwidget_03"          = "Score Attack Tips";                                                             // スコアアタックヒント;
+
+"rewarddialog_01"           = "Become Friends";               // ともだちになります;
+"rewarddialog_02"           = "You are now friends\nwith %s!"; // %s が仲間になった。;
+"rewarddialog_03"           = "Jibanyan";                     // ジバニャン;
+"rewarddialog_04"           = ", , ,";                        // 、、、;
+
+"moneydialog_01"            = "Acquire In-App Currency";           // App内課金を入手;
+"moneydialog_02"            = "You don't have enough Y-Money!";    // Yマネーが足りないよ！;
+"moneydialog_03"            = "Would you like to buy some?";       // Yマネーを購入しますか？;
+"moneydialog_04"            = "%s\n Purchased."; // %s\nを購入しました。;
+
+"hitodamadialog_01"         = "Buy Spirit";                     // ひとだま交換;
+"hitodamadialog_02"         = "<R>Buy</R> some <R>Spirit</R>?"; // <R>ひとだま</R>に<R>交換</R>しますか？ ;
+"hitodamadialog_03"         = "Unable to buy.";                 // 交換できません;
+"hitodamadialog_04"         = "Insufficient Spirit.";           // ひとだまがたりません;
+"hitodamadialog_05_01"      = "Spend Y-Money or beg a friend";  // 今すぐひとだまを回復するには;
+"hitodamadialog_05_02"      = "for help to instantly";          // Yマネーと交換するか;
+"hitodamadialog_05_03"      = "restore Spirit!";                // フレンドにおねだりしよう！;
+"hitodamadialog_06"         = "Spirit Meter maxes at 999. \nAdditional spirit purchases will not\nbe displayed but are saved internally."; // ９９９を超えてひとだまを購入した場合、表示は変わりませんが内部では正しい数で保存されます;
+
+"customizetalkdialog_01"    = "You are now friends\nwith <B>%s</B>";                                          // <B>%s</B>と\nともだちになった！;
+"customizetalkdialog_02"    = "Soultimate Level already at max.\nConverted to %d Y-Money instead.";            // スキルレベルが最大のため\nYマネー%dyに交換しました。;
+"customizetalkdialog_03"    = "<B>%s</B>'s details\nhave been added to\nthe Yo-kai Medallium!";               // <B>%s</B>のじょうほうを\n妖怪大辞典にとうろくした！(*日本語版を修正しておくこと);
+"customizetalkdialog_04"    = "The Yo-kai Medallium is shaking like\ncrazy! Better check out the last page!"; // 妖怪大辞典がふるえている…。\nページの最後をチェックしよう！;
+"customizetalkdialog_05"    = "One of the Yo-kai Medallium's\nseals has been lifted!";                        // 妖怪大辞典の封印が\nひとつ解かれた…。;
+"customizetalkdialog_06"    = "You are now friends\nwith <B>%s</B>!";                                         // <B>%s</B>と\nともだちになった！(*日本語版を修正しておくこと);
+"customizetalkdialog_07"    = "Soultimate Level already at max.\nConverted to %d Y-Money instead.";            // スキルレベルが最大のため\nYマネー%dyに交換しました。;
+"customizetalkdialog_08"    = "You can't carry any more.\nSent to your Inbox instead.";                       // 所持上限に達しているので\nゆうびんに送られました。;
+"customizetalkdialog_09"    = "\nacquired!";                                                                  // を\n手に入れた！;
+"customizetalkdialog_10_01" = "Y-Money";                                                                      // Ｙマネー(TODO: 現状のバージョンでは使っているので消さないこと);
+"customizetalkdialog_10_02" = "y\nacquired!";                                                                 // ｙを\n手に入れた！(TODO: 現状のバージョンでは使っているので消さないこと);
+"customizetalkdialog_11"    = "Y-Money %dy\nacquired!";                                                       // Ｙマネー%dｙを\n手に入れた！(TODO: 新しいところからこの文言);
+"customizetalkdialog_12"    = "%s\nacquired!";                                                                // %sを\n手に入れた！;
+"customizetalkdialog_13"    = "<B>%s</B> jumps out\nto meet you!";                                        // 中から<B>%s</B>が\nとびだしてきた！;
+"customizetalkdialog_14"    = "%s's S-Move Level already at max.\nConverted to %s instead."; // %sのわざレベルが最大のため\n%sに交換しました。;
+"customizetalkdialog_15"    = "Because you already have this,\nit has been converted to %n."; // すでに所持しているので\n%sに交換しました。;
+"customizetalkdialog_16"    = "Obtained %s's icon!"; // %sの\nアイコンを手に入れた！;
+
+"skillupdialog_01"          = "Your Yo-kai's S-Move have improved!"; // 既に持っている妖怪はわざレベルＵＰ！;
+
+"level5connect01dialog_01"    = "ELEVEL5 ID　連動";
+"level5connect01dialog_02_01" = "ELEVEL5 IDを";
+"level5connect01dialog_02_02" = "Not Yet Owned";                   // まだ持っていない方;
+"level5connect01dialog_03_01" = "ELEVEL5 IDを";
+"level5connect01dialog_03_02" = "Already Owned";                   // 既にお持ちの方;
+"level5connect01dialog_04_01" = "To play on a different device,";  // 機種変更を行う場合は、;
+"level5connect01dialog_04_02" = "first register your LEVEL5 ID";   // 遊んでいた端末で;
+"level5connect01dialog_04_03" = "on your current device, then";    // LEVEL5 IDの登録と連動を;
+"level5connect01dialog_04_04" = "link it to your new device.";     // 済ませてから連動して下さい;
+"level5connect01dialog_05"    = "Already linked.";                 // 既に連動済みです;
+
+"level5info01dialog_01"     = "Linking Data/Changing Devices";       // 連動・きしゅへん について;
+"level5info01dialog_02_01"  = "By linking your data, you";           // データを連動しておくと;
+"level5info01dialog_02_02"  = "can play on multiple devices,";       // 複数の端末で遊ぶときや;
+"level5info01dialog_02_03"  = "or continue using your current";      // 機種変更をした後も;
+"level5info01dialog_02_04"  = "play data on a new device.";          // 同じデータでプレイできます;
+"level5info01dialog_03_01"  = "You can also restore your data";      // 間違ってアプリを削除しても;
+"level5info01dialog_03_02"  = "if you accidentally delete the app."; // 元に戻すことができます;
+"level5info01dialog_04_01"  = "Linking data requires a LEVEL5 ID.";  // 連動・きしゅへん には;
+"level5info01dialog_04_02"  = "You can register for your";           // LEVEL5 IDの登録が必要です;
+"level5info01dialog_05_01"  = "LEVEL5 ID even after you've";         // 登録や連動は;
+"level5info01dialog_05_02"  = "started playing the game.";           // ゲームを進めた後でも;
+"level5info01dialog_05_03"  = "";                                    // 行うことができます(*空で大丈夫);
+
+"level5status01dialog_01_01" = "Silver";      // シルバー;
+"level5status01dialog_01_02" = "Gold";        // ゴールド;
+"level5status01dialog_01_03" = "Platinum";    // プラチナ;
+"level5status01dialog_01_04" = "Black";       // ブラック;
+"level5status01dialog_02_01" = "%s1 Perk";   // %sⅠ特典;
+"level5status01dialog_02_02" = "%s2 Perk";   // %sⅡ特典;
+"level5status01dialog_02_03" = "%s3 Perk";   // %sⅢ特典;
+"level5status01dialog_03"    = "Class";       // LEVEL5 ID情報;
+
+"level5status02dialog_01"    = "Status Up!Status Up!";               // ステイタスアップ！;
+"level5status02dialog_02_01" = "Status is";                          // ステイタスが;
+"level5status02dialog_02_02" = "now <R>%s</R>!";                     // <R>%s</R>になった！;
+"level5status02dialog_02_03" = "Status is\nnow <R>%s</R>!";          // ステイタスが\n<R>%s</R>になった！;
+"level5status02dialog_03"    = "Perk acquired!";                     // 特典をゲット！;
+"level5status02dialog_04"    = "Collect it from your <R>Inbox</R>!"; // <R>ゆうびん</R>からうけとってね！;
+
+"agecheck02dialog_01"       = "$"; // 円(英語版のみ使用している. ok);
+
+"reviewdialog_01"           = "Please write a review!";                // よかったらレビューをお願いします。;
+"reviewdialog_02_01"        = "You'll get ";                           // 今レビューを書くと;
+"reviewdialog_02_02"        = "Y-Money ";                              // Yマネー;
+"reviewdialog_02_03"        = "if you write a review now!";            // プレゼント！;
+"reviewdialog_03"           = "Thanks a million billion for playing!"; // 遊んでくれてありがとう！;
+"reviewdialog_04"           = "Why not write a nice review?";          // よかったらレビューをお願いします;
+
+"alluigroup_01"             = "%d% Extra Free"; // （ボーナス%d％）;
+
+"missionstarwidget_01"      = "*Tap a star to see how to acquire it."; // ※星をタップで獲得条件が見られます;
+"missionstarwidget_02"      = "No Stars";                              // なし;
+
+"youkaiskillupsprite_01"    = "Your Yo-kai's S-Move have improved!"; // 既に持っている妖怪はわざレベルＵＰ！;
+
+"transimittingwidget_01"    = "Connecting..."; // 通信中です;
+
+"resultstatus_01"           = "Max level reached.";             // 最大レベルに達しています。;
+"resultstatus_02"           = "The level cap has been removed."; // レベルの上限が開放されました;
+
+"qrcodelayer_01"            = "Failed";    // しっぱい;
+"qrcodelayer_02"            = "Completed"; // せいこう;
+
+"medalscene_01"             = "No. of Medals";         // とうろくしたメダルの数;
+"medalscene_02"             = "Current Medal Points:"; // てもちのメダルポイント;
+"medalscene_03"             = "Personal Info";         // じぶんのじょうほう;
+
+"medalbattlepreview_01"     = "Insufficient Medal Points."; // てもちメダルポイントが不足しています。;  "Not enough Medal Points."; 
+"medalbattlepreview_02"     = "You need 5 Yo-kai or more."; // てもちの妖怪が5体未満です。;
+"medalbattlepreview_03"     = "???";                        // ???;
+
+"scoreAtk_extension1"       = "Spend 500Y to";              // Yマネー500yで;
+"scoreAtk_extension2"       = "Buy a 10-second extension?"; // 10秒延長しますか？;
+
+"tutorialcommon_01_01"      = "…";                                                      // …;
+"tutorialcommon_01_02"      = "You can always read them\nafterwards, I suppose.▽They're in the Settings\nsection.▽Under <R>"How to Play"</R>,\nI believe."; // 設定の<R>遊び方</R>で\n後からでも確認できますしね！！;
+"tutorialcommon_01_03"      = "Right, let's get this puzzle\nparty started, shall we?"; // じゃあ\nパズルを始めちゃって下さい！;
+"tutorialcommon_02_01"      = "I thought you might say that!";                          // そう言うと思いましたよ…;
+"tutorialcommon_02_02"      = "Should the mood ever take\nyou, just go to the Settings\nsection.▽You'll find it under\n<R>"How to Play"</R>."; // 気が向いたら　設定にある\n<R>遊び方</R>を読んで見てください！;
+"tutorialcommon_02_03"      = "Now let's show this foe\nwhat's what!";                  // それでは　敵を倒しましょう！;
+"tutorialcommon_03_01"      = "Well, alright then...\nIf you insist...";                // そうですよね…\nもういいですよ…;
+"tutorialcommon_03_02"      = "Now let's show this foe\nwhat's what!";                  // それでは　敵を倒しましょう！;
+"tutorialcommon_04"         = "Little"; // くん";
+
+"tutorial_menu_watch_map_01" = "You got moxie! I like it!"; // 熱いガッツを　もっているな！;
+"tutorial_menu_watch_map_02" = "Just for you,\nI'll let you in on\n<R>something</R> interesting!"; // そんな　お前に\n<R>いい情報</R>を教えてやるぜ！;
+
+"tutorial_menu_kurooni2_map_01" = "You're strong!\nTake this Orcanos medal\nas thanks!"; // お前は強い！　ほうびに黒鬼の\n妖怪メダルを送ってやるぞ！;
+
+"tutorial_menu_watch_01" = "Let me see now...\nAh yes, here it is!";                         // ええっと…\nそうそう。　ここでは;
+"tutorial_menu_watch_02" = "Collect <R>items</R> and make\na new <R>Yo-kai Watch</R> here!"; // <R>パーツ</R>を集めて　あたらしい\n<R>妖怪ウォッチ</R>を作れるんです！;
+"tutorial_menu_watch_03" = "You can even <R>equip</R>\nyour new Yo-kai Watch!";              // 作った妖怪ウォッチは\n<R>つけかえ</R>できるみたいですね！;
+
+"tutorial_menu_watch_make_01" = "Umm...\nOh right, of course!";                          // ええっと…\nそうそう。　ここでは;
+"tutorial_menu_watch_make_02" = "You can also check which\n<R>items</R> you need here!"; // つくるのに必要な<R>パーツ</R>を\n確認できるみたいです。;
+"tutorial_menu_watch_make_03" = "Items drop by\n<R>clearing stages</R>";                // パーツは\n<R>ステージをクリア</R>したり;
+"tutorial_menu_watch_make_04" = "or defeating <R>rare Yo-kai</R>!";                      // <R>めずらしい妖怪</R>が<R>落としたり</R>\nするみたいなので;
+"tutorial_menu_watch_make_05" = "Do your best to find them!";                            // がんばって\nさがしてみましょう！;
+
+"tutorial_menu_watch_made_01" = "You've obtained\na new <R>Yo-kai Watch</R>!!";   // あたらしい　<R>妖怪ウォッチ</R>を\n手に入れましたね！！;
+"tutorial_menu_watch_made_02" = "It seems to hold\na <R>mysterious power</R> so"; // <R>ふしぎな力</R>も\nあるみたいなので;
+"tutorial_menu_watch_made_03" = "<R>equip</R> your new Yo-kai Watch!";           // あたらしいウォッチに\n<R>つけかえ</R>ちゃいましょう！;
+
+"tutorial_ranking_kurooni2_init_01" = ""; // 今回は　HPがなくなるまで\n戦い続ける<R>特別ルール</R>ですよ！;
+"tutorial_ranking_kurooni2_init_02" = ""; // 敵をやっつけていくと\n<R>黒鬼呂布</R>が現れるでうぃす♪;
+"tutorial_ranking_kurooni2_init_03" = ""; // 黒鬼呂布は何度も現れ\n黒鬼呂布を<R>倒した回数</R>によって;
+"tutorial_ranking_kurooni2_init_04" = ""; // おともだちに\n<R>なりやすくなる</R>ようです！;
+"tutorial_ranking_kurooni2_init_05" = ""; // さらに　黒鬼呂布を倒した数\nによって<R>報酬</R>もあるようなので;
+"tutorial_ranking_kurooni2_init_06" = ""; // できるかぎり黒鬼呂布を\nたくさん倒しましょう！！;
+
+"tutorial_ranking_kurooni2_bonus_01" = ""; // ボーナスが発生しましたよ！！\nこの特別ルールのパズル後に;
+"tutorial_ranking_kurooni2_bonus_02" = ""; // ボーナスが発生することが\nあるようですよ！;
+"tutorial_ranking_kurooni2_bonus_03" = ""; // ボーナスは全部で４種類あり\n続けてプレイすることで;
+"tutorial_ranking_kurooni2_bonus_04" = ""; // 全てのボーナスが同時に\nつくこともあるそうでうぃす♪;
+
+"event_ranking_kurooniCP2_end"      = ""; // リアル「黒鬼」キャンペーン第2弾\nは終了しました;
+
+"tutorial_sangoku_init_01"          = ""; // さあ　はじまりました\n<R>宝珠争奪戦でうぃす♪</R>;
+"tutorial_sangoku_init_02"          = ""; // ここからは 　天才軍師\nウィスパー孔明が説明しますよ！;
+"tutorial_sangoku_init_03"          = ""; // これから　<R>３チーム</R>に分かれて\n<R>競う</R>ようですよ！;
+"tutorial_sangoku_init_04"          = ""; // ルールはいたってシンプル\n集めると願いが叶う　という;
+"tutorial_sangoku_init_05"          = ""; // <R>宝珠</R>をたくさん<R>集めた</R>チームの\n勝利です！;
+"tutorial_sangoku_init_06"          = ""; // チームの順位に合わせて\nごほうびが　あるみたいです！;
+"tutorial_sangoku_init_07"          = ""; // <R>対戦</R>は<R>数回</R>に<R>分けられていて</R>;
+"tutorial_sangoku_init_08"          = ""; // <R>対戦</R>が<R>終わるごとに</R>\n<R>チーム</R>は<R>解散</R>となるんでうぃす♪;
+"tutorial_sangoku_init_09"          = ""; // では　さっそく\n参加するチームを選びましょう！;
+"tutorial_sangoku_puzzle_01"        = ""; // 宝珠が　はいった宝箱について\nご説明しましょうか？;
+"tutorial_sangoku_puzzle_02"        = ""; // ウィスパー孔明の説明を\n聞きますか？;
+"tutorial_sangoku_puzzle_No_01"     = ""; // …;
+"tutorial_sangoku_puzzle_No_02"     = ""; // おしらせで確認できますしね！\n始めちゃいましょう！;
+"tutorial_sangoku_puzzle_03"        = ""; // チーム戦に<R>勝つ</R>ためには\n<R>たくさんの宝珠</R>が必要です！;
+"tutorial_sangoku_puzzle_04"        = ""; // その宝珠が入っている宝箱が\nパズル中に落ちてくるんです。;
+"tutorial_sangoku_puzzle_05"        = ""; // 宝箱と<R>となり合うサイズ５以上</R>の\n<R>でかぷに</R>をたくさん消したり;
+"tutorial_sangoku_puzzle_06"        = ""; // <R>ひっさつわざ</R>をあてると\n<R>宝箱が開く</R>ようです。;
+"tutorial_sangoku_puzzle_07"        = ""; // さっそく\nでかぷにを作ってみましょう！;
+"tutorial_sangoku_puzzle_08"        = ""; // 妖怪ぷにの<R>サイズが大きいほど</R>\nはやく開けられるようです！;
+"tutorial_sangoku_puzzle_09"        = ""; // 宝箱の大きさによって\n宝珠の数も　ちがうみたいなので;
+"tutorial_sangoku_puzzle_10"        = ""; // 自分のチームの勝利のために\n宝珠を集めていきましょう！;
+"tutorial_sangoku_puzzle_finished_01"   = ""; // 宝珠を手に入れましたね！\n勝利に一歩ちかづきましたよ！;
+"tutorial_sangoku_puzzle_finished_02"   = ""; // おや　宝珠の<R>数に応じて</R>\n<R>貢献度も上がる</R>ようです。;
+"tutorial_sangoku_puzzle_finished_03"   = ""; // 貢献度が上がると\nごほうびが　あるみたいですよ！;
+
+"tutorial_sangoku_yokodori_01"      = ""; // ふむ　とうとう\nここまで　きましたね…;
+"tutorial_sangoku_yokodori_02"      = ""; // ここでは\n<R>ひかえの妖怪ぷに</R>を使って;
+"tutorial_sangoku_yokodori_03"      = ""; // <R>敵チーム</R>から\n宝珠を<R>よこどり</R>できるようです！;
+"tutorial_sangoku_yokodori_04"      = ""; // 相手もかなり　<R>てごわく</R>;
+"tutorial_sangoku_yokodori_05"      = ""; // <R>しゅぞく相性</R>や<R>妖怪ぷにの強さ</R>が\n大きく影響するので注意です！;
+"tutorial_sangoku_yokodori_06"      = ""; // では　さっそく\nためしてみましょう！;
+
+"tutorial_sangoku_yokodori_07"      = ""; // ここでは　よこどりさせる\n<R>メンバーを選ぶ</R>事ができますよ！;
+"tutorial_sangoku_yokodori_08"      = ""; // 妖怪<R>ぷにの入れ替え</R>と<R>同じように</R>\n妖怪ぷにを選ぶだけです！;
+"tutorial_sangoku_yokodori_09"      = ""; // ちなみに;
+"tutorial_sangoku_yokodori_10"      = ""; // <R>HPが高い</R>と帰ってくるまでの\n<R>時間が短く</R>なり;
+"tutorial_sangoku_yokodori_11"      = ""; // <R>こうげきが高い</R>とよこどりする\n<R>宝珠が多くなるらしいでうぃす！</R>;
+"tutorial_sangoku_yokodori_12"      = ""; // よこどりに向かわせた\n妖怪ぷにですが　<R>帰ってくるまで</R>;
+"tutorial_sangoku_yokodori_13"      = ""; // パズルで使う妖怪ぷに　として\n<R>入れ替えできない</R>ので注意です！;
+
+"tutorial_sangoku_yokodori_norusoru_01" = ""; // むむむ…\nこの雰囲気…;
+"tutorial_sangoku_yokodori_norusoru_02" = ""; // <R>のるかそるか</R>　<R>キケンな</R>\nよこどりになる気がします…;
+"tutorial_sangoku_yokodori_norusoru_03" = ""; // ですが…\n<R>一発逆転</R>を　ねらえますよ！！;
+"tutorial_sangoku_yokodori_norusoru_04" = ""; // なんですか　その目は！\n天才軍師を信用できないとでも？;
+"tutorial_sangoku_yokodori_norusoru_05" = ""; // いいですよべつに…　あとは\nアナタの<R>運</R>しだいなんですから！;
+
+"sangokushi_result_receipt_title01"     = "Ranking Reward"; // ランキング報酬;
+"sangokushi_result_receipt_title02"     = "Confirm"; // かくにん;
+"sangokushi_result_receipt_desc01"      = "Rewards will be delivered to your Inbox!"; // ごほうびをゆうびんにとどけました！; "Rewards have been delivered to your inbox!";
+"sangokushi_result_receipt01"           = "The results are being announced!\nWait until the next match!"; // 結果発表中だよ！\n次の対戦が始まるまで待ってね！; "The results are being announced!\nWait until the next match begins!";
+"sangokushi_result_receipt02"           = "The event has ended!\nPlease look forward to\nthe next event!"; // イベントは終了しました！\n次のイベントを楽しみにしててね！; "The event has ended!\nLook forward to the next event!";
+
+"sangokushi_result_receipt_talk01"      = "It's finally here!\nAt last, the <R>Results Announcement</R>!!"; // おまたせいたしました！\nいよいよ　<R>結果発表</R>です！！; "Thanks for waiting!\nIt's time to announce the results!";
+"sangokushi_result_receipt_talk02"      = "Let's see here,\nhow did things turn out!?"; // さて　いったい\nどうなったのでしょうか！？; "Now then, let's see\nwhat's happened!?"; 
+"sangokushi_result_receipt_talk03"      = "Let's look at\nthe Team Rankings first!"; // まずはチームランキングからの\n発表でうぃす～！; "I'll begin by announcing\nthe results of the team ranking!"; 
+
+"tutorial_sangoku_atk_01"               = "What...!?\nYou're being invaded!"; // なんと…！？\nせめこまれて　しまいましたよ！;
+"tutorial_sangoku_atk_02"               = "I don't have a very good\nfeeling about this..."; // ただならぬ妖気を\n感じるでうぃす…;
+"tutorial_sangoku_atk_03"               = "There are strong Yo-kai lurking about,\nbut lot's of treasure chests will drop"; // つよい妖怪が出てきますが\n宝箱が　いっぱい出るようなので;
+"tutorial_sangoku_atk_04"               = "so do your best and send them packing!"; // がんばって　おい返しましょう！;
+
+"puzzlefuncopendialog_01"   = "It's <R>Fever Time</R>, folks!";                   // <R>フィーバー</R>が開放されました;
+"puzzlefuncopendialog_02"   = "It's time to unleash a <R>Soultimate Move</R>!"; // <R>ひっさつわざ</R>が開放されました;
+
+"map01process_01_01"        = "Hey, look! There's a <R>Red Cat\nWib Wob</R> over there!"; // あそこに　さっき逃げていった\n<R>赤い猫の妖怪ぷに</R>がいますね。;
+"map01process_01_02"        = "Oh, sorry. This must all sound\nlike gibberish to you..."; // あ！\nそうそう。;
+"map01process_01_03"        = "Those wibbly wobbly,\ntimey whimey things - \nthose are called Wib Wobs!"; // あのぷにぷにぷにぷにしたのは\n<R>妖怪ぷに</R>というんです♪;
+"map01process_01_04"        = "Let's make our way over to\nwhere the red cat is,\nshall we?"; // 赤い猫の妖怪ぷにのところまで\n行ってみましょう！;
+
+"map01process_02_01"        = "...Hnnnngh! Wait!";                                  // むむっ！;
+"map01process_02_02"        = "I'm detecting the presence\nof a Yo-kai nearby!";    // このあたりから\n妖気を感じますよ！;
+"map01process_02_03"        = "Get your Yo-kai Watch out\nand investigate!";        // 妖怪ウォッチを使って\n調べてみるのです！　うぃす♪;
+"map01process_03_01"        = "I knew it! There's our\nculprit!";                   // やっぱりいましたよ！;
+"map01process_03_02"        = "And he's none too happy at\nhaving been disturbed!"; // 寝ているところを起こされて\n怒っているようですね…;
+"map01process_03_03"        = "Looks like we'll have to fight\nour way through!";   // ここを突破しないと\n先に進めないようです！;
+"map01process_03_04"        = "Ready or not, %s,\nhere he comes!";                  // %s！\n戦いましょう！！;
+"map01process_03_05"        = "Oh yeah! You don't have\nany Wib Wobs, do you?";     // でも　戦うのに必要な妖怪ぷにを\n持っていないですね。;
+"map01process_03_06"        = "Here, I picked these ones up\na little while ago.";  // さっきひろった\nこれをあげましょう！！;
+"map01process_03_07"        = "Whisper gives you a Wib Wob\nstarter pack!";         // 妖怪ぷにセットを\nもらった。;
+
+"map02process_01_01"        = "Hnnngh! I'm sensing a\nseriously strong presence\nnear the school!"; // むむっ…！　小学校の方に\n強い妖気を感じますよ…;
+"map02process_01_02"        = "It's a boss Yo-kai, or my\nwisp isn't white!";                       // これはきっと\n<R>ボス的な妖怪</R>に違いありません！;
+"map02process_01_03"        = "You'd better befriend plenty\nof Yo-kai before you reach\nhim!";     // ボスにたどり着く間に妖怪を\nどんどん<R>ともだち</R>にしましょう！;
+
+"puzzle01process_01_01"     = "<R>Link up</R> Wib Wobs of the same\nkind to <R>make them bigger</R>!";        // 同じ妖怪ぷにを<R>つなげて</R>\n<R>でっかく</R>したり;
+"puzzle01process_01_02"     = "Then <R>tap</R> them to <R>pop</R> them!\nCouldn't be simpler!";               // 妖怪ぷにを<R>タップ</R>して<R>消す</R>\nのが基本操作でうぃっす♪;
+"puzzle01process_01_03"     = "Shall I explain how it all\nworks while we're here?";                          // <R>パズルの基本操作</R>を\nご説明しましょうか！？;
+"puzzle01process_02"        = "Listen to Whisper's\nexplanation?";                                            // ウィスパーの説明を\n聞きますか？;
+"puzzle01process_03"        = "Righty-oh! Now, that Yo-kai at\nthe <R>top</R> is your <R>enemy</R>.";         // うぃす♪\n<R>上</R>にいる妖怪が<R>敵</R>です！;
+"puzzle01process_04"        = "And these here are <R>your Yo-kai</R>\nand their HP, or health\npoints!";       // ここは%sの<R>味方の妖怪とHP</R>ですよ！;
+"puzzle01process_05_01"     = "To attack the enemy, simply\n<R>pop a Wib Wob by tapping on\nit</R>!";          // 敵を攻撃するには　妖怪ぷにを\n<R>タップして消す</R>のです！;
+"puzzle01process_05_02"     = "Go on, give it a try!\nPippity pop!";                                          // さっそく妖怪ぷにを\n消してみましょう♪;
+"puzzle01process_06_01"     = "Not bad at all!";                                                               // いいですね！;
+"puzzle01process_06_02"     = "Now, let's try and make a\nWib Wob bigger, shall we?";                          // 次は妖怪ぷにを\nでっかくしてみましょう！;
+"puzzle01process_06_03"     = "<R>Link up Wib Wobs</R> of the same\nkind to make them <R>grow in\nsize</R>.";  // 同じ妖怪ぷに同士を<R>つなげると</R>\nくっついて<R>でっかくなる</R>んです♪;
+"puzzle01process_07_01"     = "My word, %s!\nYou're a natural!";                                               // %s！\nすごいですね！！;
+"puzzle01process_07_02"     = "The bigger a Wib Wob is when\nyou pop it, the <R>more damage</R>\nit will do!"; // でかい妖怪ぷにを消すと　敵への\n<R>ダメージもでかい</R>んですよ！;
+"puzzle01process_07_03"     = "Why don't you try popping a\nnice big Wib Wob for me?";                         // 今度は　でかい妖怪ぷにを\n消してみましょう！;
+"puzzle01process_08_01"     = "Well now, what have we\nhere...?";                                              // 何か出ましたよ！;
+"puzzle01process_08_02"     = "Oooh, a <R>Bonus Ball</R>! Lovely!";                                            // えーと…\nこれは<R>ボーナス玉</R>ですよ！;
+"puzzle01process_08_03"     = "These appear sometimes after\nyou pop a big Wib Wob!";                          // でかぷにを消した時に\nたまに出現するでうぃっす！;
+"puzzle01process_08_04"     = "Tap them to make all the Wib\nWobs around them get bigger!";                    // タップすると　まわりの\n妖怪ぷにを<R>でかく</R>しますよ！;
+"puzzle01process_09"        = "Growth: A sure sign of\nprogress! Let's continue,\nshall we?";                   // でかくなりましたね。\nそれではパズルを続けましょう！;
+
+"puzzle02process_00"        = "%s!";                                                             // %s!;
+"puzzle02process_01"        = "Next, I'd like to talk to you\nabout enemy attacks.";             // 次は<R>敵の攻撃</R>について\nご説明しましょうか！？;
+"puzzle02process_02"        = "Listen to Whisper's\nexplanation?";                               // ウィスパーの説明を\n聞きますか？;
+"puzzle02process_03_01"     = "There's a little number next\nto your foe there. ...See it?";     // 敵の横に数字がありますね！;
+"puzzle02process_03_02"     = "That's the countdown until\nthe enemy's next attack.";            // この数字は敵が攻撃してくる\nまでのカウントなんです！;
+"puzzle02process_03_03"     = "As time passes,\nit ticks on down...\nTick-tock... Tick-tock..."; // 時間が経つとカウントがへり;
+"puzzle02process_03_04"     = "And when it reaches zero...\nBlammo, whammo, Kablooey!";          // カウントが０になると\n敵が攻撃をしてきますよ！;
+"puzzle02process_03_05"     = "Keep your eye on it, and\nlet's carry on, shall we?";             // それでは気をつけて\n戦いましょう！;
+"puzzle02process_04_01"     = "Hmm... Your HP's looking\nrather low, %s...";                     // %sたちの\nHPが減りましたね…;
+"puzzle02process_04_02"     = "If it reaches zero, it's\ngame over. No pressure.";               // HPが0になると<R>ゲームオーバー</R>\nなので注意しましょう！;
+"puzzle02process_04_03"     = "Now, keep going and try not\nto get clobbered!";                  // それでは敵にやられないよう\nにしてパズルを続けましょう♪;
+
+"puzzle03process_01"        = "It's time to have a little\ntalk about <R>Fever Mode</R>!";               // 今度は<R>フィーバー</R>について\nご説明しましょうか！？;
+"puzzle03process_02"        = "Listen to Whisper's\nexplanation?";                                       // ウィスパーの説明を\n聞きますか？;
+"puzzle03process_03_01"     = "Giggling!!!";                                                             // うぃす♪;
+"puzzle03process_03_02"     = "This bar down at the bottom of\nthe screen is your <R>Fever\nGauge</R>."; // 画面下のこのゲージは\n<R>フィーバーゲージ</R>というんです！;
+"puzzle03process_03_03"     = "The more Wib Wobs you link\ntogether, the more the gauge\nfills up.";      // 妖怪ぷにをつなげると\nゲージがたまるんでうぃっす！;
+"puzzle03process_03_04"     = "Just this once, I've made it\nfill up extra fast.";                       // 今回はとくべつに\nゲージがたまりやすいので;
+"puzzle03process_03_05"     = "Go ahead - fill 'er up!\nTake me to Fever Town!";                         // さっそく\nフィーバーしてみましょう！！;
+"puzzle03process_04_01"     = "Iiiit's...<R>FEVER TIIIIIIME</R>!!!";                                         // <R>フィーバー</R>になりましたよ！！;
+"puzzle03process_04_02"     = "And that means the enemy\n<R>can't attack you</R>!";                          // フィーバー中は\n<R>敵が攻撃できなく</R>なり;
+"puzzle03process_04_03"     = "Not only that, but your\n<R>attacks grow extra-strong</R> too!";              // %sたちの\n<R>攻撃は強くなる</R>ので;
+"puzzle03process_04_04"     = "Now's your chance!\nShow no mercy!";                                          // <R>大チャンス</R>ですよ！！;
+"puzzle03process_04_05"     = "Any Wib Wobs you pop in Fever\nMode won't deal damage right\naway.";          // フィーバー中に妖怪ぷにを消すと\nすぐにダメージをあたえず;
+"puzzle03process_04_06"     = "Instead, <R>you'll deal all that\ndamage at once when Fever Mode\nends</R>!"; // フィーバーが<R>終わったとき</R>に\nまとめて<R>でっかく攻撃</R>しますよ！;
+"puzzle03process_04_07"     = "Here it comes! <R>Ten seconds</R> of\nFever Mode! Pop those Wib\nWobs!";       // それでは<R>10秒間</R>のフィーバー\nはじまりでうぃっす♪;
+
+"puzzle04process_00"        = "%s!";                                                                                   // %s！;
+"puzzle04process_01"        = "Want to hear about how you\ncan make enemy Yo-kai your\nfriends?";                      // 敵の妖怪が<R>ともだちになる</R>ことが\nあるんですが興味はありますか？;
+"puzzle04process_02"        = "Listen to Whisper's\nexplanation?";                                                     // ウィスパーの説明を\n聞きますか？;
+"puzzle04process_03_01"     = "Sometimes, Yo-kai you beat\nin battle will want to be your\npals.";                     // 敵の妖怪を倒すと　ともだちに\nなることがあるんです！;
+"puzzle04process_03_02"     = "And giving them <R>treats they\nlike</R> will increase the odds\nof befriending them."; // <R>好物</R>をあげるとなつきやすくなる\nのであげてみましょう♪;
+"puzzle04process_04_01"     = "Delicious!";                                                                            // うまく好物をあげられましたね♪;
+"puzzle04process_04_02"     = "Let's finish this fight and\nsee if we've made a new\nfriend!";                         // ともだちになってくれることを\n願って倒しちゃいましょう！！;
+"puzzle04process_05_01"     = "Yippadeedoodaa!\nA new friend!";                                                        // ともだちになってくれましたね！;
+"puzzle04process_05_02"     = "The first of many, I hope!\nKeep up the good work!";                                    // この調子でともだち妖怪を\n増やしていきましょう！;
+
+"puzzle05process_00"        = "%s!";                                                                              // %s！;
+"puzzle05process_01"        = "In this last lesson, we're\ngoing to learn about\n<R>Soultimate Moves</R>.";       // 最後に<R>ひっさつわざ</R>について\n説明しますよ！！;
+"puzzle05process_02"        = "Listen to Whisper's\nexplanation?";                                                // ウィスパーの説明を\n聞きますか？;
+"puzzle05process_03_01"     = "Each of your Yo-kai friends\nhas an <R>extra-special secret\nmove</R>.";            // ともだち妖怪はそれぞれ<R>ひっさつ</R>\n<R>わざ</R>を持っているんです！;
+"puzzle05process_03_02"     = "When you pop a Wib Wob, that\nYo-kai's S-Move Gauge will\nslowly fill up.";          // 妖怪ぷにを消すと消した妖怪の\nわざゲージがたまり;
+"puzzle05process_03_03"     = "And when it's full, you can\nunleash their Soultimate Move!";                      // <R>わざゲージが満たん</R>になったら\nひっさつわざをつかえますよ！;
+"puzzle05process_03_04"     = "Alright, let's pop those Wib\nWobs and fill that gauge!";                          // それでは妖怪ぷにを消して\nわざゲージをためてみましょう！;
+"puzzle05process_04_01"     = "Look! Loooooook! Those Wib\nWobs are itching for action!";                         // 見てください！\n妖怪ぷにがやる気まんまんです！;
+"puzzle05process_04_02"     = "Well, what are you waiting\nfor? Unleash that <R>Soultimate\nMove</R>!";           // さぁ　<R>ひっさつわざ</R>を\n使ってみるのです！！;
+"puzzle05process_05_01"     = "You've come a long way,\n%s!\nYou're welcome, by the way.";                         // %s！\nかなり上達しましたね！;
+"puzzle05process_05_02"     = "I think it's time to teach you\na little technique only the\npros know!";          // ちょっと上級者向けの\nテクニックも教えちゃいますよ！;
+"puzzle05process_05_03"     = "2 or more Wib Wobs popped\nwithin 3 seconds starts a\ncombo.";                     // 2つ以上つなげた妖怪ぷにを3秒\n以内に消し続けると<R>コンボ</R>です！;
+"puzzle05process_05_04"     = "Not only do combos increase\nthe amount of damage you do...";                      // コンボが続くと敵へのダメージが\nちょっとだけ増えて;
+"puzzle05process_05_05"     = "They also boost your score!\nReach for the stars, kid!";                           // スコアが上がるのでハイスコアを\n目指すとき狙ってみましょう！;
+
+"menu01process_01_01"       = "Jibanyan";                                                              // ジバニャン;
+"menu01process_01_02"       = "I'm here to teach you how to\nswap your Wib Wobs around!";              // オレっちが妖怪を代表して　妖怪\nぷにの入れ替えをするニャン！;
+"menu01process_02_01"       = "Shmoopie";                                                              // キュン太郎;
+"menu01process_02_02"       = "Oooh, I just can't wait to try\nthe Crank-a-kai!\nI looove surprises!"; // ボク　妖怪ガシャを\nやってみたいキュン〜！;
+"menu01process_02_03"       = "Turning that wheel makes my\nheart Wibble Wobble!";               // ガシャまわすときって\nキュンキュンしちゃうキュン〜！;
+"menu01process_03_01"       = "Spenp";                                                                 // ムダヅカイ;
+"menu01process_03_02"       = "Don't worry about Y-Money for now!";                                    // やあ！　とりあえず\nYマネーは気にしないで;
+"menu01process_03_03"       = "Let's go shoppiiiiiing!";                                               // パーッと買い物に行こうよ！;
+"menu01process_04_01"       = "Hungramps";                                                             // ひも爺;
+"menu01process_04_02"       = "Sooo huuuungry...";                                                          // ひもじいのぉ～。;
+"menu01process_04_03"       = "What I wouldn't do for a rice ball...";                                 // おにぎりを\nめぐんでくれんかのぉ〜。;
+"menu01process_05_01"       = "Sgt. Burly";                                                            // ブリー隊長;
+"menu01process_05_02"       = "You need some exercise,\nsoldier!";                                     // 体がなまって\nいるんじゃないのか？;
+"menu01process_05_03"       = "Time to take on a <R>mission</R> or\ntwo!";                             // <R>ミッション</R>でエクササイズだ！;
+"menu01process_05_04"       = "The rewards are worth the\npain! Go check 'em out!";                    // ミッションは<R>ほうしゅう</R>が\nあるから必ずチェックするんだ！;
+"menu01process_06_01"       = "Manjimutt";                                                             // じんめん犬;
+"menu01process_06_02"       = "I'm a doggone fusion of man\nand mutt! ...You done any\nfusing yourself yet?"; // 私は人間と犬の合成なんですよ。\nあなたも合成いかがですか？;
+"menu01process_07_01"       = "Mirapo";                                                                // うんがい鏡;
+"menu01process_07_02"       = "Blehhh... I can join\nmirrors together, you know!";                     // ぺろ～ん。\n鏡の中の空間をつなぐことで;
+"menu01process_07_03"       = "Come see me if you want to\ntravel a long way in a\nshort time!";       // どこへでも行けるので遠出の際は\nわたくしをご利用ください。;
+"menu01process_08_01"       = "Flushback";                                                             // おもいだスッポン;
+"menu01process_08_02"       = "If you make a record of your\nmemories, you'll never forget\nthem!";     // あとで思い出せるように\n記録を残しておくのじゃ！;
+"menu01process_09_01"       = "Orcanos";                                                               // 黒鬼;
+"menu01process_09_02"       = "You're a tough one! Here, have\nmy medal! You deserve it!";             // お前は強い！　ほうびにワシの\n妖怪メダルを送ってやるぞ！;
+"menu01process_10_01"       = "Hey, look! There's a new\noption on the menu!";                         // おや　メニューに新しい機能が\n追加されたみたいですね！？;
+"menu01process_11"          = "The "<R>%s</R>" option\nhas been added to the menu!";                   // <R>%s</R>が\nメニューに追加された！;
+
+"menu01process_12_01"       = "You made friends with\n%s!"; // %sとともだちに\nなったおかげでメニューに;
+"menu01process_12_02"       = "You made friends with\n%s!"; // %sとともだちになった\nおかげでメニューに;
+"menu01process_13"          = "The "<R>%s</R>" option\nhas been added to the menu!"; // <R>%s</R>が追加されましたよ！\n早速使ってみましょう！;
+"menu01process_14"          = "The "<R>%s</R>" option\nhas been added to the menu!"; // <R>%s</R>が追加されましたよ！\n早速使ってみましょうか！？;
+"menu01process_15"          = "Check out the instructions\nfor the new menu option?"; // 追加されたメニューの\nチュートリアルを行いますか？;
+
+"menu01process_16_01" = "ぷにコマ";
+"menu01process_16_02" = "ぷに～。";
+"menu01process_16_03" = "妖怪ウォッチ３で使える";
+"menu01process_16_04" = "ダウンロード番号を\nぷにっと教えちゃうズラ～。";
+
+"menuitem01process_01_01"   = "Now, let me see... Ahh, yes!";                                             // ええっと…　ここでは;
+"menuitem01process_01_02"   = "This is where you can buy\n<R>food</R> and other lovely <R>items</R>!";    // <R>たべもの</R>や<R>どうぐ</R>を\nYマネーで<R>買えます</R>よ！;
+"menuitem01process_02_01"   = "Now, let me see... Ahh, yes!";                                             // ええっと…　ここでは;
+"menuitem01process_02_02"   = "And you can <R>examine and use</R>\nyour beloved belongings, too!";        // 持っている<R>アイテム</R>を\n<R>確認したり使ったり</R>できますよ！;
+"menuitem01process_02_03"   = "Using items is unbelievably\neasy. Just pick the object in\nquestion..."; // アイテムを使う場合は\n使いたいアイテムを選んで;
+"menuitem01process_02_04"   = "And tap "Use"!";                                                           // 「つかう」をタップしましょう！;
+"menuitem01process_03_01"   = "What's this now...? Ah, these\nare <R>challenges</R>, aren't they?";       // ええっと…　ここでは\nいろいろな<R>お題</R>が出され;
+"menuitem01process_03_02"   = "Complete them, and you\ncan earn <R>fabulous rewards</R>!";                // お題をクリアすると\n<R>ほうしゅう</R>がもらえるんです！;
+"menuitem01process_03_03"   = "Take a look when you're\nfeeling feisty!";                                 // 気が向いたら　お題を確認して\nクリアしましょう！　うぃす♪;
+
+"menuitem01process_04_01"   = "Fusion lets you <R>mix items and</R>\n<R>Yo-kai to make new ones</R>!";    // 合成は<R>アイテムや妖怪を組合わせ</R>\n<R>新しい妖怪を生み出す</R>んです！;
+"menuitem01process_04_02"   = "But remember - <R>you'll lose</R>\n<R>the items and Yo-kai you fuse</R>!"; // 合成に使ったアイテムや妖怪は\n<R>なくなってしまう</R>ので注意です！;
+
+"menuitem01process_05_01"   = "Yo-kai that you befriend will\nbe saved in your <R>Medallium</R>.";        // ともだちになった妖怪は\nこの<R>妖怪大辞典</R>に<R>登録</R>されます！;
+"menuitem01process_05_02"   = "There are some <R>sealed pages</R>\nin here, too.";    // 中には<R>封印ページ</R>もあるので;
+"menuitem01process_05_03"   = "I wonder what <R>marvelous</R>\n<R>mysteries</R> they hide...";            // 封印を解くと\n<R>何かがおきる</R>かもしれませんよ？;
+
+"menuitem01process_06_01"   = "Map-jumping allows you to <R>zip</R>\n<R>about instantly</R> between areas."; // ワープは<R>マップからマップへ</R>\nかんたんに<R>移動</R>ができるんです！;
+"menuitem01process_06_02"   = "And there's also an odd area\nthat can only be jumped to.";                  // たまにそのときだけ\nいけるマップがあるようなので;
+"menuitem01process_06_03"   = "Be sure to head straight\nthere when one appears!";                           // 見つけたら行ってみましょう！;
+
+"menuitem01process_07_01"   = "Here you can see your playing\nrecords!";                                  // ここでは　これまで遊んだ\n<R>きろく</R>を見れるんです！;
+"menuitem01process_07_02"   = "Use them to help you improve\nyour all-round performance!";                // もっとうまくなれるヒントが\nあるかもしれないですね！;
+
+"menuitem01process_08_01"   = "Come here if you want to\n<R>request a Yo-kai Medal</R>.";             // ここでは　なんと<R>妖怪メダル</R>の\n<R>応募</R>ができちゃうんです！;
+"menuitem01process_08_02"   = "It's a <R>surefire chance for some\nfreebies</R>, so don't miss out!"; // <R>無料で</R>しかも<R>確実</R>にもらえるので\nぜひ応募しましょう！　うぃす♪;
+
+"menuitem01process_09_01"   = "Now, this is... Ahh, yes!\n%s!";                                         // ええっと…ここでは\n%sの;
+"menuitem01process_09_02"   = "You can change your <R>icon</R>\nand your <R>title</R> here!";           // <R>アイコン</R>や<R>よばれかた</R>を\n変更できますよ！;
+"menuitem01process_09_03"   = "You'll earn more icons\nand titles as you play.";                        // アイコンやよばれかたは\n後で増えることがあるので;
+"menuitem01process_09_04"   = "See if you can't amass a\na boastful collection!";                       // どんどん集めちゃいましょう！！;
+
+"menuitem01process_10_01"   = "Now, what do we have here...?";                                                                 // ええっと…\nここでは;
+"menuitem01process_10_02"   = "Ah, it's where you can <R>find\nfriends who are also playing\nYo-kai Watch Wibble Wobble</R>!"; // 妖怪ウォッチ　ぷにぷにを\n遊んでいる<R>ともだち</R>を<R>検索</R>したり;
+"menuitem01process_10_03"   = "You can <R>invite friends</R>\nto play, too!";                                              // まだ遊んでいない<R>ともだち</R>を\n<R>招待</R>したりできますよ！;
+
+"menuitem01process_12_01"   = "This is where you can see all\nthe <R>Yo-kai you've befriended</R>.";     // ええっと…　そうそう。\nここでは　てもちの<R>妖怪の確認</R>と;
+"menuitem01process_12_02"   = "And you can <R>swap around</R> the\n<R>ones you use in battle</R>, too."; // パズルで使う<R>妖怪の入れ替え</R>が\nできるんです！;
+"menuitem01process_12_03"   = "Why not try making <R>Jibanyan</R>\none of your chosen few?";             // <R>ジバニャン</R>をパズルで使う妖怪に\n入れてみましょう！;
+"menuitem01process_12_04"   = "All you need to do is\n<R>drag him into place</R>!";                      // ジバニャンをタッチして\n<R>上の方へもっていく</R>のです。;
+
+"menuitem01process_13_01"   = "Using Yo-kai of the same tribe\nwill have <R>certain special\neffects</R>!"; // 同じ種族の妖怪がセットされて\n<R>しゅぞくこうか</R>がつきましたね！;
+"menuitem01process_13_02"   = "These should give your\nteam a little extra oomph!";                         // しゅぞくこうかで　妖怪が\nパワーアップするので;
+"menuitem01process_13_03"   = "Good to know when there are\ntwo Yo-kai you can't choose\nbetween!";         // 同じくらいの強さの妖怪であれば\n種族をそろえるといいですよ！！;
+
+"menuitem01process_14_01"   = "Now, this is... Umm... It's...";                                         // ええっと…\nそうそう。　ここでは;
+"menuitem01process_14_02"   = "Yes, the <R>Crank-a-kai</R>! It takes\nY-money and special coins!";      // Yマネーかガシャコインを使って\n<R>妖怪ガシャ</R>をまわせるんです！;
+"menuitem01process_14_03"   = "What do you get when you crank\nit? Only one way to find out!";          // どんなものがでてくるのか\nまわしてみてのお楽しみです！;
+"menuitem01process_14_04"   = "Pop that coin you got in,\nand give it a whirl!";                        // さっきゲットしたコインを使って\n早速まわしてみましょう！;
+"menuitem01process_15_01"   = "Beating bosses can earn you\nextremely special coins.";                  // ボス的な妖怪を倒すと;
+"menuitem01process_15_02"   = "These <R>5-star</R> beauties will\ncrank out nothing but rare\nYo-kai!"; // レアな妖怪だけが出てくる\n<R>5つ星コイン</R>がもらえるので;
+"menuitem01process_15_03"   = "So do your best to beat the\nboss up ahead and earn one!";               // この先にいるボス的な妖怪を\n倒しに行きましょう！;
+
+"menuitem01process_16_01"   = "Let's see now... Ah, this is\nwhere you can keep your\n<R>Yo-kai medals</R>!"; // えーと　ここでは<R>妖怪メダル</R>を\n登録することができるんです！;
+"menuitem01process_16_02"   = "And the more you collect,\nthe more amazing things will\nhappen!";              // 登録すると色々と\nよいことがあるみたいなので;
+"menuitem01process_16_03"   = "So collect as many as you can!";                                               // 妖怪メダルをたくさん\n登録するでうぃす♪;
+
+"menuitem01process_17_01" = ""; // えーと…　ここでは\n妖怪ウォッチ３で使える;
+"menuitem01process_17_02" = ""; // ダウンロード番号を\nかくにんできますよ！;
+"menuitem01process_17_03" = ""; // 妖怪ウォッチ３でも;
+"menuitem01process_17_04" = ""; // ぷにニャン　と　ぷにコマを\nおともだちにするでうぃっす♪;
+
+"othertutorials_01_01"		= "Amaaaaaaaaaazing!\nYou're an all-star!";                               // すごいですね！\n☆をゲットしましたね。;
+"othertutorials_01_02"		= "You earn these by\naccomplishing <R>stage-specific\nachievements</R>.";        // ☆は各ステージに設定された\n<R>条件を達成</R>するともらえますよ！;
+"othertutorials_01_03"		= "To find out what they are,\njust <R>tap a star and see</R>!";                  // ☆の条件は<R>☆をタップ</R>すると\n確認できるんです♪;
+"othertutorials_01_04"		= "Stars make good things happen,\nso be sure to collect them!";                  // ☆を集めるといいことがあるので\nどんどん集めましょう！！;
+"othertutorials_02_01"		= "You've found your way to\na <R>hidden stage</R> I see!";                       // かくしステージへ\n行けるようになりましたね！;
+"othertutorials_02_02"		= "These are uncovered when\nyou accomplish certain\nachievements!";                       // <R>かくしステージ</R>は何か条件を\n満たすと行けるようになります！;
+"othertutorials_02_03"		= "They're <R>tough</R> though,\nso don't be afraid to\nleave them for later!";    // かくしステージの<R>敵は強い</R>ので\n倒せなかったら後にしましょう！;
+"othertutorials_03_01"		= "I see one of your Yo-kai's\n<R>S-Move Level</R> has increased!";               // 妖怪の<R>わざレベル</R>が\n上がりましたね！;
+"othertutorials_03_02"		= "That happens when you <R>befriend</R>\n<R>the same Yo-kai twice</R>!";         // <R>同じ妖怪</R>と再びともだちになると\nわざレベルがアップするんです！;
+"othertutorials_03_03"		= "Higher S-Move Levels will give\nyou a distinct advantage.";                     // わざレベルがアップすると\nパズルが断然有利になるので;
+"othertutorials_03_04"		= "So be sure to seek out\nlots of the same Yo-kai!";                             // 積極的に同じ妖怪と\nともだちになりましょう♪;
+"othertutorials_03_05"		= "You can also increase S-Move\nLevels with items called\n<R>Soul Secrets</R>!"; // アイテムの<R>ひっさつの秘伝書</R>でも\nわざレベルは上げられますよ！;
+"othertutorials_03_06"		= "You can get them at the\n<R>Crank-a-kai</R> and elsewhere!";                   // ひっさつの秘伝書は<R>妖怪ガシャ</R>\nなどで入手できるでうぃっす♪;
+
+"othertutorials_04_01"		= "There's something...different\nabout these pages...";                          // ここのページは\nほかと雰囲気が違いますね…;
+"othertutorials_04_02"		= "Something's sealed inside...\nSomething...<R>legendary</R>...";                // <R>レジェンド</R>的な何かが\n封印されているようですよ！;
+"othertutorials_04_03"		= "And the <R>key</R> to freeing it lies\nwith a certain six Yo-kai!";            // <R>封印</R>をとくカギは\n6匹の妖怪です！;
+"othertutorials_04_04"		= "Tap to find out more about\neach of them!";                                    // 6ヶ所をタップして\n妖怪を確認しましょう！;
+
+"othertutorials_05_01"		= "It's locked!\nWe can't go any further!";                                       // ロックを<R>解除</R>しないと\nこの先に進めないようですね…;
+"othertutorials_05_02"		= "As far as I know, there are\nthree ways to unlock it...";                      // ロックの解除方法は3つあって\nどれか1つで解除できますよ！;
+"othertutorials_05_03"		= "You can spend some <R>Y-Money</R>...";                                         // <R>Yマネー</R>で解除するか;
+"othertutorials_05_04"		= "You can have your real-life\nfriends send you\n<R>Friend Points</R>...";       // 人間のおともだちに<R>ともだち</R>\n<R>ポイント</R>を送ってもらうか;
+"othertutorials_05_05"		= "Or you can <R>level up the Yo-kai</R>\nto the levels required!";               // 指定された<R>妖怪</R>を指定された\nレベルまで育てるか　です！;
+
+"othertutorials_06_01"		= "Wh-Wh-Wh-!\nGoodness gracious me!";                                                    // おや これはまさか！？\nなっなっなんと！！;
+"othertutorials_06_02"		= "Apparently, it's easier than\nnormal to befriend <R>%s</R>\nright now!";                // <R>%s</R>がともだちに\n<R>なりやすくなる</R>という;
+"othertutorials_06_03"		= "This is a <R>rare and</R>\n<R>exciting occurrence</R>!";                               // とっても<R>めずらしい時間</R>\nらしいですよ！！;
+"othertutorials_06_04"		= "And it <R>won't last long</R>,\nso make the most of it!";                              // 時間は<R>かぎられている</R>ので\n<R>注意</R>してくださいね！;
+
+"othertutorials_07_01"		= "The <R>rankings</R> tell you\nwho's the best of the best\nof the best!";                // えーと…　ここはスコアなどを\n競う<R>ランキング</R>でうぃっす♪;
+"othertutorials_07_02"		= "The <R>Score Attack</R> rankings\nare updated every Monday.";                          // <R>スコアアタック</R>のランキングは\n次の月曜まで競うものです！;
+"othertutorials_07_03"		= "And the highest scorers win\nwonderful wads of <R>Y-Money</R>!";                       // 月曜になると　その時のスコアに\n応じて<R>Yマネー</R>がもらえますよ！;
+"othertutorials_07_04"		= "If a friend makes the\nrankings, the two of you can\n<R>send and receive Spirit</R>."; // ランキングにおともだちがいれば\n<R>ひとだまを送りあえる</R>ので;
+"othertutorials_07_05"		= "So be sure to encourage them\nto aim high!";                                           // 周りのおともだちを誘って\n一緒に遊びましょう！;
+
+"othertutorials_07_11"      = "<R>Score Attack</R> Ranking is a\ncompetition held every week!"; // <R>スコアアタック</R>のランキングは\n次の<R>月曜</R>まで競うものです！;
+"othertutorials_07_12"      = "Every Monday, you will\nreceive a <R>Reward</R>";                  // 月曜になると　その時の\n<R>スコア</R>や<R>順位</R>によって;
+"othertutorials_07_13"      = "based on your <R>Score</R> and <R>Rank</R>.\nGood luck!";                     // <R>ごほうび</R>がもらえるので\nがんばりましょう！！;
+"othertutorials_07_14"      = "If your friends are ranked,\nyou can <R>send them Spirit, </R>";    // ランキングにおともだちがいれば\n<R>ひとだまを送りあえる</R>ので;
+"othertutorials_07_15"      = "so invite your friends and\nplay together!";                                                      // 周りのおともだちを誘って\n一緒に遊びましょう！;
+"othertutorials_07_16"      = "The rules for Score Attack are\n<R>a little different</R>\nfrom regular puzzles,"; // スコアアタックは通常のパズルと\n<R>ルールがちょっと違う</R>のですが;
+"othertutorials_07_17"      = "but don't worry about the\ndetails and try it out!";                                                     // 細かいことは気にせず\nとりあえずやっちゃいましょう！;
+
+"othertutorials_13_01"      = "Add medals by scanning their\nQR codes with your camera.";       // <R>カメラ</R>で<R>QRコード</R>を読み取ると\n妖怪メダルを登録できますよ！;
+"othertutorials_13_02"      = "Adding a medal will give you\naccess to exclusive Yo-kai\ndata!"; // 登録すると<R>妖怪メダルの情報</R>が\nみれるようになったり;
+"othertutorials_13_03"      = "And it will also earn you\nultra-valuable <R>Medal Points</R>!"; // <R>メダルポイント</R>などを\n獲得できますよ！;
+
+"othertutorials_14_01"      = "You can look at your list of\n<R>collected medals</R>...";       // <R>とうろくしたメダル</R>では;
+"othertutorials_14_02"      = "To find out all about them!\nA fountain of knowledge\nawaits!";   // 登録された妖怪メダルの情報を\n確認できますよ！;
+
+"othertutorials_15_01"      = "Here, you can spend your\n<R>Medal Points</R> on all kinds of\ngoodies!"; // ここでは　<R>メダルポイント</R>を\n色々なものと<R>交換</R>できますよ！;
+"othertutorials_15_02"      = "Some of them are so <R>rare</R>,\nyou can only get them here!";           // ここでしか手に入らない\n<R>レアなもの</R>もあるみたいですよ♪;
+
+"othertutorials_16_01"      = "Here, you can spend your\n<R>Medal Points</R> to battle certain\nYo-kai!"; // ここでは<R>メダルポイント</R>を使って\n<R>妖怪とバトル</R>できますよ！;
+"othertutorials_16_02"      = "The Yo-kai you'll face will be\ndifferent every time.";                    // 敵の妖怪は毎回変わり;
+"othertutorials_16_03"      = "And there might be the odd\none you won't find anywhere\nelse!";           // ここでしか出会えない\n妖怪もいるかもしれませんよ！;
+
+"othertutorials_17_01"      = "Jolly good show!";                                                         // おめでとうございます〜！;
+"othertutorials_17_02"      = "When you add <R>lots of medals</R>,\nor <R>certain special medals</R>..."; // <R>特別なメダル</R>や\n<R>たくさん</R>メダルを登録すると;
+"othertutorials_17_03"      = "You can earn some truly\nwonderful rewards!";                              // 豪華なごほうびが\nもらえるみたいです！;
+"othertutorials_17_04"      = "So keep\ncollecting!";                                                     // この調子で\nどんどん登録していきましょう！;
+
+"payment_01"            = "Data update available.\nUpdating data..."; // 情報の更新があります。\n更新を行います;
+"payment_02_01"         = "Item distribution failed.";                // アイテム配布失敗;
+"payment_02_02"         = "Payment was received,";                    // 決済は成功しましたが、;
+"payment_02_03"         = "but item distribution failed.";            // アイテム配布に失敗しました。;
+"payment_03"            = "There is no can not be purchased\nin this version"; // このバージョンでは購入できません。;
+
+"kuroneko_01"           = "Another transaction is currently underway."; // 別の決済が進行中です;
+
+"systemnetworkmanager_01"    = "Economy";                   // エコノミー;
+"systemnetworkmanager_02_01" = "Silver I";                  // シルバーⅠ;
+"systemnetworkmanager_02_02" = "Silver II";                 // シルバーⅡ;
+"systemnetworkmanager_02_03" = "Silver III";                // シルバーⅢ;
+"systemnetworkmanager_03_01" = "Gold I";                    // ゴールドⅠ;
+"systemnetworkmanager_03_02" = "Gold II";                   // ゴールドⅡ;
+"systemnetworkmanager_03_03" = "Gold III";                  // ゴールドⅢ;
+"systemnetworkmanager_04_01" = "Platinum I";                // プラチナⅠ;
+"systemnetworkmanager_04_02" = "Platinum II";               // プラチナⅡ;
+"systemnetworkmanager_04_03" = "Platinum III";              // プラチナⅢ;
+"systemnetworkmanager_05_01" = "Black I";                   // ブラックⅠ;
+"systemnetworkmanager_05_01" = "Black II";                  // ブラックⅡ;
+"systemnetworkmanager_05_01" = "Black III";                 // ブラックⅢ;
+"systemnetworkmanager_06"    = "Status Up!";                // ステイタスアップ！;
+"systemnetworkmanager_07_01" = "Status is";                 // ステイタスが;
+"systemnetworkmanager_07_02" = "now <R>%s</R>!";            // <R>%s</R>になった！;
+"systemnetworkmanager_07_03" = "Status is\nnow <R>%s</R>!"; // ステイタスが\n<R>%s</R>になった！;
+"systemnetworkmanager_08"    = "Unable to save play data."; // セーブデータの保存ができませんでした;
+"systemnetworkmanager_09"    = "Confirm";                   // 確認;
+"systemnetworkmanager_10_01" = "<R>Deleted data can not be recovered</R>"; // <R>一度消したデータは元に戻りません</R>;
+"systemnetworkmanager_10_02" = "Are you sure you want to";                   // 本当に最初から;
+"systemnetworkmanager_10_03" = "start over from the beginning?";           // はじめてもよろしいですか？;
+"systemnetworkmanager_11_01" = "Failed to load save data";                  // セーブデータの読み込みに失敗しました;
+"systemnetworkmanager_11_02" = "Please try restarting your device";              // 端末の再起動をお試しください;
+"systemnetworkmanager_11_03" = "Start over from the beginning?";             // または最初からはじめますか？;
+
+"description_title_01"  = "How to Play Yo-kai Watch Wibble Wobble"; // 妖怪ぷにぷにの遊び方;
+
+"bu_2001000"            = "Whisper"; // ウィスパー";
+"bu_2354000"                = "Moximous N";                                                            // ガッツK;
+
+"playerregist_00_01"	= "There's a strange vending\nmachine here...";                                // あやしげなガシャがある…;
+"playerregist_00_02"	= "Why not try cranking\nthe wheel?";                                           // 回してみようか…;
+"playerregist_01_01"	= "Mwah-hah...\nMwah-hah-hah-haaa!";                                           // う〜っしっしっしっしっ。;
+"playerregist_01_02"	= "I am Whisper, Yo-kai butler\nand fountain of knowledge,\nat your service!"; // ワタクシは\n妖怪執事のウィスパー♪;
+"playerregist_01_03"	= "And since it was you who freed\nme, you must be my new\nmaster!";           // 封印を解いてくれたお礼に\nアナタ様の執事となりましょう♪;
+"playerregist_01_05"	= "Why don't you begin by telling\nme your name?";                              // アナタ様の事を教えてください！;
+"playerregist_02_01"	= "%s, eh?\nWhy, it's a name like no\nother! I love it!";                   // %s！\n気に入りましたよ！;
+"playerregist_02_02"	= "Yes, it's the best name I ever\nheard! The very best!";                  // とても素敵なお名前なので！！;
+"playerregist_02_03"	= "Now, Honored %s,\nI have something rather\nspecial to give you.";        // %sに\nいいモノをあげましょう♪;
+"playerregist_03_01"	= "Hmm... I can't help feeling\nI've heard that name somewhere\nbefore..."; // 聞いたことのある名前ですね。;
+"playerregist_03_02"	= "Are you sure that's your real\nname?";                                   // 本当にそんな名前なんですか？;
+"playerregist_04_01"	= "The <R>Yo-kai Watch</R> will allow\nyou to <R>see my fellow Yo-kai</R>!";   // <R>妖怪ウォッチ</R>を使うと\n<R>妖怪を見ることができる</R>のです♪;
+"playerregist_04_02"	= "I think we'd better look\naround for some, don't you?";                     // 早速このあたりを\n妖怪ウォッチで見てみましょう！;
+"playerregist_05_01"	= "Whisper gives you the Yo-kai Watch!";                                       // 妖怪ウォッチを手に入れた！;
+"playerregist_06_01"	= "%s used the\nYo-kai Watch...";                                              // %sは\n妖怪ウォッチを使ってみた。;
+"playerregist_06_02"	= "A Yo-kai appeared briefly,\nbut it ran away!";                              // 一瞬　妖怪が見えたが\nどこかに行ってしまった。;
+"playerregist_07_01"	= "It went thataway! Toward the\nresidential area! After it!";                 // 住宅地の方へ逃げていったので\n追いかけましょう！;
+"playerregist_08_01"	= "%s... Hmm...";                                                              // %s…;
+"playerregist_08_02"	= "I think you'd better choose\nanother name, don't you?";                     // もうちょっと\n違う名前にしましょう！;
+"playerregist_09_01"    = "%s...\nすでに使われている名前です。";                  // 英語版では使用しない;
+"playerregist_09_02"    = "違う名前にしましょう。";
+
+"playerregist_name_01"	  = "Nate";                                                          // ケータ(*判定用。表示はされない);
+"playerregist_name_02"	  = "Katie";                                                         // フミ(*判定用。表示はされない);
+"playerregist_input01"	  = "Enter Text Here";                                               // ここに入力;
+"playerregist_input02_01" = "WARNING: Please do not use your real name.";                    // ※なまえはあとから変えられない;
+"playerregist_input02_02" = "Once you pick a name, you won’t be able to change it.";         // ので注意してね;
+"playerregist_input03"    = "The maximum number of characters is: 8.";                       // 最大文字数8;
+
+"playerregist_conf01"	  = "NOTE: You can change your icon later\non the Settings screen."; // ※あとからせってい画面で変更できるよ;
+"playerregist_conf02"     = "Icon";                                                          // アイコン;
+"playerregist_conf03"     = "Name";                                                          // なまえ;
+"playerregist_conf04_01"  = "NOTE: You can change your icon later";                          // ※アイコンはあとからせってい画面で;
+"playerregist_conf04_02"  = "on the Settings screen.";                                       // 変更できるよ;
+
+"itemlistview_01"		= "Use on who? (%d Remaining)";                      // だれに使う？（あと%dコ）;
+"itemlistview_03"       = "Confirm";                                         // かくにん;
+"itemlistview_04"       = "Cannot level up beyond Level %d.\nAre you sure?"; // レベル%d以上にはレベルアップできませんが、使いますか？;
+
+"profilescene_01_01"    = "Personal Info";          // じぶんのじょうほう;
+"profilescene_01_02"    = "Icon Everyone Will See"; // みんなにみせるアイコン;
+"profilescene_01_03"    = "Title";                  // よばれかた;
+"profilescene_01_04"    = "Player Code";            // キャラクターコード;
+"profilescene_02"       = "Copy";                   // コピー;
+"profilescene_03_01"    = "Player Code";            // キャラクターコードを;
+"profilescene_03_02"    = "copied.";                // コピーしました;
+
+"proficonchangeview_01" = "Confirm Changes";        // へんこうかくにん;
+"proficonchangeview_02" = "Please choose an icon."; // アイコンをえらんでください;
+
+"proftitlechangeview_01" = "Confirm Changes";        // へんこうかくにん;
+"proftitlechangeview_02" = "Please choose a title."; // よばれかたをえらんでください;
+
+"deckscene_01"           = "Confirm";                                                                            // かくにん;
+"deckscene_02"           = "You don't have enough Yo-kai selected.\nPlease fill all of your Wib Wob slots."; // てもちの妖怪が足りません。\nてもちにぷにをセットしてください。;
+"deckscene_03"           = "Your selected Yo-kai have changed.\nConfirm changes?";                               // てもちの妖怪が変更されています。\n変更を決定しますか？;
+
+"friendscene_01"        = "You cannot search for yourself.\nNot here, anyway."; // 自分はけんさくできません;
+"friendscene_02"        = "Not found.";                                         // 見つかりませんでした;
+"friendscene_03"        = "You cannot befriend yourself.\nDon't be weird.";     // 自分とともだちになれません;
+"friendscene_04"        = "Friend request sent\nto %s";                         // %sにともだち申請しました！;
+"friendscene_05_01"     = "You've reached the";                                 // ともだち人数が;
+"friendscene_05_02"     = "maximum number of friends.";                         // 上限に達しているので;
+"friendscene_05_03"     = "You can't make any more.";                           // これ以上増やすことはできません;
+"friendscene_06_01"     = "This person has reached the";                        // 相手のともだち人数が;
+"friendscene_06_02"     = "maximum number of friends.";                         // 上限に達しているので;
+"friendscene_06_03"     = "You can't become friends.";                          // ともだちになれません;
+"friendscene_07"        = "You've already received a friend\nrequest from %s."; // すでに%sからともだち申請がきています;
+"friendscene_08"        = "Cannot find this person.\nThey probably don’t exist."; // 申請相手が見つかりませんでした;
+"friendscene_09"        = "Already A Friend.";                                  // すでにすでにともだちです;
+
+"friendlistview_01"     = "Oldest requests removed when over 50 requests."; // 50件を超えると、古いものから削除されます;
+"friendlistview_02"     = "Number of Friends";                          // ともだち人数;
+"friendlistview_03"     = "No Friends";                                 // ともだちがいません;
+"friendlistview_04"     = "No Friend Requests";                         // 申請がありません;
+"friendlistview_05_01"  = "%s has been deleted";                        // %sを;
+"friendlistview_05_02"  = "from your friend list.";                     // ともだちリストから削除しました;
+"friendlistview_05_03"  = "%s has been deleted\nfrom your friend list."; // %sをともだちリストから削除しました;
+"friendlistview_06_01"  = "You've reached the";                         // ともだち人数が;
+"friendlistview_06_02"  = "maximum number of friends.";                 // 上限に達しているので;
+"friendlistview_06_03"  = "You can't make any more.";                   // これ以上増やすことはできません;
+"friendlistview_07_01"  = "You and %s";                                 // %sと;
+"friendlistview_07_02"  = "are now friends!";                           // ともだちになりました！;
+"friendlistview_07_03"  = "You and %s\nare now friends!";               // %sと\nともだちになりました！;
+"friendlistview_08_01"  = "You've reached the";                         // ともだち人数が;
+"friendlistview_08_02"  = "maximum number of friends.";                 // 上限に達しているので;
+"friendlistview_08_03"  = "You can't make any more.";                   // これ以上増やすことはできません;
+"friendlistview_09_01"  = "This person has reached the";                // 相手のともだち人数が;
+"friendlistview_09_02"  = "maximum number of friends.";                 // 上限に達しているので;
+"friendlistview_09_03"  = "You can't become friends.";                  // ともだちになれません;
+"friendlistview_10"     = "Not found.";                                 // 申請相手が見つかりませんでした;
+
+"frienddialog_01_01"    = "More than %d Days"; // %d日以上"(*使われていない　サーバーから文字列でもらう);
+"frienddialog_01_02"    = "%d Day(s) Ago";     // %d日前"(*使われていない　サーバーから文字列でもらう);
+"frienddialog_01_03"    = "%d Hour(s) Ago";    // %d時間前"(*使われていない　サーバーから文字列でもらう);
+"frienddialog_01_04"    = "%d Min(s) Ago";     // %d分前"(*使われていない　サーバーから文字列でもらう);
+
+"frienddialog_02"       = "Search Friends";                         // ともだちをけんさく;
+"frienddialog_04_01"    = "*Player code located ";                  // ※キャラクターコードはメニューの;
+"frienddialog_04_02"    = "in your profile.";                       // プロフィールにのってるよ;
+"frienddialog_06"       = "Friend Requests";                        // ともだち申請;
+"frienddialog_05"       = "Last Played";                            // 最終プレイ;
+"frienddialog_08"       = "Send friend request?";                   // ともだち申請しますか？;
+"frienddialog_09"       = "Asked On";                               // 申請日;
+"frienddialog_10"       = "Confirm Friend Request";                 // ともだち申請かくにん;
+"frienddialog_11"       = "Friend request received.";               // ともだち申請がとどきました;
+"frienddialog_12"       = "Become friends?";                        // ともだちになりますか？;
+"frienddialog_13"       = "Last Played";                            // 最終プレイ;
+"frienddialog_14"       = "Enter friend's player code.";            // キャラクターコードを入力してね;
+"frienddialog_15_01"    = "Allows you to send a message that will"; // ゲーム内でともだちになるための;
+"frienddialog_15_02"    = "let you become friends in the game.";    // メッセージをおくれるよ;
+"frienddialog_16_01"    = "Delete";                                 // けす;
+"frienddialog_16_02"    = "Delete from friend list?";               // ともだちリストからけしますか？;
+"frienddialog_17_01"    = "Only the person";                        // 招待メッセージの中にある;
+"frienddialog_17_02"    = "who received a";                         // ひみつのワード;
+"frienddialog_17_03"    = "secret code in";                         // は;
+"frienddialog_17_04"    = "an invitation";                          // 招待された方;
+"frienddialog_17_05"    = "message is allowed";                     // ひとり;
+"frienddialog_17_06"    = "to use it.";                             // のみ使用できます;
+"frienddialog_18_01"    = ""; // LINEアプリを;
+"frienddialog_18_02"    = ""; // インストールしてください;
+
+"friendlistcell_01"     = "Last\nPlayed\n"; // 最終プレイ;
+"friendlistcell_02"     = "Asked On";        // 申請日;
+
+"normalrecordbasescene_01" = "graph"; // グラフこうもく;
+
+"menuscene_01"            = "Confirm";                     // かくにん;
+"menuscene_02_01"         = "Are you sure you want to";    // タイトル画面にもどります;
+"menuscene_02_02"         = "return to the Title Screen?"; // よろしいですか？;
+
+"menucommon_01_01" = "Settings";               // 設定;
+"menucommon_01_02" = "Yo-kai Wib Wob";         // 妖怪ぷに;
+"menucommon_01_03" = "Crank-a-kai";            // 妖怪ガシャ;
+"menucommon_01_04" = "Shop";                   // ショップ;
+"menucommon_01_05" = "Item";                   // もちもの;
+"menucommon_01_06" = "Missions";               // ミッション;
+"menucommon_01_07" = "Fusion";                 // 合成;
+"menucommon_01_08" = "Yo-kai Medallium";       // 妖怪大辞典;
+"menucommon_01_09" = "Map Warp";               // ワープ;
+"menucommon_01_10" = "Records";                // きろく;
+"menucommon_01_11" = "Apply for Yo-Kai Medal"; // 妖怪メダル応募;
+"menucommon_01_12" = "Profile";                // プロフィール;
+"menucommon_01_13" = "Title";                  // タイトル;
+"menucommon_01_14" = "Friends";                // ともだち;
+"menucommon_01_15" = "Yo-kai Medals";          // 妖怪メダル;
+"menucommon_01_16" = "Help";                   // ヘルプ;
+"menucommon_01_17" = "Login Stamp";            // ログインスタンプ;
+"menucommon_01_18" = "Timers & More";          // 時計屋;
+"menucommon_01_19" = "";                       // 妖怪メダル応募2;
+"menucommon_02_01" = "Jibanyan";               // ジバニャン;
+"menucommon_02_02" = "Shmoopie";               // キュン太郎;
+"menucommon_02_03" = "Spenp";                  // ムダヅカイ;
+"menucommon_02_04" = "Hungramps";              // ひも爺;
+"menucommon_02_05" = "Sgt. Burly";             // ブリー隊長;
+"menucommon_02_06" = "Manjimutt";              // じんめん犬;
+"menucommon_02_07" = "Mirapo";                 // うんがい鏡;
+"menucommon_02_08" = "Flushback";              // おもいだスッポン;
+"menucommon_02_09" = "Orcanos";                // 黒鬼;
+"menucommon_02_10" = "Moximous N";             // ガッツK;
+"menucommon_02_11" = "黒鬼呂布";
+
+"notificationmanager_01" = "%s's Spirit is full!\nLet's go Yo-kai hunting!"; // %sのひとだまがまんたんになったよ！\nさあ妖怪を探しに行こう！;
+"notificationmanager_02" = "%sに出したよこどりが帰ってきたよ！\n結果を確認してみよう！";
+
+"itemmaster_01_01"        = "Yo-kai warm up a little to you."; // ちょびっとなつきやすくなる;
+"itemmaster_01_02"        = "Yo-kai warm up to you.";          // それなりになつきやすくなる;
+"itemmaster_01_03"        = "Yo-kai really warm up to you.";   // けっこうなつきやすくなる;
+"itemmaster_01_04"        = "Yo-kai REALLY warm up to you.";   // ものすごくなつきやすくなる;
+
+"masterdatamanager_01"    = "Spirit";                      // ひとだま;
+"masterdatamanager_02"    = "New Items Added to the Shop"; // ショップ 新商品追加;
+"masterdatamanager_03"    = "Friend Cap Removed";          // ともだち人数上限解放;
+"masterdatamanager_04"    = "Icon: %s";                    // アイコン「%s」;
+"masterdatamanager_05"    = "Nickname: %s";                // よばれかた「%s」;
+
+"settingnotificationwidget_01" = "You cannot change this\nsetting, as notifications\nfor your phone are disabled."; // スマートフォン本体の通知設定が\n有効になっていない為、\n設定を変更できません。;
+
+"settingitemwidget_01_01" = "Purchase Info.";                // 購入情報;
+"settingitemwidget_01_02" = "Check Y-Money Balance";         // Yマネー残高確認;
+"settingitemwidget_01_03" = "Paid:";                         // 有料：;
+"settingitemwidget_01_04" = "Free:";                         // 無料：;
+"settingitemwidget_01_05" = "* Paid-for Y-Money will";       // ※Yマネーは有料分から;
+"settingitemwidget_01_06" = "be used up first.";             // 優先的に消費されます;
+"settingitemwidget_02"    = "Reinstall the app?";            // 初期化してもよろしいですか？;
+"settingitemwidget_03"    = "Already linked.";               // 既に連動済みです;
+"settingitemwidget_04_01" = "Returning to Title Screen in";  // LEVEL5 ID連動を行うため;
+"settingitemwidget_04_02" = "order to link a device.";       // タイトルに戻ります;
+
+"tablewidget_01_01"       = "There are no missions currently available."; // 開催中のミッションがありません;
+"tablewidget_01_02"       = "Please wait for the event to begin!";        // イベントの開催をお待ちください！;
+
+"rewardgetprocess_01"     = "Already Claimed";                                // 既に受取済みです;
+"rewardgetprocess_02"     = "%s x %d received!";                              // %sを%dコ手に入れた！;
+"rewardgetprocess_03"     = "%s now available\nin the Shop!";                  // ショップに%sが追加された！;
+"rewardgetprocess_04"     = "The "%s" title is now\navailable!";              // よばれかた「%s」が追加された！;
+"rewardgetprocess_05"     = "The "%s" icon is now\navailable!";               // アイコン%sが追加された！;
+"rewardgetprocess_06"     = "You can now make friends\nwith %d more people!"; // ともだちにできる人数が%d人増えた！;
+"rewardgetprocess_07"     = "You received %d Spirit Points!";                 // ひとだまを%dコ手に入れた！;
+"rewardgetprocess_08"     = "Confirm";                                        // かくにん;
+"rewardgetprocess_09_01"  = "Claim all available";                  // ごほうびをまとめて;
+"rewardgetprocess_09_02"  = "rewards?";                             // うけとりますか？;
+"rewardgetprocess_10"     = "* You can claim up to 10.";            // ※最大10件までうけとることができます;
+"rewardgetprocess_11_01"  = "* You cannot claim multiple";          // ※妖怪はまとめてうけとることが;
+"rewardgetprocess_11_02"  = "Yo-kai at once.";                      // できません;
+"rewardgetprocess_12"     = "New\nItems";                            // 新商品;
+"rewardgetprocess_13"     = "Titles";                               // よばれかた;
+"rewardgetprocess_14"     = "Icons";                                // アイコン;
+"rewardgetprocess_15_01"  = "Items above the number you can";       // 所持上限に達したアイテムは;
+"rewardgetprocess_15_02"  = "will be sent to your Inbox";    // ゆうびんに送られました;
+"rewardgetprocess_16"     = "Claim All";                            // まとめてうけとる;
+"rewardgetprocess_17"     = "All rewards claimed!";                 // ごほうびをまとめてうけとりました！;
+"rewardgetprocess_18"     = "Maximum number of rewards\nwas reached, so the reward\nwas converted to %dy Y-Money."; // 上限が最大のため\nYマネー%dyに交換しました。;
+"rewardgetprocess_19"     = "There are no available rewards."; // うけとれるごほうびがありません。;
+
+"puzzlerecordscene_01_01" = "Best Score in a Single Play\n(Score Attack Excluded)";                                                     // 1プレイでの最高スコア\n（スコアアタック除く）;
+"puzzlerecordscene_01_02" = "Score in a Single Play\n(Score Attack Excluded)";                                                          // 1プレイあたりのスコア\n（スコアアタック除く）;
+"puzzlerecordscene_01_03" = "Highest Average Size of Wib Wobs\nPopped in a Single Play\n(At Time of Victory,\nScore Attack Excluded)";  // 1プレイで消した\n妖怪ぷにの平均サイズの最高\n（スコアアタック除く、勝利時）;
+"puzzlerecordscene_01_04" = "Average Size of Wib Wobs Popped\nin a Single Play\n(At Time of Victory,\nScore Attack Excluded)";          // 1プレイあたりの消した\n妖怪ぷにの平均サイズ\n（スコアアタック除く、勝利時）;
+"puzzlerecordscene_01_05" = "Most Wib Wobs Popped in a Single\nPlay\n(At Time of Victory,\nScore Attack Excluded)";                     // 1プレイで消した\n妖怪ぷに数の最高\n（スコアアタック除く、勝利時）;
+"puzzlerecordscene_01_06" = "Wib Wobs Popped in a Single Play\n(At Time of Victory,\nScore Attack Excluded)";                           // 1プレイあたりの消した\n妖怪ぷに数\n（スコアアタック除く、勝利時）;
+"puzzlerecordscene_01_07" = "Biggest Combo in a Single Play\n(At Time of Victory,\nScore Attack Excluded)";                             // 1プレイでの最高コンボ数\n（スコアアタック除く、勝利時）;
+"puzzlerecordscene_01_08" = "Combo in a Single Play\n(At Time of Victory,\nScore Attack Excluded)";                                     // 1プレイあたりのコンボ数\n（スコアアタック除く、勝利時）;
+"puzzlerecordscene_01_09" = "Most Damage Inflicted on Enemy\nYo-kai in a Single Play\n(At Time of Victory,\nScore Attack Excluded)";    // 1プレイでの敵妖怪に\n与えたダメージの最高\n（スコアアタック除く、勝利時）;
+"puzzlerecordscene_01_10" = "Damage Inflicted on Enemy Yo-kai\nin a Single Play\n(At Time of Victory,\nScore Attack Excluded)";         // 1プレイあたりの敵妖怪に\n与えた平均ダメージ\n（スコアアタック除く、勝利時）;
+"puzzlerecordscene_01_11" = "Most Soultimate Moves\nin a Single Play\n(Score Attack Excluded)";                                         // 1プレイでのひっさつわざ\n発動数の最高\n（スコアアタック除く）;
+"puzzlerecordscene_01_12" = "Soultimate Moves\nin a Single Play\n(Score Attack Excluded)";                                              // 1プレイあたりのひっさつわざ\n発動数\n（スコアアタック除く）;
+"puzzlerecordscene_01_13" = "Score Attack Score";              // スコアアタックでのスコア;
+"puzzlerecordscene_01_14" = "Overall Ranking in Score Attack"; // スコアアタックでの全体順位;
+"puzzlerecordscene_02_01" = "3 Weeks Ago";                     // 3週間前;
+"puzzlerecordscene_02_02" = "Last Week";                       // 先週;
+"puzzlerecordscene_02_03" = "This Week";                       // 今週;
+"puzzlerecordscene_03_01" = "7 Days Ago";                      // 7日前;
+"puzzlerecordscene_03_02" = "Yesterday";                       // きのう;
+"puzzlerecordscene_03_03" = "Today";                           // きょう;
+
+"youkairecordscene_01_01" = "Highest Total HP of Owned\nYo-kai HP in a Single Play";       // 1プレイでのともだち妖怪の\n合計HPの最高;
+"youkairecordscene_01_02" = "Total HP of Owned Yo-kai\nHP in a Single Play";               // 1プレイあたりのともだち妖怪の\n合計HP;
+"youkairecordscene_01_03" = "Highest Attack of Owned\nYo-kai in a Single Play";            // 1プレイでのともだち妖怪の\n合計こうげきりょくの最高;
+"youkairecordscene_01_04" = "Total Attack of Owned Yo-kai\n in a Single Play";             // 1プレイあたりのともだち妖怪の\n合計こうげきりょく;
+"youkairecordscene_01_05" = "Highest Total Level of Owned\nYo-kai in a Single Play";       // 1プレイでのともだち妖怪の\n合計レベルの最高;
+"youkairecordscene_01_06" = "Total Level of Owned Yo-kai\nin a Single Play";               // 1プレイあたりのともだち妖怪の\n合計レベル;
+"youkairecordscene_01_07" = "Highest Total S-Move Level of\nOwned Yo-kai in a Single Play"; // 1プレイでのともだち妖怪の\nわざレベルの最高;
+"youkairecordscene_01_08" = "Total S-Move Level of Owned\nYo-kai in a Single Play";         // 1プレイあたりのともだち妖怪の\nわざレベル;
+"youkairecordscene_02_01" = "7 Days Ago";    // 7日前;
+"youkairecordscene_02_02" = "Yesterday";     // きのう;
+"youkairecordscene_02_03" = "Today";         // きょう;
+
+"noterecordscene_01"    = "%s%s/%s%s/%s%s%s%s"; // %s%s%s%s年%s%s月%s%s日;
+"noterecordscene_02"    = "None";               // なし;
+
+"presentbox_01"			= "No messages.";                                             // メッセージはありません;
+"presentbox_02"		    = "Deleted after 30 days.";                                   // メッセージ保管期間:30日間;
+"presentbox_03_01"		= "You received some Spirit!";                                // ひとだまをゲットしました！;
+"presentbox_03_02"		= "You received some Friend Points!";                         // ともだちポイントをゲットしました！;
+"presentbox_03_03"		= "Sent to friend!";                                          // ともだちにおくりました！;
+"presentbox_04"			= "Present received!";                                        // ゲットしました！;
+"presentbox_05_01"		= "That Yo-kai was already at maximum S-Move Level,";          // スキルレベルMAXの妖怪だったので;
+"presentbox_05_02"		= "so you got something else instead!";                       // 他のものに交換しました！;
+"presentbox_06"	        = "Send";                                                     // おくる;
+"presentbox_07_01"		= "Claim present(s)?";                                        // プレゼントをうけとりますか？;
+"presentbox_07_02"		= "Claim";                                                    // うけとる;
+"presentbox_08_01"		= "Claim All";                                                // プレゼントをまとめて;
+"presentbox_08_02"		= "rewards?";                                                 // うけとりますか？;
+"presentbox_08_03"		= "Claim";                                                    // うけとる;
+"presentbox_09"			= "(Inside 1h + Y-Money)";                                    // (1時間以内＋Ｙマネー);
+"presentbox_10_01"		= "Cannot carry any more.";                                   // これ以上持てません;
+"presentbox_10_02"		= "Use some, then try claiming again!";                       // 使ってからうけとろう！;
+"presentbox_11"         = "Send Spirit\nto %s?";                                      // %sにひとだまをおくりますか？;
+"presentbox_12"         = "Send Friend Points\nto %s?";                               // %sにともだちポイントをおくりますか？;
+"presentbox_13"         = "Soultimate Level already at max.\nConverted to %d Y-Money instead."; // スキルレベルが最大のため\nYマネー%dyに交換しました。;
+
+"presentboxdialog_01"   = "Claim item(s)?"; // アイテムをうけとりますか？;
+
+"presentboxview_01"     = "Already sent.";              // すでにおくりました;
+"presentboxview_02"     = "Already claimed.";           // すでに受け取りずみです;
+"presentboxview_03"     = "%s jumps out\nto meet you!"; // 中から%sがとびだしてきた！;
+"presentboxview_04"     = "Reward Expired.";              // 期間が過ぎているゆうびんです;
+
+"ranking_02_01"			= "Do you want to give";      // ともだちにひとだまを;
+"ranking_02_02"			= "some Spirit to a friend?"; // プレゼントしますか？;
+"ranking_02_03"			= "some Spirit to a friend?"; // プレゼントしますか？;
+"ranking_03_01"			= "You sent a gift";          // ともだちにプレゼントを;
+"ranking_03_02"			= "to your friend!";          // おくりました！;
+"ranking_04_01"			= "Friend";                   // ともだち;
+"ranking_04_02"			= "Scores";                    // スコア;
+"ranking_05_01"			= "All";                      // ぜんたい;
+"ranking_05_02"			= "Scores";                    // スコア;
+"ranking_06"			= "Friend";                   // ともだち;
+"ranking_06_02"			= "Records";				  // きろく;
+
+"itemscene_01"			= "Item Description";                 // アイテムせつめい;
+"itemscene_02_01"		= "All";                              // すべて;
+"itemscene_02_02"		= "Food";                             // たべもの;
+"itemscene_02_03"		= "Items";                            // どうぐ;
+"itemscene_03_01"		= "None Owned";                       // もっていません;
+"itemscene_04_01"       = "None of your Yo-kai can use this."; // つかえる妖怪がいません。;
+"itemscene_05"		= "The period has ended!"; // 期間が終了しているよ！;
+"itemscene_06"		= "Moving to this map and playing\nwill consume this item."; // このアイテムは移動した先のマップでプレイすると消費されます;
+"itemscene_07"		= "Move to the special map?"; // とくべつなマップに移動しますか？;
+"itemscene_08"		= "None of your Yo-kai can use this."; // つかえる妖怪がいません;
+"itemscene_09"		= "Confirm"; // かくにん;
+
+"itemiconinfownd_01"    = "Food";  // たべもの;
+"itemiconinfownd_02"    = "Items"; // どうぐ;
+"itemiconinfownd_03"    = "Rank";  // ランク;
+
+"iteminfowindow_01"     = "Total";        // もっているかず;
+"iteminfowindow_02"     = "Food";                // たべもの;
+"iteminfowindow_03"     = "Items";               // どうぐ;
+"iteminfowindow_04"     = "Y-Money";             // Ｙマネー;
+"iteminfowindow_05"     = "Spirit";              // ひとだま;
+"iteminfowindow_06"     = "New Items";           // 新商品;
+"iteminfowindow_07"     = "Remove Friend Limit"; // ともだち人数上限開放;
+"iteminfowindow_08"     = "Icons";               // アイコン;
+"iteminfowindow_09"     = "Titles";              // よばれかた;
+"iteminfowindow_10"     = "Rank";                // ランク;
+
+"shopscene_01"			= "Item Description";                         // アイテムせつめい;
+"shopscene_02_01"		= "All";                                      // すべて;
+"shopscene_02_02"		= "Food";                                     // たべもの;
+"shopscene_02_03"		= "Items";                                    // どうぐ;
+"shopscene_03_01"		= "How many will you buy?";                   // いくつ　買いますか？;
+"shopscene_03_02"		= "In total";                                // ぜんぶで;
+"shopscene_05_01"		= "You bought %d!";                           // %dコ買いました！;
+"shopscene_05_02"		= "You bought %d!";                           // %d匹買いました！;
+"shopscene_06"          = "Data update available.\nUpdating data..."; // 情報の更新があります。\n更新を行います;
+
+"shopsearchview_01_01"  = "Choose something to search for."; // けんさくするものをえらんでね;
+"shopsearchview_01_02"  = "type items"; // しゅるい";
+
+"shopnewitemview_02_01" = "New Items";           // 新商品が;
+"shopnewitemview_02_02" = "have been added!";    // 追加されました！;
+
+"youkaidetailview_01"   = "You can see Soultimate Moves\nwhen Yo-kai reach S-Move Level 2!"; // わざレベル２以上で\nひっさつわざがみられるよ！;
+"youkaidetailview_02"   = "Level Cap Increased";                                              // レベル上限を開放しました;
+
+"youkaisortview_01"     = "Choose a Sort Method"; // ならびかたをえらんでね;
+"youkaisortview_02"     = "By Tribe";             // しゅぞく;
+"youkaisortview_03"     = "Sort";                 // ならびかえ;
+
+"dictionaryscene_01"    = "??????";                                           // ？？？？？？;
+"dictionaryscene_02_01" = "It's sealed by a mysterious power.";               // 強い力で封印されています。;
+"dictionaryscene_02_02" = "Six Yo-kai seem to have";                          // 6匹の妖怪に;
+"dictionaryscene_02_03" = "a secret of some kind...";                         // 何か秘密があるようです。;
+"dictionaryscene_03"    = "Unlocked";                                         // 解放済みです。;
+"dictionaryscene_04"    = "The symbol glows brightly...!";                    // 紋章が光りかがやく…！！;
+"dictionaryscene_05"    = "You befriended <B>%s</B>!";                        // <B>%s</B>と\nともだちになった！;
+
+"youkaifoodview_01"     = "You can see Soultimate Moves\nwhen Yo-kai reach S-Move Level 2!"; // わざレベル２以上で\nひっさつわざがみられるよ！;
+
+"youkaisearchview_01"   = "Jump to Selected Page"; // えらんだページへジャンプします;
+"youkaisearchview_02"   = "Tribe";                 // しゅぞく;
+
+"youkaiguidedialog_01"  = "Befriend this Yo-kai"; // この妖怪とともだちになろう;
+"youkainamewidget_01"   = "???"; // ？？？";
+
+"gachacommon_01"        = "<B>%s</B> jumps out\nto meet you!"; // 中から<B>%s</B>が\nとびだしてきた！;
+
+"gachascene_02"         = "<B>%s</B> jumps out\nto meet you!"; // 中から<B>%s</B>が\nとびだしてきた！;
+
+"normalgachaturnview_01" = "<B>%s</B> jumps out\nto meet you!"; // 中から<B>%s</B>が\nとびだしてきた！;
+
+"roulettegachaturnview_01" = "<B>%s</B> jumps out\nto meet you!"; // 中から<B>%s</B>が\nとびだしてきた！;
+
+"gachayoukaiselectview_01" = "Choose this Wib Wob?"; // この妖怪にきめますか？;
+"gachayoukaiselectview_02" = "This Yo-kai's Soultimate Move is max level and"; // わざレベルが最大のため;
+"gachayoukaiselectview_03" = "will be converted into this item. Proceed?"; // 変更されます、よろしいですか？;
+"gachayoukaiselectview_04" = "Confirm"; // かくにん;
+
+"confirmgacharesult_01" = "%s acquired!";                   // 前回のガシャで%sを\n手に入れた！;
+"confirmgacharesult_02" = "You’ve befriended\n<B>%s</B>!";  // 前回のガシャで<B>%s</B>と\nともだちになった！;
+"confirmgacharesult_03" = "%dy acquired!";                  // 前回のガシャで%dyを\n手に入れた！;
+
+"unionscene_01"			= "Fusion was successful!";          // 合成に成功しました;
+"unionscene_02_01"		= "That monster can't be fused,";    // 合成によって生成される妖怪の;
+"unionscene_02_02"		= "as its S-Move Level is already";   // わざレベルが最大のため;
+"unionscene_02_03"		= "at maximum.";                     // 合成できません。;
+"unionscene_03_01"		= "All";                             // すべて;
+"unionscene_03_02"		= "Yo-kai";                          // ようかい;
+"unionscene_03_03"		= "Items";                           // アイテム;
+"unionscene_04_01"		= "Item Description";                // アイテムせつめい;
+"unionscene_04_02"		= "Yo-kai Details";                  // 妖怪せつめい;
+"unionscene_05_01"		= "Place Yo-kai or items in the boxes"; // ようかいやどうぐを;
+"unionscene_05_02"		= "below to fuse them together!";    // 合成ボックスに入れて合成しよう！;
+"unionscene_06"         = "None Owned";                      // もっていません;
+"unionscene_07"         = "You made: <B>%s</B>!";            // なんと\n<B>%s</B>になった！;
+"unionscene_08"         = "Your selected Yo-kai cannot be fused."; // てもちの妖怪は合成できません。;
+"unionscene_09"         = "Currently Stealing Yo-kai\n are unable to join."; // よこどり中の妖怪は合成できません。;
+
+"uniondialog_01"        = "Unknown";                         // 不明;
+"uniondialog_02_01"     = "<R>%s</R> + <R>%s</R> ?"; // %sと%sを合成しますか？;
+"uniondialog_03_01"     = "First";                           // １つめ;
+"uniondialog_03_02"     = "Second";                          // ２つめ;
+"uniondialog_03_03"     = "Result";                          // けっか;
+"uniondialog_04"        = "Fuse?";                           // 合成しますか？;
+
+"serialcode_01"			= "Enter text here...";              // ここに入力;
+"serialcode_02"			= "Enter the code you got:";            // ひみつのワード入力;
+"serialcode_03"			= "Code:";        // ひみつのワードを入力してください;
+
+"onegai_01"				= "No Friends";                              // ともだちがいません;
+"onegai_02"		        = "You can both get a Spirit!";              // お互いにひとだま1コもらえるよ！;
+"onegai_03"			    = "Beg %s\nfor some Spirit?";                // %にひとだまをおねだりするメッセージを送りますか？;
+"onegaiview_01"         = "Spirit request sent to\n%s.";             // %sへおねだりメッセージを送りました;
+
+"rankingscoreachivement_01" = "Reward will increase\nwhen score reaches %d!";   // スコア%dたっせいで\nさらにごほうびアップ！;
+
+"pvscene_01"            = "Loading..."; // ローディング中;
+
+"qrcode_01"             = "Searching for QR code...";                                      // ＱＲコードをさがしています;
+"qrcode_02_01"          = "QR code detected.";                                             // ＱＲコードを　よみとりました;
+"qrcode_02_02"          = "Your device doesn't have\na camera that can read QR codes.";    // ＱＲコードをよみとれるカメラがありません;
+"qrcode_02_03"          = "That QR code can't be\nused in Yo-kai Watch\nWibble Wobble.";   // 正常に処理できませんでした。\n再度お試しください。;
+"qrcode_02_04"          = "Unable to read QR Code.\nPlease try again in a well-lit area."; // 正常に処理できませんでした。\n再度お試しください。;
+
+"qrinfo_01"				= "Your Info";         // じぶんのじょうほう;
+"qrinfo_02_01"			= "Medals Collected";  // とうろくしたメダルの数;
+"qrinfo_02_02"			= "Number\nCollected"; // とうろく数;
+"qrinfo_03_01"			= "Medal Points";      // てもちのメダルポイント;
+"qrinfo_03_02"			= "Medal";             // メダル;
+"qrinfo_03_03"			= "Points";            // ポイント;
+
+"missionreward_01_01"	= "New Item: %s";                                  // 新商品「%s」;
+"missionreward_01_02"	= "Remove Friend Limit";                           // ともだち人数上限開放;
+"missionreward_01_03"	= "Title: %s";                                     // よばれかた「%s」;
+"missionreward_02_01"	= "Remove Friend Limit";                           // ともだち人数上限開放;
+"missionreward_03_01"	= "%s x %d received!";                             // %sを%dコ手に入れた！;
+"missionreward_03_02"	= "You received %d Spirit Points!";                // ひとだまを%dコ手に入れた！;
+"missionreward_03_03"	= "You can now buy %s\nfrom the shop!";             // ショップに%sが追加された！;
+"missionreward_03_04"	= "You can now make friends\nwith %d more people!"; // ともだちにできる人数が%d人増えた！;
+"missionreward_03_05"	= "The "%s" icon\nhas been added!";                 // アイコン%sが追加された！;
+"missionreward_03_06"	= "The "%s" title\nis now available!";              // よばれかた「%s」が追加された！;
+"missionreward_03_07"	= "Obtained %d Medal Points!";                                              // メダルポイントを%dコ手に入れた！;
+"missionreward_04_01"	= "completed!";                                    // を達成しました！;
+
+"pointtradedialog_01"   = "All";                                // すべて;
+"pointtradedialog_02"   = "Item Details";                       // どうぐせつめい;
+"pointtradedialog_03"   = "Yo-kai Details";                     // 妖怪せつめい;
+"pointtradedialog_04"   = "You received %d Spirit Points!";     // ひとだまを%dコ手に入れた！;
+"pointtradedialog_05"   = "%d Y-money received!";               // Ｙマネーを%dｙ手に入れた！;
+"pointtradedialog_06"   = "%s x %d received!";                  // %sを%dコ手に入れた！;
+"pointtradedialog_07"   = "You can now have up to %d friends!"; // ともだちにできる人数が%d人増えた！;
+"pointtradedialog_08"   = "You can now buy %s\nfrom the shop!";  // ショップに%sが追加された！;
+"pointtradedialog_09"   = "The "%s" icon\nhas been added!";      // アイコン「%s」が追加された！;
+"pointtradedialog_10"   = "The "%s" title\nhas been added!";     // よばれかた「%s」が追加された！;
+"pointtradedialog_11"   = "Effect Details";			// こうかせつめい;
+"pointtradedialog_12"	= "Level up!";				// "レベルアップ！";
+"pointtradedialog_13"	= "Effect activated!";			// "こうかはつどう！";
+"pointtradedialog_14"	= "Obtained point effect!";		// "ポイントこうかがついた！";
+"pointtradedialog_15"	= "Point effect increased!";		// "ポイントこうかがあがった！";
+"pointtradedialog_16"	= "Obtained Helping Effect!";		// "おたすけのこうかがついた！";
+"pointtradedialog_17"	= "Helping Effect increased!";		// "おたすけのこうかがあがった！";
+"pointtradedialog_18"	= "%s number of victories";		// "%s優勝数";
+"pointtradedialog_19"	= "defeated time(s)";			// "にかった回数";
+
+"pointtradescene_01"    = "All";                                // すべて;
+"pointtradescene_02"    = "Item Details";                       // どうぐせつめい;
+"pointtradescene_03"    = "Yo-kai Details";                     // 妖怪せつめい;
+"pointtradescene_04"    = "You received %d Spirit Points!";     // ひとだまを%dコ手に入れた！;
+"pointtradescene_05"    = "%d Y-money received!";               // Ｙマネーを%dｙ手に入れた！;
+"pointtradescene_06"    = "%s x %d received!";                  // %sを%dコ手に入れた！;
+"pointtradescene_07"    = "You can now have up to %d friends!"; // ともだちにできる人数が%d人増えた！;
+"pointtradescene_08"    = "You can now buy %s\nfrom the shop!";  // ショップに%sが追加された！;
+"pointtradescene_09"    = "The "%s" icon\nhas been added!";      // アイコン「%s」が追加された！;
+"pointtradescene_10"    = "The "%s" title\nhas been added!";     // よばれかた「%s」が追加された！;
+
+"pointtradecell_01"     = "New Items";           // 新商品;
+"pointtradecell_02"     = "Remove Friend Limit"; // ともだち人数上限開放;
+"pointtradecell_03"     = "Icons";               // アイコン;
+"pointtradecell_04"     = "Titles";              // よばれかた;
+
+"pointtrademanager_01"    = "Medal Points Required";                  // ひつようなメダルポイント;
+"pointtrademanager_02"    = "Points Required";                        // ひつようなポイント;
+"pointtrademanager_03_01" = "You don't have enough";                  // こうかんするポイントが;
+"pointtrademanager_03_02" = "points to exchange!";                    // たりてないよ！;
+"pointtrademanager_04_01" = "Your S-Move level's already at maximum."; // スキルレベルが最大なので;
+"pointtrademanager_04_02" = "You can't make the exchange!";           // こうかんできないよ！;
+"pointtrademanager_05_01" = "You already have too many of these.";    // このアイテムが最大なので;
+"pointtrademanager_05_02" = "You can't make the exchange!";           // こうかんできないよ！;
+"pointtrademanager_06_01" = "Icons Collected";                        // もっている　アイコン;
+"pointtrademanager_06_02" = "You can't make the exchange!";           // なのでこうかんできないよ！;
+"pointtrademanager_07_01" = "Titles Collected";                       // もっている　よばれかた;
+"pointtrademanager_07_02" = "You can't make the exchange!";           // なのでこうかんできないよ！;
+"pointtrademanager_08"    = "That's already in the shop!";            // もうショップに追加されてるよ！;
+"pointtrademanager_09"    = "Confirm";                                // かくにん;
+"pointtrademanager_10"		= "Helping power needed";		// ひつようなおたすけパワー;
+"pointtrademanager_11"		= "Drive power";			// ドライブパワー;
+"pointtrademanager_12"		= "Drive power needed";			// ひつようなドライブパワー;
+"pointtrademanager_13"		= "Victories";				// たおしたかず;
+"pointtrademanager_14"		= "%s needed";				// ひつような%s;
+"pointtrademanager_15"		= "Defeated %s %d time(s) ";		// %sに%d回勝利で;
+"pointtrademanager_16"		= "to unlock this exchange";		// こうかん可能になるよ;
+"pointtrademanager_17_01"	= "You don't have enough";		// おたすけパワーが;
+"pointtrademanager_17_02"	= "Helping power";			// たりてないよ！;
+"pointtrademanager_18_01"	= "Drive power";			// ドライブパワー;
+"pointtrademanager_18_02"	= "You don't have enough %s";		// %sがたりてないよ！;
+"pointtrademanager_18_03"	= "!";
+
+"tradeconfirmdialog_01" = "Yo-kai Details";   // 妖怪せつめい;
+"tradeconfirmdialog_02" = "Item Details";     // どうぐせつめい;
+"tradeconfirmdialog_03" = "Exchange?";        // こうかんしますか？;
+"tradeconfirmdialog_04" = "Confirm";          // かくにん;
+"tradeconfirmdialog_05" = "Exchange failed."; // こうかんにしっぱいしました。;
+"tradeconfirmdialog_06" = "Do you want to use helping power?"; // おたすけパワーをつかいますか？;
+"tradeconfirmdialog_07" = "Effect Details";   // こうかせつめい;
+
+"qrcodescene_01"        = "Medal not found.";                                     // メダルが見つかりませんでした;
+"qrcodescene_02"        = "Another player has already\nadded that medal.";        // 他のユーザーが\n登録済みのメダルです。;
+"qrcodescene_03_01"     = "Another player has already";                           // 他のユーザーが;
+"qrcodescene_03_02"     = "added that medal.";                                    // 登録済みのメダルです。;
+"qrcodescene_04"        = "An error occurred.";                                   // エラーが発生しました;
+"qrcodescene_05"        = "Network Error";                                        // 通信エラー;
+"qrcodescene_06"        = "A network error has occurred.\nTry connecting again?"; // 通信エラーが発生しました\nもう一度通信を行いますか?;
+"qrcodescene_07"        = "Completed";                                             // せいこう;
+"qrcodescene_08"        = "Failed";                                                // しっぱい;
+"qrcodescene_09"        = "Cannot use camera";                                    // カメラを使用できません;
+"qrcodescene_10"        = "This medal is not supported.";                         // このメダルには対応していません;
+
+"itemiconinfownd_04"    = "No. Owned"; // もっているかず";
+
+"purchaseYmoney" = "You have unsent items.\nSend to the selected user?"; // 未配布の商品があります。\n選択中のユーザーに配布しますか？;
+"purchaseItem" = "You have unsent items.\nReturning to the title screen."; // 未配布の商品があります。\nタイトル画面に戻ります;
+
+"agecheckdialog_01"     = "To continue";                                   // 計算式入力;
+"agecheckdialog_02"     = "Please enter the answer";                       // 続けるには、;
+"agecheckdialog_03"     = " in order to continue.";                        // 計算の答えを入力してください。;
+"agecheckdialog_04"     = "That answer is incorrect. \nPlease try again."; // 計算が間違っています。\nもう一度入力してください。;
+
+"moneyconfirmdialog_01" = "Spend Y-Money"; // Yマネーを消費して;
+
+"shopscene_07"          = "You can't carry any more of these.\nYou'll have to use some before\nyou can buy any more!"; // これ以上持てないので\n使ってからまた買いにこよう！;
+
+"newmissionprocess_01_01" = "<R>New Mission</R>"; // <R>新しいミッション</R>が;
+"newmissionprocess_01_02" = "Was Added!";         // <R>追加</R>されました！;
+
+"noticeview_01_01" = "Don't display\nagain today."; // 今日は表示しない;
+"noticeview_01_02" = "Never display\nagain.";       // 以降表示しない;
+
+"kakao_link_01" = ""; // 妖怪ウォッチぷにぷにを一緒に遊ぼう！\n\nかんたんなパズルゲームだよ。\n\n▼ダウンロードはこちらから▼;
+"kakao_link_02" = ""; // KakaoTalkを\nインストールしてください。;
+
+"line_link_01" = ""; // (TW版専用) 妖怪ウォッチぷにぷにを一緒に遊ぼう！\n\nかんたんなパズルゲームだよ。\n\n▼ダウンロードはこちらから▼;
+"line_link_02" = ""; // (TW版専用) LINEを\nインストールしてください。;
+
+"login_stamp_01" = "Login Stamp Reward Day %d!"; // ログインスタンプ報酬！ <n>日目 Day <n>;
+"login_stamp_02" = "Login Stamps Not Open."; // ログインスタンプは現在開催されていません。;
+
+"loginstampdialog_01" = "You can get rewards from Stage 6"; // 報酬はステージ6からうけとれるよ;
+"loginstampdialog_02" =  "Rewards are sent to Inbox"; // ごほうびはゆうびんに届きます;
+"loginstampdialog_03" =  "Icon"; // アイコン;
+
+"applykuroonicp2scene_01" = ""; // 黒鬼呂布を仲間にしてもらえるメダルは;
+"applykuroonicp2scene_02" = ""; // 「黒鬼」メダル(Bメダル)です;
+"applykuroonicp2scene_03" = ""; // 「黒鬼呂布」メダルではありません;
+
+"bosstokioubaune_01" = "%s's levels were stolen!";                    // %sのレベルを奪われた！(TODO: 元は%s入ってないので注意);
+"bosstokioubaune_02" = "%s's levels were returned!";                    // %sのレベルが戻った！;
+
+"bosssubeteubaune_01" = "%s's power was stolen!"; // %sの力を奪われた！(TODO: 元は%s入ってないので注意);
+"bosssubeteubaune_02" = "All power has completely returned!"; // 全ての力が戻った！;
+"bosssubeteubaune_03" = "Power was returned!"; // 力が戻った;
+
+"puzzlehpatkmanager_01" = "Continue?"; // コンティニューしますか？;
+"puzzlehpatkmanager_02" = "Confirm";   // かくにん;
+
+"watchcreatewnd_01" = "Not enough items.";                     // 素材がたりません;
+"watchcreatewnd_02" = "If you collect all these items,\nyou can create a new watch!";      // 素材をぜんぶ　そろえるとウォッチをつくれるよ！;
+"watchcreatewnd_03" = "Items Required";                            // つかうアイテム;
+"watchcreatewnd_04" = "Watch Description";                        // ウォッチのせつめい;
+"watchcreatewnd_05" = "Mr. Goodsight";                            // チョーシ堂店主;
+"watchcreatewnd_06" = "Oh!?";                                      // おっ！？;
+"watchcreatewnd_07" = "You've collected\nall the items!\nPlease wait a moment."; // 素材が全部そろったんだね。\nすこし待っていなさい。;
+"watchcreatewnd_08" = "	%s\ncomplete!";                             // %sを\n手に入れた！;
+
+"watchscene_01" = "There are no watches you can create!";               // 今は　つくれるウォッチがないよ！;
+"watchscene_02" = "<R>Create</R> a watch and try it on!";  // ウォッチを<R>つくって</R>つけかえてみよう！;
+"watchscene_03" = "Watch List";                            // ウォッチ一覧;
+"watchscene_04" = "Watch Description";                     // ウォッチのせつめい;
+
+"watchcreateview_01" = "Yo-kai Watch";                // 妖怪ウォッチ;
+"watchcreateview_02" = "Create a watch";                // ウォッチをつくる;
+"watchcreateview_03" = "Result";                      // けっか;
+"watchcreateview_04" = "を素材をつかってつくりますか？";
+"watchcreateview_05" = "Use these items and create\nthe %s?"; // %sを素材をつかってつくりますか？(TODO: 元々は%sが入っていないので注意);
+
+"watchinfowidget_01" = "Rank"; // ランク;
+
+"watchnewitemview_01" = "A new watch";    // 新ウォッチが;
+"watchnewitemview_02" = "was added!"; // 追加されました！;
+
+"eventrankingwidget_01" = "Confirm"; // かくにん;
+
+"eventrankingview_01" = "Confirm";                 // かくにん;
+"eventrankingview_02" = "Item Already Received.";         // 既に受取済みです;
+"eventrankingview_03" = "This event has ended"; // イベントは終了しました;
+
+"expeditionconfimdialog_01" = "Confirm"; // かくにん;
+"expeditionconfimdialog_02" = "Send out to Steal?"; // よこどりに出発させますか？;
+"expeditionconfimdialog_03" = "Steal Members"; // よこどりメンバー;
+"expeditionconfimdialog_04" = "Steal Power and Steal Time are different."; // よこどり力とよこどり時間が違います。;
+"expeditionconfimdialog_05_01" = "Currently, there are no"; // 現在このよこどりステージは;
+"expeditionconfimdialog_05_02" = "Steal Stages available."; // 出現していません。;
+"expeditionconfimdialog_06_01" = "Unable to Steal. The Scramble Battle"; // よこどりが終わる前に争奪戦が;
+"expeditionconfimdialog_06_02" = "will end before you can return."; // 終わるため、出発できません。;
+"expeditionconfimdialog_07_01" = "This Steal Stage is already"; // このよこどりステージはすでに;
+"expeditionconfimdialog_07_02" = "being stolen from."; // よこどりへ出発しています。;
+"expeditionconfimdialog_08" = "Befriended Wib Wob are inside."; // てもちのぷにが入っています。;
+"expeditionconfimdialog_09_01" = "Other Wib Wob are inside that"; // 他のよこどりに出発している;
+"expeditionconfimdialog_09_02" = "are currently deployed."; // ぷにが入っています。;
+"expeditionconfimdialog_10" = "Unable to Steal."; // よこどりに行けませんでした。;
+
+"puzzlesangokumanager_01" = "Confirm"; // かくにん;
+"puzzlesangokumanager_02" = "Continue?"; // コンティニューしますか？;
+
+"sgsrewardview_01" = "Confirm";         // かくにん;
+"sgsrewardview_02" = "Already Claimed"; // 既に受取済みです;
+
+"sgsrewardwidget_01" = "Rewards"; // ごほうび;
+
+"sgsselectnorukasorukadialog_01" = "Who will you challenge?"; // どちらに いどむ？;
+
+"stealrewardreceiptdialog_01" = "Friend Cap Removed";                   // ともだち人数上限開放;
+"stealrewardreceiptdialog_02" = "New Items";                            // 新商品;
+"stealrewardreceiptdialog_03" = "Nickname";                             // よばれかた;
+"stealrewardreceiptdialog_04" = "Icon";                                 // アイコン;
+"stealrewardreceiptdialog_05_01" = "Items above the number you can";    // 所持上限に達したアイテムは;
+"stealrewardreceiptdialog_05_02" = "carry will be sent to your Inbox."; // ゆうびんに送られました;
+"stealrewardreceiptdialog_06" = "Acquired Rewards";                            // かくとくしたごほうび;
+"stealrewardreceiptdialog_07" = "Received All Rewards!";                 // ごほうびをまとめてうけとりました！;
+
+"rankingrewardcell_01" = "Spirit";             // ひとだま;
+"rankingrewardcell_02" = "New Items";          // 新商品;
+"rankingrewardcell_03" = "Icon";               // アイコン;
+"rankingrewardcell_04" = "Nickname";           // よばれかた;
+"rankingrewardcell_05" = "Friend Cap Removed"; // ともだち人数上限解放;
+
+"scoreattackitemselectwidget_01" = "New Items";          // 新商品;
+"scoreattackitemselectwidget_02" = "%s";                 // 「%s」;
+"scoreattackitemselectwidget_03" = "Friend Cap Removed"; // ともだち人数上限解放;
+"scoreattackitemselectwidget_04" = "Icon";               // アイコン;
+"scoreattackitemselectwidget_05" = "%s";                 // 「%s」;
+"scoreattackitemselectwidget_06" = "Nickname";           // よばれかた;
+"scoreattackitemselectwidget_07" = "%s";                 // 「%s」;
+"scoreattackitemselectwidget_08" = "Other";              // その他;
+"scoreattackitemselectwidget_09" = "Use items to get a better score!"; // どうぐを使うとハイスコアがでやすくなるよ;
+
+"puzzlescoreatkmanager_01" = "Continue?"; // コンティニューしますか？;
+
+"marblesresultpointsprite_01" = "No bonus.";  // ボーナスなし;
+
+"puzzleresultscoreatksprite_01" = "No bonus."; // ボーナスなし;
+
+"mapstartprocess_01" = "%s unlocked!"; // %sが開放されました。;
+"mapstartprocess_02" = "Open Hidden Route"; // かくしルート開放;
+"mapstartprocess_03" = "A hidden route has been opened!"; // かくされたルートが開放された！;
+"mapstartprocess_04" = "Open Secret Route"; // うらルート開放;
+"mapstartprocess_05" = "Map Unlocked"; // マップ開放;
+"mapstartprocess_06" = "You are now able to proceed\nto the next map!"; // つぎへいけるようになった！;
+"mapstartprocess_07" = "Acquired Rewards"; // かくとくしたごほうび;
+"mapstartprocess_08" = "Rewards have been delivered to\nyour inbox!"; // ごほうびをゆうびんにとどけました！;
+"mapstartprocess_09" = "There are Battle results \nyou haven't seen yet. \nWould you like to see?"; // "確認していないよこどりバトルの\n結果があります\n確認しますか";
+
+"stealmanager_01" = "Stealing has finished!"; // よこどりが終わったよ！;
+
+"stealmemberwidget_01" = "Steal Members"; // よこどり中のメンバー;
+
+"yw3dialog_01_01" = ""; // トムニャン出現;
+"yw3dialog_01_02" = ""; // トムニャンがうたいながら;
+"yw3dialog_01_03" = ""; // あらわれた！;
+"yw3dialog_02_01" = ""; // トムニャン逃亡;
+"yw3dialog_02_02" = ""; // トムニャンはうたいながら;
+"yw3dialog_02_03" = ""; // どこかへ行ってしまった・・・;
+"yw3dialog_02_04" = ""; // 次に会うときはHPがすこし回復しているよ！;
+"yw3dialog_03"    = ""; // トムニャンバトル;
+
+"yw3dialog_04"    = "%s appear"; // %s出現;
+"yw3dialog_05"    = "%s appeared!"; // %sがあらわれた！;
+"yw3dialog_06"    = "%s escape"; // %s逃亡;
+"yw3dialog_07"    = "Where did %s go…"; // %sはどこかへ\n行ってしまった・・・;
+"yw3dialog_08"    = "HP will be slightly healed the next time you meet!"; // 次に会うときはHPがすこし回復しているよ！;
+"yw3dialog_09"    = "%s Battle"; // %sバトル;
+"yw3dialog_10"    = ""; // "トムニャンがいないよ。\nステージをクリアすると\nトムニャンが出現するかもしれない。";
+"yw3dialog_11"    = ""; // "トムニャンは\nすでにともだちが\nたおしていた。";
+
+"yw3stagedetailview_01" = "Effect"; // はつどうこうか;
+"yw3stagedetailview_02" = "None"; // なし;
+"yw3stagedetailview_03" = "Point"; // ポイント;
+"yw3stagedetailview_04" = "Damage"; // ダメージ;
+"yw3stagedetailview_05" = "Speed"; // スピード;
+"yw3stagedetailview_06" = "You need 5 Yo-kai or more."; // てもちの妖怪が5体未満です。;
+
+"sgsrankingwidget_01" = "Team"; // チーム;
+"sgsrankingwidget_02" = "Ranking"; // ランキング;
+"sgsrankingwidget_03" = "%sTeam"; // %sチーム;
+"sgsrankingwidget_04" = "Contribution\nPoint"; // 貢献度;
+"sgsrankingwidget_05" = "Friends"; // ともだち;
+"sgsrankingwidget_06" = "Bony Spirits"; // 元祖;
+"sgsrankingwidget_07" = "Fleshy Souls"; // 本家;
+"sgsrankingwidget_08" = "Psychic Specters"; // 真打;
+"sgsrankingwidget_09" = "Contribution Points earned will"; // 今回獲得した貢献度は;
+"sgsrankingwidget_10" = "be reset before the next match."; // 次回争奪戦でリセットされます;
+
+"stealresultdialog_01_01" = "Steal Power"; // に対してよこどり力;
+"stealresultdialog_01_02" = "Move out!"; // 発動!;
+"stealresultdialog_02_01" = "Tips to raise your Steal Power"; // よこどり力をあげるヒント;
+"stealresultdialog_02_02" = "① Raise Attack"; // ①こうげきをあげる;
+"stealresultdialog_02_03" = "→ Steal More"; // →数多くよこどり;
+"stealresultdialog_02_04" = "② Raise HP"; // ②ＨＰをあげる;
+"stealresultdialog_02_05" = "→ Shorten Steal Time"; // →よこどり時間を短縮;
+
+"stealrankingrewarddialog_01" = "Team"; // チーム;
+"stealrankingrewarddialog_02" = "Ranking"; // ランキング;
+"stealrankingrewarddialog_03" = "%s"; // %sチーム内;
+"stealrankingrewarddialog_04" = "Team Ranking"; // ランキング;
+
+"stealfinishprocess_01" = ""; // まんじゅう争奪戦では失敗しない;
+
+"stealflashreportview_01" = "Rank Up!"; // ランクアップ!;
+"stealflashreportview_02" = "%s"; // %sが;
+"stealflashreportview_03" = "Acquired!"; // 獲得！;
+"stealflashreportview_04" = "Acquired!"; // 獲得！;
+"stealflashreportview_05" = "Rank %s"; // %s位;
+"stealflashreportview_06" = "Major Jackpot"; // 大当たり;
+
+"rankingrewarddialog_01_01" = "Rankings are updated";    // 毎週月曜日にランキングが;
+"rankingrewarddialog_01_02" = "every Monday, so check";  // 決まって;
+"rankingrewarddialog_01_03" = "your inbox for rewards!"; // ごほうびがもらえるよ!;
+"rankingrewarddialog_03" = "Friend";                   // ともだち;
+"rankingrewarddialog_04" = "Rankings";                  // ランキング;
+"rankingrewarddialog_05" = "All";                      // ぜんたい;
+"rankingrewarddialog_05_01" = "Rankings";                  // ランキング;
+"rankingrewarddialog_06" = "Score";                    // たっせいスコア;
+"rankingrewarddialog_07" = "Bonus";                    // ボーナス;
+
+"scoreatk_week_result_00"   = "%d friends participated\nin Score Attack."; // スコアアタック参加\nともだち<R>%d人</R>中;
+"scoreatk_week_result_01"   = "Score Attack Perticipated"; // スコアアタック参加;
+"scoreatk_week_result_02"   = "Within <R>%d</R> friends";  // ともだち<R>%d人</R>中;
+"scoreatk_week_result_03"   = "Rewards are sent to Inbox"; // ごほうびはゆうびんに届きます;
+"scoreatk_week_result_04"   = "None";                      // なし;
+
+"purchase_DisablePurchaseForDevice_message_IOS"         = "アプリ内課金の設定が\n無効になっています"; // アプリ内課金の設定が\n無効になっています;
+"purchase_DisablePurchaseForDevice_message_Android"     = "アプリ内課金が使用できません\nGoogle Playのバージョンを\n確認してください"; // アプリ内課金が使用できません\nGoogle Playのバージョンを\n確認してください;
+
+"scoreatk_week_ranking_whisper_01"  = "You're losing to\n%s!";                                       // %sに\n負けていますよ！;
+"scoreatk_week_ranking_whisper_02"  = "You're ranked 1 for now,\nbut be careful\nnot to fall in the rankings!";                     // 今は１位ですが抜かれないように\n気をつけましょう！;
+"scoreatk_week_ranking_whisper_03"  = "The more friends you have,\nthe better your rewards,";    // おともだちがいると\nごほうびがアップするので;
+"scoreatk_week_ranking_whisper_04"  = "so invite your friends!";                                 // おともだちを作りましょう！;
+
+"teamevent_state01_01"  = "The match has ended!"; // 対戦が終了しました！;
+"teamevent_state01_02"  = "The results are still being calculated,"; // 対戦の結果を集計中だから;
+"teamevent_state01_03"  = "please wait a little bit longer!"; // もう少しまっててね！;
+"teamevent_state02_01"  = "Please wait until the next match!"; // 次の対戦が始まるまで待ってね！;
+"teamevent_state03_01"  = "The event has ended!"; // イベントは終了しました！;
+"teamevent_state03_02"  = "Please look forward to\nthe next event!"; // 次のイベントを楽しみにしててね！;
+
+"marbles_deck_textname" = "Order"; // じゅんばん;
+"marbles_pause_retry1"  = "Stop playing"; // おはじきを;
+"marbles_pause_retry2"  = "Slingshot Battle?"; // 途中でやめますか？;
+
+"sgsteamselectdialog_01" = "Choose your team!"; // 参加するチームをえらんでね;
+"sgsteamselectdialog_02" = "Join this team?"; // このチームに参加しますか？;
+"sgsteamselectdialog_03" = "You can't change teams"; // つぎの対戦まで;
+"sgsteamselectdialog_04" = "until the next match!"; // チームを変えることはできないよ！;
+
+"enemyinfowidget_01" = "Register"; // とうろく;
+"enemyinfowidget_02" = "None"; // なし;
+
+"eventbtntappedprocess_01" = "The event has finished."; // イベントは終了しました。;
+
+"mypuniscene_01" = "Yo-kai Description";        // Yo-kai Description;
+"mypuniscene_02" = "Editable Wib Wob";          // Editable Wib Wob;
+"mypuniscene_03_01" = "Take a photo to create"; // Take a photo to create;
+"mypuniscene_03_02" = "your own Wib Wob!";      // your own Wib Wob!;
+"mypuniscene_04" = "Mimicked a new Wib Wob!";   // Mimicked a new Wib Wob!;
+
+"mypunilistscene_01" = "Edit Wib Wob";           // Edit Wib Wob;
+"mypunilistscene_02" = "Data has been Deleted!"; // Data has been Deleted!;
+"mypunilistscene_03" = "Data Delete Failed!";    // Data Delete Failed!;
+
+"mypuniframeview_01" = "Current Face Frame";     // Current Face Frame;
+"mypuniframeview_02" = "Select a Face Frame";    // Select a Face Frame;
+
+"mypunicameradialog_01" = "Review Wib Wob";      // Review Wib Wob;
+"mypunicameradialog_02" = "Save this Wib Wob?";  // Save this Wib Wob?;
+"mypunicameradialog_03" = "Use Slider to adjust brightness."; // Use Slider to adjust brightness.;
+
+"mypunidetaildialog_01" = "Photo Check";               // Photo Check;
+"mypunidetaildialog_02" = "Edit Wib Wob Confirmation"; // Edit Wib Wob Confirmation;
+"mypunidetaildialog_03" = "Mimic this Wib Wob?";       // Mimic this Wib Wob?;
+
+"mypunichangedialog_01" = "Edit Wib Wob Confirmation"; // Edit Wib Wob Confirmation;
+"mypunichangedialog_02_01" = "Stop mimicking";         // Stop mimicking;
+"mypunichangedialog_02_02" = "this Wib Wob?";          // this Wib Wob?;
+
+"mypunicamera_01" = "Align the Face Frame!";           // Align the Face Frame!;
+
+"mypunideletedialog_01" = "Delete";                    // Delete;
+"mypunideletedialog_02" = "Delete this Wib Wob?";      // Delete this Wib Wob?;
+
+"mypunimenu_01" = "Mimikin"; // Mimikin;
+
+"menucommon_01_21" = "Wib Wob Me"; // Wib Wob Me;
+"menucommon_02_13" = "Mimikin";    // Mimikin;
+
+"mypunierrordialog_00" = "Edit Wib Wob Confirmation";
+"mypunierrordialog_01" = "Please Take again";
+"mypunierrordialog_02" = "Fail to take a photo";
+
+"tutorial_menu_mypuni_01" = "Wib Wob Me let's you \ncustomize your very own \nWib Wob for Mimikin to mimic!";   // Wib Wob Me let's you \ncustomize your very own \nWib Wob for Mimikin to mimic!;
+"tutorial_menu_mypuni_02" = "After creating a Wib Wob,\nset Mimikin to your Current \nYo-kai and try a stage!"; // After creating a Wib Wob,\nset Mimikin to your Current \nYo-kai and try a stage!;
+
+"rewardreceiptalldialog_01"  = "Items above the number you can";       // 所持上限に達したアイテムは;
+"rewardreceiptalldialog_02"  = "will be sent to your Inbox";    // ゆうびんに送られました;
+"rewardreceiptalldialog_03"     = "Claim All";                            // まとめてうけとる;
+"rewardreceiptalldialog_04"     = "All rewards claimed!";                 // ごほうびをまとめてうけとりました！;
+"rewardreceiptalldialog_05" = "Acquired Rewards"; // かくとくしたごほうび;
+"rewardreceiptalldialog_06" = "Received All Rewards!"; // ごほうびをまとめてうけとりました！;
+
+"bossgarakutarian_01" = "Pop a Yo-kai Wib Wob\nlarger than size"; // サイズ以上の妖怪ぷにをあてろ！;
+
+"eventhelpconfirmdialog_01" = "Confirm"; // かくにん;
+"eventhelpconfirmdialog_02" = "Help this friend?"; // このともだちをたすけにいきますか？;
+"eventhelpconfirmdialog_03" = "Opponent"; // たたかうあいて;
+"eventhelpconfirmdialog_04" = "You need 5 Yo-kai or more."; // "てもちの妖怪が5体未満です。";
+
+"stop_rare_task1" = "There is a chance that"; // お題ウルトラバトルから;
+"stop_rare_task2" = "the Question Ultra Battle may change"; // 通常バトルに変わる場合が;
+"stop_rare_task3" = "to a normal battle, proceed?"; // ありますがやり直しますか？;
+
+"play_error_for_forbidden_dialog_title" = "Clear the play conditions."; // プレイ条件をクリアしてね; "Clear the objectives.";
+"play_error_for_forbidden_on_kind_dialog_title" = "A prohibited Yo-kai tribe is\ncurrently on your team!"; // 禁止されているしゅぞくが\nてもちに含まれているよ！;
+
+"gachabutton_01" = "You don't have enough <R>Spirit</R>!"; // 必要な<R>鬼玉</R>が足りないよ！;
+
+"itemtradeview_01" = "Individual"; // こべつ;
+"itemtradeview_02" = "Rewards"; // ごほうび;
+"itemtradeview_03" = "All"; // ぜんたい;
+"itemtradeview_04" = "Rewards"; // ごほうび;
+
+"driveresetprocess_01" = "If you return to the start,"; // 出発点にもどると;
+"driveresetprocess_02" = "race progress will be reset."; // 進行中のレースがリセットされます;
+"driveresetprocess_03" = "Are you sure you want to return?"; // ほんとうにもどりますか？;
+
+"eventeffectwidget_01" = "Active Effect"; // はつどうこうか;
+"eventeffectwidget_02" = "None"; // なし;
+"eventeffectwidget_03" = "Points"; // ポイント;
+"eventeffectwidget_04" = "Active"; // はつどう中;
+
+"dreamchargeview_01" = "Boosted chance of hitting"; // 次にまわすとき;
+"dreamchargeview_02" = "the jack pot bonus"; // 超当たり;
+"dreamchargeview_03" = "on your next spin!"; // かくりつアップ！;
+
+"youkaistatuswidget_01" = "None"; // なし;
+
+"puzzletaskuiresultsubwidget_01"	= "No bonus."; // ボーナスなし;
+
+"puzzleresulttournamentsprite_01"	= "No bonus"; // "ボーナスなし";
+
+"selectstealplayerdialog_01"		= "No partner found"; // 相手がみつかりません;
+"selectstealplayerdialog_02"		= "You need 5 Yo-kai or more."; // てもちの妖怪が5体未満です。;
+
+"tournamentstagedetailview_01"		= "You need 5 Yo-kai or more."; // "てもちの妖怪が5体未満です。";
+"tournamentstagedetailview_02"		= "None"; // "なし";
+
+"livemessagedialog_01"			= "????????"; // "？？？？？？？？";
+"livemessagedialog_02"			= "No message."; // "メッセージはありません。";
+"livemessagedialog_03"			= "Unread from here"; // "ここから未読だよ";
+
+"tournamentview_01"			= "Acquired Rewards"; // "かくとくしたごほうび";
+"tournamentview_02"			= "Received All Rewards!"; // "ごほうびをゆうびんにとどけました！";
+
+"stealbattleview_01"			= "[Treasure Name]"; // 【お宝名】;
+"stealbattleview_02"			= "You snatched %s's\n<R>%s</R>!"; // %sの\n<R>%s</R>をよこどりした！;
+"stealbattleview_03"			= "You were unable to snatch %s's\n<R>%s</R>!"; // %sの\n<R>%s</R>を\nよこどりできなかった…;
+
+"stealplayerdetaildialog_01"		= "%s's\n<R>%s</R> was gone"; // %sの\n<R>%s</R>が\nなくなっていました;
+"stealplayerdetaildialog_02"		= "Will you try to snatch?"; // よこどりにチャレンジしますか？;
+"stealplayerdetaildialog_03"		= "Your members"; // あなたのメンバー;
+"stealplayerdetaildialog_04"		= "Your opponent's members"; // あいてのメンバー;
+"stealplayerdetaildialog_05"		= "You don't have <R>%s</R>. \nWill you purchase it?"; // <R>%s</R>がありません。\n購入しますか？;
+"stealplayerdetaildialog_06"		= "You don't have <R>%s</R>."; // <R>%s</R>がありません。;
+"stealplayerdetaildialog_07"		= "You purchased"; // を購入しました。;
+"stealplayerdetaildialog_08"		= "You failed to snatch"; // よこどりに失敗しました;
+
+"marblesarea_01"			= "Evaluation %s (%d/%d)"; // 評価 %s (%d/%d);
+
+"bossinjaneno_01"			= "%s was caught!"; // %sは捕まった！;
+"bossinjaneno_02"			= "%s came back!"; // %sが戻ってきた！;
+
+"eventhelpfrienddialog_01"		= "Help friends"; // "ともだちをたすける";
+"eventhelpfrienddialog_02"		= "Help friends and get Helping Power!"; // "ともだちをたすけて　おたすけパワーをゲット！";
+"eventhelpfrienddialog_03"		= "No friends are battling %s"; // "%sとたたかっているともだちがいません";
+"eventhelpfrienddialog_04"		= "No friends are battling"; // "たたかっているともだちがいません";
+"eventhelpfrienddialog_05"		= "!"; // "！";

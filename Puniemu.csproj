@@ -11,21 +11,36 @@
     <PackageReference Include="Supabase" Version="1.1.1" />
     <PackageReference Include="System.IO.Hashing" Version="8.0.0" />
   </ItemGroup>
-    
-	<ItemGroup>
-       <EmbeddedResource Include="Resources\*.txt" />
-    </ItemGroup>
-    
-	<ItemGroup>
-	  <Compile Remove="Src\Server\GameServer\Requests\GameEnd\**" />
-	  <Content Remove="Src\Server\GameServer\Requests\GameEnd\**" />
-	  <EmbeddedResource Remove="Src\Server\GameServer\Requests\GameEnd\**" />
-	  <None Remove="Src\Server\GameServer\Requests\GameEnd\**" />
-	</ItemGroup>
-    
-	<ItemGroup>
-	  <Folder Include="Database\" />
-	</ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\*.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Src\Server\GameServer\Requests\GameEnd\**" />
+    <Content Remove="Src\Server\GameServer\Requests\GameEnd\**" />
+    <EmbeddedResource Remove="Src\Server\GameServer\Requests\GameEnd\**" />
+    <None Remove="Src\Server\GameServer\Requests\GameEnd\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Database\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Database\schema.sql">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="dataDownload\**\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
   <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
 
 </Project>

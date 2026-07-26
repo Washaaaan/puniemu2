@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Test</key>
+	<dict>
+		<key>pz_ef_gauge_meter05_skill01_loop</key>
+		<string>image/puzzle/pz_ef_gauge_meter05_skill01_loop.dat</string>
+		<key>union</key>
+		<string>image/union/union_ef_main01.dat</string>
+		<key>waterfall</key>
+		<string>image/puzzle/ef_pz_ba_11.dat</string>
+		<key>synthesis</key>
+		<string>test/result_ui_evolution06/result_ui_evolution06.dat</string>
+		<key>fire</key>
+		<string>test/skill_159000_d.dat</string>
+	</dict>
+	<key>Battle</key>
+	<dict>
+		<key>Skill</key>
+		<dict/>
+		<key>Other</key>
+		<dict>
+			<key>skill_a_157000_00</key>
+			<string>test/0311/skill_a_157000_00.dat</string>
+			<key>skill_a_157000_b</key>
+			<string>test/0311/skill_a_157000_b.dat</string>
+			<key>skill_a_157000_01_3_b</key>
+			<string>test/0311/skill_a_157000_01_3_b.dat</string>
+			<key>ef_pz_ba_11</key>
+			<string>test/0311/ef_pz_ba_11.dat</string>
+			<key>yw_ef_pz_ta_da</key>
+			<string>test/yw_ef_pz_ta_da.dat</string>
+			<key>yw_ef_pz_puyo_s</key>
+			<string>test/yw_ef_pz_puyo_s.dat</string>
+			<key>dat_test01</key>
+			<string>test/dat_test01.dat</string>
+		</dict>
+	</dict>
+	<key>UI</key>
+	<dict/>
+	<key>Map</key>
+	<dict/>
+</dict>
+</plist>
