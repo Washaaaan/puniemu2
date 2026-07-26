@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Puniemu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8455e9730a407f6fa9d8b33538b9c481dd2ea54e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f828a17e7ffcfe7fc0823a24b1604d9bead6e02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Puniemu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Puniemu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
