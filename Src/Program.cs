@@ -122,7 +122,7 @@ class Program
 
         //Serve the data download straight from this server so imgServer needs no extra port.
         //Files are looked up by bare filename, which makes the <version>/<date>/ path irrelevant.
-        var dataDownloadRoot = app.Configuration["DataDownloadRoot"];
+        var dataDownloadRoot = "dataDownload";
         if (!string.IsNullOrWhiteSpace(dataDownloadRoot) && Directory.Exists(dataDownloadRoot))
         {
             var dataDownloadIndex = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
