@@ -19,6 +19,11 @@ namespace Puniemu.Src.UserDataManager.Logic
             public TableNotFoundException() : base() { }
         }
 
+        public class ServerFullException : Exception
+        {
+            public ServerFullException() : base("Server is full.") { }
+        }
+
         public static Supabase.Client? SupabaseClient;
 
         private static ConcurrentDictionary<string, Account> _accountCache = new();

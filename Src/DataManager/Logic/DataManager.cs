@@ -27,6 +27,10 @@ namespace Puniemu.Src.DataManager.Logic
         //Specifies if the current run is meant for WibWob or Puni
         public static bool IsWibWob { get; set; }
 
+        public static int MaxConnections { get; set; }
+        
+        public static int MaxCachedAccounts {get ; set;}
+
         //is the data download built in?
         public static void StaticInit(IConfiguration config)
         {
@@ -36,6 +40,8 @@ namespace Puniemu.Src.DataManager.Logic
             ServerName = config["ServerName"];
             EmailForAuthMessages = config["EmailForAuthMessages"];
             AppPasswordForAuthMessages = config["AppPasswordForAuthMessages"];
+            MaxConnections = int.TryParse(config["MaxConnections"], out var maxConnections) ? maxConnections : 1500;
+            MaxCachedAccounts = int.TryParse(config["MaxCachedAccounts"], out var maxCachedAccounts) ? maxCachedAccounts : 2000;
             if (bool.TryParse(config["IsWibWob"], out bool isWib))
             {
                 IsWibWob = isWib;
