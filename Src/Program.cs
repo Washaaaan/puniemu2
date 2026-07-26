@@ -67,12 +67,17 @@ using Puniemu.Src.Server.GameServer.Requests.EvolveYoukai.Logic;
 namespace Puniemu.Src;
 class Program
 {
-    static async Task Main(string[] args)
+    static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
 
         //Add the config to DataManager so it can be used globally
         DataManager.Logic.DataManager.StaticInit(builder.Configuration);
+
+        builder.WebHost.ConfigureKestrel(options =>
+        {
+            options.Limits.MaxConcurrentConnections = DataManager.Logic.DataManager.MaxConnections;
+        });
 
         var app = builder.Build();
         //Rewrite to redirect mainly all .NHN requests to .NHN/, as ASP.NET Core thinks it's static serving otherwise or something 
@@ -84,8 +89,26 @@ class Program
 
         app.UseRewriter(rewriteOptions);
 
+        //Refuse new players while the account cache is at capacity
+        app.Use(async (ctx, next) =>
+        {
+            try
+            {
+                await next();
+            }
+            catch (UserDataManager.Logic.UserDataManager.ServerFullException)
+            {
+                if (!ctx.Response.HasStarted)
+                {
+                    ctx.Response.StatusCode = 503;
+                    var serverFullMsg = new Src.Server.GameServer.DataClasses.MsgBoxResponse("The server is full.\nPlease try again later.", "Busy");
+                    await ctx.Response.WriteAsync(NHNCrypt.Logic.NHNCrypt.EncryptResponse(JsonConvert.SerializeObject(serverFullMsg)));
+                }
+            }
+        });
+
         //Init database connection
-        await UserDataManager.Logic.UserDataManager.Initialize();
+        UserDataManager.Logic.UserDataManager.Initialize();
 
         //Add shutdown async from userdatadb
         app.Lifetime.ApplicationStopping.Register(() =>
@@ -152,7 +175,6 @@ class Program
         AssignDefault(app);
         app.Run();
     }
-    
 
     static void AssignL5IDHandlers(WebApplication app)
     {
