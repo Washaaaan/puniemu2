@@ -4,6 +4,7 @@ using Puniemu.Src.Utils.GeneralUtils;
 using Puniemu.Src.Server.GameServer.DataClasses;
 using Puniemu.Src.Server.GameServer.Requests.GetMaster.DataClasses;
 using System.Buffers;
+using System.Linq;
 using System.Collections.Concurrent;
 namespace Puniemu.Src.Server.GameServer.Requests.GetMaster.Logic
 {
@@ -80,6 +81,15 @@ namespace Puniemu.Src.Server.GameServer.Requests.GetMaster.Logic
                 else
                 {
                     Console.WriteLine("warn not foudn : " + tblName);
+                    Console.WriteLine($"[MASTER DEBUG] tblName length: {tblName.Length}, bytes: {BitConverter.ToString(Encoding.UTF8.GetBytes(tblName))}");
+                    Console.WriteLine($"[MASTER DEBUG] Total cache keys: {DataManager.Logic.DataManager.GameDataManager!.GamedataCache.Count}");
+                    var similar = DataManager.Logic.DataManager.GameDataManager.GamedataCache.Keys
+                        .Where(k => k.Contains(tblName.Substring(0, Math.Min(8, tblName.Length))))
+                        .Take(5);
+                    foreach (var s in similar)
+                    {
+                        Console.WriteLine($"[MASTER DEBUG] similar key found: '{s}' (length {s.Length}, bytes: {BitConverter.ToString(Encoding.UTF8.GetBytes(s))})");
+                    }
                 }
             }
             var outResponse = NHNCrypt.Logic.NHNCrypt.EncryptResponse(JsonConvert.SerializeObject(MasterDataJson));

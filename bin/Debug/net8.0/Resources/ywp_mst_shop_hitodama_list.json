@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "bonusCnt": 5,
+            "description": "33% Bonus",
+            "goodsId": 1002,
+            "limitCnt": 1,
+            "name": "20",
+            "price": 3000,
+            "salePeriodNo": 0,
+            "sellCnt": 15,
+            "sort": 2
+        },
+        {
+            "bonusCnt": 0,
+            "description": "",
+            "goodsId": 1001,
+            "limitCnt": 1,
+            "name": "5",
+            "price": 1000,
+            "salePeriodNo": 0,
+            "sellCnt": 5,
+            "sort": 1
+        },
+        {
+            "bonusCnt": 20,
+            "description": "66% Bonus",
+            "goodsId": 1003,
+            "limitCnt": 1,
+            "name": "50",
+            "price": 6000,
+            "salePeriodNo": 0,
+            "sellCnt": 30,
+            "sort": 3
+        }
+    ],
+    "version": 8
+}
