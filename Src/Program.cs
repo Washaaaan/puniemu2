@@ -64,7 +64,9 @@ using Puniemu.Src.Server.CustomAuth.Requests.Link.Logic;
 using Puniemu.Src.Server.GameServer.Requests.SerialConfirm.Logic;
 using Puniemu.Src.Server.GameServer.Requests.ReleaseYoukai.Logic;
 using Puniemu.Src.Server.GameServer.Requests.EvolveYoukai.Logic;
+
 namespace Puniemu.Src;
+
 class Program
 {
     static void Main(string[] args)
@@ -80,12 +82,12 @@ class Program
         });
 
         var app = builder.Build();
+
         //Rewrite to redirect mainly all .NHN requests to .NHN/, as ASP.NET Core thinks it's static serving otherwise or something 
         //second rewrite is in case it's for example /////////////////////init.nhn it makes it /init.nhn
         var rewriteOptions = new RewriteOptions()
            .AddRewrite(@"^/+(.+)$", "/$1", skipRemainingRules: false)
            .AddRewrite(@"^(.+\.nhn)$", "$1/", skipRemainingRules: false);
-
 
         app.UseRewriter(rewriteOptions);
 
@@ -173,6 +175,7 @@ class Program
         {
             Console.WriteLine($"[STARTUP DEBUG] dataDownload folder NOT FOUND at: {Path.GetFullPath("dataDownload")}");
         }
+
         //Assign handlers
         AssignCustomAuthHandlers(app);
         AssignL5IDHandlers(app);
@@ -215,7 +218,6 @@ class Program
             await InitAccountActionHandler.HandleAsync(ctx, false);
         });
     }
-
 
     static void AssignGameServerHandlers(WebApplication app)
     {
@@ -481,13 +483,26 @@ class Program
         });
     }
 
-    //Assigns all other, unknown request paths
+    //Assigns all other, unknown request paths (like /hsp, /hsp/launching, etc.)
     static void AssignDefault(WebApplication app)
     {
         app.MapFallback(async context =>
         {
-            await DefaultHandler.HandleAsync(context);
+            var jsonPath = Path.Combine(Directory.GetCurrentDirectory(), "launchingInfo.json");
+            if (File.Exists(jsonPath))
+            {
+                var jsonText = await File.ReadAllTextAsync(jsonPath);
+                
+                // Limpia saltos de línea extra o espacios que dañan la sintaxis del JSON
+                jsonText = jsonText.Trim(); 
+                
+                context.Response.ContentType = "application/json; charset=utf-8";
+                await context.Response.WriteAsync(jsonText);
+            }
+            else
+            {
+                await DefaultHandler.HandleAsync(context);
+            }
         });
     }
-
 }
