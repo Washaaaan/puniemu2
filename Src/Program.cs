@@ -488,21 +488,7 @@ class Program
     {
         app.MapFallback(async context =>
         {
-            var jsonPath = Path.Combine(Directory.GetCurrentDirectory(), "launchingInfo.json");
-            if (File.Exists(jsonPath))
-            {
-                var jsonText = await File.ReadAllTextAsync(jsonPath);
-                
-                // Limpia saltos de línea extra o espacios que dañan la sintaxis del JSON
-                jsonText = jsonText.Trim(); 
-                
-                context.Response.ContentType = "application/json; charset=utf-8";
-                await context.Response.WriteAsync(jsonText);
-            }
-            else
-            {
-                await DefaultHandler.HandleAsync(context);
-            }
+            await DefaultHandler.HandleAsync(context);
         });
     }
 }
