@@ -183,6 +183,7 @@ namespace Puniemu.Src.UserDataManager.Logic
             {
                 Gdkey = Guid.NewGuid().ToString(),
                 YwpUserTables = new(),
+                OpeningTutorialFlag = true,
                 LastLoginTime = "",
                 CharacterId = fc,
                 UserId = System.IO.Hashing.Crc32.HashToUInt32(System.Text.Encoding.UTF8.GetBytes(fc)).ToString()
